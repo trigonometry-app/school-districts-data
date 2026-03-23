@@ -1,0 +1,83 @@
+import { mkdir, writeFile } from "node:fs/promises";
+import path from "node:path";
+
+import { districtApps, districtNews, schoolApps } from "school-districts";
+import { loadDistrictAlerts } from "./sources/flashalert.js";
+import { loadMenus } from "./sources/menus.js";
+import { loadSubs, supportsSubs } from "./sources/subs.js";
+import { loadWeather } from "./sources/weather.js";
+
+const DATA_DIR = path.join(process.cwd(), "data");
+
+const sanitizePathSegment = (value) => value.replaceAll("/", " - ");
+
+const writeJson = async (filePath, data) => {
+  await mkdir(path.dirname(filePath), { recursive: true });
+  await writeFile(filePath, `${JSON.stringify(data, null, 2)}\n`);
+};
+
+const getAppBase = (apps, appName) =>
+  apps.find((app) => app.app === appName).base;
+
+const updateDistrict = async (domain) => {
+  const districtFile = path.join(
+    DATA_DIR,
+    "districts",
+    `${sanitizePathSegment(domain)}.json`,
+  );
+  const news = districtNews[domain];
+
+  const alerts =
+    news.type === "flashalert" ? await loadDistrictAlerts(news) : [];
+
+  await writeJson(districtFile, {
+    alerts,
+  });
+
+  console.log(`Wrote district data for ${domain} (${alerts.length} alerts)`);
+};
+
+const updateSchool = async (domain, school, apps) => {
+  const schoolFile = path.join(
+    DATA_DIR,
+    "schools",
+    sanitizePathSegment(domain),
+    `${sanitizePathSegment(school)}.json`,
+  );
+
+  const forecastBase = getAppBase(apps, "NWS");
+  const districtMealBase = getAppBase(districtApps[domain], "My School Menus");
+  const schoolMealBase = getAppBase(apps, "My School Menus");
+  const synergyBase = getAppBase(districtApps[domain], "Synergy");
+
+  const weather = await loadWeather(forecastBase);
+  const menus = await loadMenus({
+    districtBase: districtMealBase,
+    schoolBase: schoolMealBase,
+  });
+  const subs = await loadSubs({ synergyBase, school });
+
+  await writeJson(schoolFile, {
+    weather,
+    menus,
+    subs,
+  });
+
+  console.log(
+    `Wrote school data for ${domain}/${school} (${Object.keys(weather).length} weather, ${Object.keys(menus).length} menus, ${subs.length} subs)`,
+  );
+};
+
+for (const domain of Object.keys(schoolApps).sort((a, b) =>
+  a.localeCompare(b),
+)) {
+  await updateDistrict(domain);
+
+  for (const school of Object.keys(schoolApps[domain]).sort((a, b) =>
+    a.localeCompare(b),
+  )) {
+    await updateSchool(domain, school, schoolApps[domain][school]);
+  }
+}
+
+console.log("Finished.");

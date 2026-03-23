@@ -1,0 +1,13 @@
+{
+  "name": "school-districts-data",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "update-data": "node src/update.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.3",
+    "school-districts": "^6.0.0"
+  }
+}
