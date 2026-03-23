@@ -1,0 +1,1399 @@
+{
+  "weather": {
+    "2026-03-23": "Partly sunny. High near 52, with temperatures falling to around 50 in the afternoon.",
+    "2026-03-24": "Rain. Cloudy, with a high near 52. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
+    "2026-03-25": "Rain before 11am, then showers and thunderstorms between 11am and 5pm, then rain likely. Mostly cloudy, with a high near 51. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "2026-03-26": "A chance of rain before 5pm. Mostly sunny, with a high near 53.",
+    "2026-03-27": "Sunny, with a high near 56.",
+    "2026-03-28": "Partly sunny, with a high near 58.",
+    "2026-03-29": "A chance of rain. Mostly cloudy, with a high near 56."
+  },
+  "menus": {
+    "SAS and ILAB BREAKFAST": {
+      "2026-03-02": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Assorted Fruit Cup",
+          "Cereal Variety",
+          "Fasting Breakfast Pack K-12",
+          "Mini French Toast",
+          "Powdered Mini Donut Holes",
+          "Waffles, Strawberry or Maple"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-03": {
+        "Breakfast Entree": [
+          "Apple",
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "English Muffin Omelet Sandwich",
+          "Fasting Breakfast Pack K-12",
+          "Peanut Butter & Jelly Uncrustable Sandwich"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-04": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "Eggo Mini Confetti Pancakes",
+          "Fasting Breakfast Pack K-12",
+          "Fruit Cup",
+          "Mini Bagel, Mini Cinni or Apple Frudel"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-05": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Breakfast Pizza",
+          "Cereal Variety",
+          "Fasting Breakfast Pack K-12",
+          "Fresh Orange",
+          "Sliced Bread Variety"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-06": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "Fasting Breakfast Pack K-12",
+          "Fruit Cup",
+          "Puffed Pancake Bites",
+          "Twin Cinnamon Rolls"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-09": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Assorted Fruit Cup",
+          "Cereal Variety",
+          "Fasting Breakfast Pack K-12",
+          "Mini French Toast",
+          "Powdered Mini Donut Holes",
+          "Waffles, Strawberry or Maple"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-10": {
+        "Breakfast Entree": [
+          "Apple",
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "English Muffin Omelet Sandwich",
+          "Fasting Breakfast Pack K-12",
+          "Peanut Butter & Jelly Uncrustable Sandwich"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-11": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "Eggo Mini Confetti Pancakes",
+          "Fasting Breakfast Pack K-12",
+          "Fruit Cup",
+          "Mini Bagel, Mini Cinni or Apple Frudel"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-12": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Breakfast Pizza",
+          "Cereal Variety",
+          "Fasting Breakfast Pack K-12",
+          "Fresh Orange",
+          "Sliced Bread Variety"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-13": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "Fasting Breakfast Pack K-12",
+          "Fruit Cup",
+          "Puffed Pancake Bites",
+          "Twin Cinnamon Rolls"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-16": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Assorted Fruit Cup",
+          "Cereal Variety",
+          "Fasting Breakfast Pack K-12",
+          "Mini French Toast",
+          "Powdered Mini Donut Holes",
+          "Waffles, Strawberry or Maple"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-17": {
+        "Breakfast Entree": [
+          "Apple",
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "English Muffin Omelet Sandwich",
+          "Fasting Breakfast Pack K-12",
+          "Peanut Butter & Jelly Uncrustable Sandwich"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-18": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "Eggo Mini Confetti Pancakes",
+          "Fasting Breakfast Pack K-12",
+          "Fruit Cup",
+          "Mini Bagel, Mini Cinni or Apple Frudel"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-19": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Breakfast Pizza",
+          "Cereal Variety",
+          "Fasting Breakfast Pack K-12",
+          "Fresh Orange",
+          "Sliced Bread Variety"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-20": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "Fruit Cup",
+          "Puffed Pancake Bites",
+          "Twin Cinnamon Rolls"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-23": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Assorted Fruit Cup",
+          "Cereal Variety",
+          "Mini French Toast",
+          "Powdered Mini Donut Holes",
+          "Waffles, Strawberry or Maple"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-24": {
+        "Breakfast Entree": [
+          "Apple",
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "English Muffin Omelet Sandwich",
+          "Peanut Butter & Jelly Uncrustable Sandwich"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-25": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "Eggo Mini Confetti Pancakes",
+          "Fruit Cup",
+          "Mini Bagel, Mini Cinni or Apple Frudel"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-26": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Breakfast Pizza",
+          "Cereal Variety",
+          "Fresh Orange",
+          "Sliced Bread Variety"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-27": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "Fruit Cup",
+          "Puffed Pancake Bites",
+          "Twin Cinnamon Rolls"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-30": {
+        "Breakfast Entree": [
+          "Applesauce Cups, Flavored",
+          "Assorted Fruit Cup",
+          "Cereal Variety",
+          "Mini French Toast",
+          "Powdered Mini Donut Holes",
+          "Waffles, Strawberry or Maple"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      },
+      "2026-03-31": {
+        "Breakfast Entree": [
+          "Apple",
+          "Applesauce Cups, Flavored",
+          "Cereal Variety",
+          "Peanut Butter & Jelly Uncrustable Sandwich"
+        ],
+        "Fruit": [
+          "Apple Juice",
+          "Fruit Punch"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ]
+      }
+    },
+    "SAS and ILAB Lunch": {
+      "2026-03-02": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Canned Sliced Pears",
+          "Dried Cranberries",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Italian Turkey Deli Sandwich",
+          "Vegan Spicy Hummus Wrap",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Cheeseburger",
+          "Tater Tots",
+          "Vegan Chicken Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Off-Site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Four Cheese Pizza"
+        ],
+        "Specials": [
+          "Potato Soup with Cheese Ripper"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Coleslaw",
+          "Green Peas",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-03": {
+        "Fruit": [
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fresh Orange",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Spicy Chicken Wrap",
+          "Vegan Thai Noodle Salad",
+          "Yogurt Parfait with Blueberries and Mini Muffin"
+        ],
+        "Grill": [
+          "Corn Dog",
+          "Spicy Chicken Burger",
+          "Tater Tots",
+          "Vegan Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing",
+          "Sliced Jalapenos"
+        ],
+        "Off-Site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Bacon Ranch Pizza"
+        ],
+        "Specials": [
+          "Cheese Nachos",
+          "Refried Beans",
+          "Turkey or Chicken Nachos with Cheese"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Pickled Onions",
+          "Pico de Gallo",
+          "Salsa",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-04": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fruit Punch",
+          "Peach Cup"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Italian Turkey Wrap",
+          "Vegan Spicy Red Pepper Hummus Pack",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Golden Crispy Chicken Burger",
+          "Tater Tots",
+          "Vegan Chicken Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Off-Site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Spicy Veggie Pizza"
+        ],
+        "Special": [
+          "Chicken Enchiladas with Fajita Veggies"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Broccoli Salad",
+          "Green Peas",
+          "Salad Mix"
+        ]
+      },
+      "2026-03-05": {
+        "Fruit": [
+          "Apple Juice",
+          "Canned Pears",
+          "Dried Cranberries",
+          "Fresh Orange",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Turkey BLT Deli Sandwich",
+          "Vegan Mexican Bean Salad",
+          "Yogurt Parfait with Blueberries and Mini Muffin"
+        ],
+        "Grill": [
+          "Cheeseburger",
+          "Tater Tots",
+          "Vegan Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Off-Site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Buffalo Chicken Pizza"
+        ],
+        "Specials": [
+          "Orange Chicken Chow Mein Noodle Bowl",
+          "Orange Chicken Rice Bowl",
+          "Steamed Broccoli"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Cilantro Slaw",
+          "Corn",
+          "Cucumbers"
+        ]
+      },
+      "2026-03-06": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fruit Punch",
+          "Peach Cup"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Turkey Ham & Cheese Sandwich",
+          "Vegan Satay Pinwheel",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Chicken Tenders with Pretzel Bites",
+          "Tater Tots",
+          "Vegan Chicken Burger",
+          "Wild Alaska Fish Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing",
+          "Tartar Sauce"
+        ],
+        "Off-Site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Four Cheese Pizza"
+        ],
+        "Special": [
+          "Jerk Chicken  White Rice and Mango Salsa"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Baked BBQ Beans",
+          "Pickled Onions",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-09": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Canned Sliced Pears",
+          "Dried Cranberries",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Italian Turkey Deli Sandwich",
+          "Vegan Spicy Hummus Wrap",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Cheeseburger",
+          "Tater Tots",
+          "Vegan Chicken Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Off-Site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Four Cheese Pizza"
+        ],
+        "Specials": [
+          "Chicken Tortilla Soup"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Coleslaw",
+          "Green Peas",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-10": {
+        "Fruit": [
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fresh Orange",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Spicy Chicken Wrap",
+          "Vegan Thai Noodle Salad",
+          "Yogurt Parfait with Blueberries and Mini Muffin"
+        ],
+        "Grill": [
+          "Corn Dog",
+          "Spicy Chicken Burger",
+          "Tater Tots",
+          "Vegan Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing",
+          "Sliced Jalapenos"
+        ],
+        "Off-Site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Bacon Ranch Pizza"
+        ],
+        "Specials": [
+          "Cheese Nachos",
+          "Refried Beans",
+          "Turkey or Chicken Nachos with Cheese"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Pickled Onions",
+          "Pico de Gallo",
+          "Salsa",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-11": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fruit Punch",
+          "Peach Cup"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Italian Turkey Wrap",
+          "Vegan Spicy Red Pepper Hummus Pack",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Golden Crispy Chicken Burger",
+          "Tater Tots",
+          "Vegan Chicken Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Off-Site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Spicy Veggie Pizza"
+        ],
+        "Special": [
+          "Beef Chili with Cornbread"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Broccoli Salad",
+          "Green Peas",
+          "Salad Mix"
+        ]
+      },
+      "2026-03-12": {
+        "Fruit": [
+          "Apple Juice",
+          "Canned Pears",
+          "Dried Cranberries",
+          "Fresh Orange",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Turkey BLT Deli Sandwich",
+          "Vegan Mexican Bean Salad",
+          "Yogurt Parfait with Blueberries and Mini Muffin"
+        ],
+        "Grill": [
+          "Cheeseburger",
+          "Tater Tots",
+          "Vegan Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Off-Site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Buffalo Chicken Pizza"
+        ],
+        "Specials": [
+          "Orange Chicken Chow Mein Noodle Bowl",
+          "Orange Chicken Rice Bowl",
+          "Steamed Broccoli"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Cilantro Slaw",
+          "Corn",
+          "Cucumbers"
+        ]
+      },
+      "2026-03-13": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fruit Punch",
+          "Peach Cup"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Turkey Ham & Cheese Sandwich",
+          "Vegan Satay Pinwheel",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Chicken Tenders with Pretzel Bites",
+          "Tater Tots",
+          "Vegan Chicken Burger",
+          "Wild Alaska Fish Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing",
+          "Tartar Sauce"
+        ],
+        "Off-Site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Four Cheese Pizza"
+        ],
+        "Specials": [
+          "Feijoada with White Rice"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Baked BBQ Beans",
+          "Pickled Onions",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-16": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Canned Sliced Pears",
+          "Dried Cranberries",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Italian Turkey Deli Sandwich",
+          "Vegan Spicy Hummus Wrap",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Cheeseburger",
+          "Tater Tots",
+          "Vegan Chicken Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Off-site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Four Cheese Pizza"
+        ],
+        "Special": [
+          "Chicken and Waffles"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Coleslaw",
+          "Green Peas",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-17": {
+        "Fruit": [
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fresh Orange",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Spicy Chicken Wrap",
+          "Vegan Thai Noodle Salad",
+          "Yogurt Parfait with Blueberries and Mini Muffin"
+        ],
+        "Grill": [
+          "Corn Dog",
+          "Spicy Chicken Burger",
+          "Tater Tots",
+          "Vegan Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing",
+          "Sliced Jalapenos"
+        ],
+        "Off-site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Bacon Ranch Pizza"
+        ],
+        "Special": [
+          "Cheese Nachos",
+          "Refried Beans",
+          "Turkey or Chicken Nachos with Cheese"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Pickled Onions",
+          "Pico de Gallo",
+          "Salsa",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-18": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fruit Punch",
+          "Peach Cup"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Italian Turkey Wrap",
+          "Vegan Spicy Red Pepper Hummus Pack",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Golden Crispy Chicken Burger",
+          "Tater Tots",
+          "Vegan Chicken Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Off-site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Spicy Veggie Pizza"
+        ],
+        "Special": [
+          "Baked Potato with Cheesy Broccoli and Roll"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Broccoli Salad",
+          "Green Peas",
+          "Salad Mix"
+        ]
+      },
+      "2026-03-19": {
+        "Fruit": [
+          "Apple Juice",
+          "Canned Pears",
+          "Dried Cranberries",
+          "Fresh Orange",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Turkey BLT Deli Sandwich",
+          "Vegan Mexican Bean Salad",
+          "Yogurt Parfait with Blueberries and Mini Muffin"
+        ],
+        "Grill": [
+          "Cheeseburger",
+          "Tater Tots",
+          "Vegan Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Off-site Meal Pack": [
+          "Fasting Lunch Pack 9-12"
+        ],
+        "Pizza": [
+          "Buffalo Chicken Pizza"
+        ],
+        "Special": [
+          "Orange Chicken Chow Mein Noodle Bowl",
+          "Orange Chicken Rice Bowl",
+          "Steamed Broccoli"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Cilantro Slaw",
+          "Corn",
+          "Cucumbers"
+        ]
+      },
+      "2026-03-20": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fruit Punch",
+          "Peach Cup"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Turkey Ham & Cheese Sandwich",
+          "Vegan Satay Pinwheel",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Chicken Tenders with Pretzel Bites",
+          "Tater Tots",
+          "Vegan Chicken Burger",
+          "Wild Alaska Fish Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing",
+          "Tartar Sauce"
+        ],
+        "Pizza": [
+          "Four Cheese Pizza"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Baked BBQ Beans",
+          "Pickled Onions",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-23": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Canned Sliced Pears",
+          "Dried Cranberries",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Italian Turkey Deli Sandwich",
+          "Vegan Spicy Hummus Wrap",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Cheeseburger",
+          "Tater Tots",
+          "Vegan Chicken Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Pizza": [
+          "Four Cheese Pizza"
+        ],
+        "Specials": [
+          "Tomato Soup with Cheezy Breadstick"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Coleslaw",
+          "Green Peas",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-24": {
+        "Fruit": [
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fresh Orange",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Spicy Chicken Wrap",
+          "Vegan Thai Noodle Salad",
+          "Yogurt Parfait with Blueberries and Mini Muffin"
+        ],
+        "Grill": [
+          "Corn Dog",
+          "Spicy Chicken Burger",
+          "Tater Tots",
+          "Vegan Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing",
+          "Sliced Jalapenos"
+        ],
+        "Pizza": [
+          "Bacon Ranch Pizza"
+        ],
+        "Specials": [
+          "Cheese Nachos",
+          "Refried Beans",
+          "Turkey or Chicken Nachos with Cheese"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Pickled Onions",
+          "Pico de Gallo",
+          "Salsa",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-25": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fruit Punch",
+          "Peach Cup"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Italian Turkey Wrap",
+          "Vegan Spicy Red Pepper Hummus Pack",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Golden Crispy Chicken Burger",
+          "Tater Tots",
+          "Vegan Chicken Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Pizza": [
+          "Spicy Veggie Pizza"
+        ],
+        "Special": [
+          "Bean and Cheese Burrito with Cheese Sauce and Veggies"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Broccoli Salad",
+          "Green Peas",
+          "Salad Mix"
+        ]
+      },
+      "2026-03-26": {
+        "Fruit": [
+          "Apple Juice",
+          "Canned Pears",
+          "Dried Cranberries",
+          "Fresh Orange",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Turkey BLT Deli Sandwich",
+          "Vegan Mexican Bean Salad",
+          "Yogurt Parfait with Blueberries and Mini Muffin"
+        ],
+        "Grill": [
+          "Cheeseburger",
+          "Tater Tots",
+          "Vegan Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Pizza": [
+          "Buffalo Chicken Pizza"
+        ],
+        "Specials": [
+          "Orange Chicken Chow Mein Noodle Bowl",
+          "Orange Chicken Rice Bowl",
+          "Steamed Broccoli"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Cilantro Slaw",
+          "Corn",
+          "Cucumbers"
+        ]
+      },
+      "2026-03-27": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fruit Punch",
+          "Peach Cup"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Turkey Ham & Cheese Sandwich",
+          "Vegan Satay Pinwheel",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Chicken Tenders with Pretzel Bites",
+          "Tater Tots",
+          "Vegan Chicken Burger",
+          "Wild Alaska Fish Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing",
+          "Tartar Sauce"
+        ],
+        "Pizza": [
+          "Four Cheese Pizza"
+        ],
+        "Special": [
+          "Jerk Chicken  White Rice and Mango Salsa"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Baked BBQ Beans",
+          "Pickled Onions",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-30": {
+        "Fruit": [
+          "Apple",
+          "Apple Juice",
+          "Canned Sliced Pears",
+          "Dried Cranberries",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Italian Turkey Deli Sandwich",
+          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
+        ],
+        "Grill": [
+          "Cheeseburger",
+          "Tater Tots",
+          "Vegan Chicken Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing"
+        ],
+        "Pizza": [
+          "Four Cheese Pizza"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Shredded Lettuce"
+        ]
+      },
+      "2026-03-31": {
+        "Fruit": [
+          "Apple Juice",
+          "Dried Cranberries",
+          "Fresh Orange",
+          "Fruit Punch"
+        ],
+        "Grab and Go": [
+          "Chicken Caesar Salad with Roll",
+          "Vegan Thai Noodle Salad",
+          "Yogurt Parfait with Blueberries and Mini Muffin"
+        ],
+        "Grill": [
+          "Corn Dog",
+          "Spicy Chicken Burger",
+          "Tater Tots",
+          "Vegan Burger"
+        ],
+        "Milk": [
+          "1% White Milk",
+          "Non Fat White Milk"
+        ],
+        "Misc.": [
+          "Ketchup",
+          "Mustard",
+          "NSD Burger Sauce",
+          "Ranch Dressing",
+          "Sliced Jalapenos"
+        ],
+        "Specials": [
+          "Cheese Nachos",
+          "Refried Beans",
+          "Turkey or Chicken Nachos with Cheese"
+        ],
+        "Vegetables": [
+          "Baby Carrots",
+          "Pickled Onions",
+          "Pico de Gallo",
+          "Salsa",
+          "Shredded Lettuce"
+        ]
+      }
+    }
+  },
+  "subs": []
+}
