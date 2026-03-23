@@ -9,3127 +9,3183 @@
     "2026-03-29": "A chance of rain. Mostly cloudy, with a high near 62."
   },
   "menus": {
-    "2025-2026 High School Breakfast": {
-      "2026-03-02": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Cereal Variety",
-          "English Muffin Omelet Sandwich",
-          "Fasting Breakfast Pack K-12",
-          "Mini Cinnamon Rolls",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Sliced Bread Variety",
-          "Turkey Ham & Cheese on Hawaiian Bun",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
+    "1% White Milk": {
+      "2025-2026 High School Breakfast": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-03-03": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fasting Breakfast Pack K-12",
-          "Mini French Toast",
-          "Monte Cristo Sandwich with Potato Smiles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-04": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Blueberry Smoothie",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Scrambled Eggs with Potato Smiles",
-          "Sliced Bread Variety",
-          "Spicy Cheese Calzone",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-05": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fasting Breakfast Pack K-12",
-          "Mini Cinnamon Rolls",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety",
-          "Vegan Bac'n Bean Taco with Potato Smiles"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Strawberries"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-06": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Cheesy Sausage Biscuit",
-          "Fasting Breakfast Pack K-12",
-          "Mini Blueberry Waffles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Sliced Bread Variety",
-          "Twin Cinnamon Rolls",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-09": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Cereal Variety",
-          "English Muffin Omelet Sandwich",
-          "Fasting Breakfast Pack K-12",
-          "Mini Cinnamon Rolls",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Sliced Bread Variety",
-          "Turkey Ham & Cheese on Hawaiian Bun",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-10": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fasting Breakfast Pack K-12",
-          "Mini French Toast",
-          "Monte Cristo Sandwich with Potato Smiles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-11": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Blueberry Smoothie",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Scrambled Eggs with Potato Smiles",
-          "Sliced Bread Variety",
-          "Spicy Cheese Calzone",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-12": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fasting Breakfast Pack K-12",
-          "Mini Cinnamon Rolls",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety",
-          "Vegan Bac'n Bean Taco with Potato Smiles"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Strawberries"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-13": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Cheesy Sausage Biscuit",
-          "Fasting Breakfast Pack K-12",
-          "Mini Blueberry Waffles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Sliced Bread Variety",
-          "Twin Cinnamon Rolls",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-16": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Cereal Variety",
-          "English Muffin Omelet Sandwich",
-          "Fasting Breakfast Pack K-12",
-          "Mini Cinnamon Rolls",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Sliced Bread Variety",
-          "Turkey Ham & Cheese on Hawaiian Bun",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk",
-          "Vanilla Iced Latte"
-        ]
-      },
-      "2026-03-17": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fasting Breakfast Pack K-12",
-          "Mini French Toast",
-          "Monte Cristo Sandwich with Potato Smiles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-18": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Blueberry Smoothie",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Scrambled Eggs with Potato Smiles",
-          "Sliced Bread Variety",
-          "Spicy Cheese Calzone",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-19": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fasting Breakfast Pack K-12",
-          "Mini Cinnamon Rolls",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety",
-          "Vegan Bac'n Bean Taco with Potato Smiles"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Strawberries"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-20": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Cheesy Sausage Biscuit",
-          "Mini Blueberry Waffles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Sliced Bread Variety",
-          "Twin Cinnamon Rolls",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-23": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Cereal Variety",
-          "English Muffin Omelet Sandwich",
-          "Mini Cinnamon Rolls",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Sliced Bread Variety",
-          "Turkey Ham & Cheese on Hawaiian Bun",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk",
-          "Vanilla Iced Latte"
-        ]
-      },
-      "2026-03-24": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Mini French Toast",
-          "Mini Sausage Calzone",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-25": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Blueberry Smoothie",
-          "Cereal Variety",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Scrambled Eggs with Potato Smiles",
-          "Sliced Bread Variety",
-          "Spicy Cheese Calzone",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-26": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Mini Cinnamon Rolls",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety",
-          "Vegan Bac'n Bean Taco with Potato Smiles"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Strawberries"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-27": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Cheesy Sausage Biscuit",
-          "Mini Blueberry Waffles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Sliced Bread Variety",
-          "Twin Cinnamon Rolls",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-30": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Cheese English Muffin Sandwich",
-          "Mini Cinnamon Rolls",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Pancake & Sausage Breakfast Stick",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Raspberry Smoothie",
-          "Sliced Bread Variety",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk",
-          "Vanilla Iced Latte"
-        ]
-      },
-      "2026-03-31": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Mini French Toast",
-          "Monte Cristo Sandwich with Potato Smiles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-01": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Breakfast Cheese Nachos",
-          "Cereal Variety",
-          "Cheeseburger",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Raspberry Smoothie",
-          "Sliced Bread Variety",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-02": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Mini Cinnamon Rolls",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety",
-          "Vegan Bac'n Bean Taco with Potato Smiles"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Strawberries"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-03": {
-        "Breakfast Entree": [
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Ham, Egg & Cheese Bun",
-          "Mini Blueberry Waffles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Raspberry Smoothie",
-          "Sliced Bread Variety",
-          "Twin Cinnamon Rolls",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-13": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Cheese English Muffin Sandwich",
-          "Mini Cinnamon Rolls",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Pancake & Sausage Breakfast Stick",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Raspberry Smoothie",
-          "Sliced Bread Variety",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk",
-          "Vanilla Iced Latte"
-        ]
-      },
-      "2026-04-14": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Mini French Toast",
-          "Mini Sausage Calzone",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-15": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Cereal Variety",
-          "Egg & Waffle Sandwich",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Raspberry Smoothie",
-          "Sliced Bread Variety",
-          "Turkey Ham & Cheese on Hawaiian Bun",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-16": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Mini Cinnamon Rolls",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety",
-          "Vegan Bac'n Bean Taco with Potato Smiles"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Strawberries"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-17": {
-        "Breakfast Entree": [
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Ham, Egg & Cheese Bun",
-          "Mini Blueberry Waffles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Raspberry Smoothie",
-          "Sliced Bread Variety",
-          "Twin Cinnamon Rolls",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-20": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Cheese English Muffin Sandwich",
-          "Mini Cinnamon Rolls",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Pancake & Sausage Breakfast Stick",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Raspberry Smoothie",
-          "Sliced Bread Variety",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk",
-          "Vanilla Iced Latte"
-        ]
-      },
-      "2026-04-21": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Mini French Toast",
-          "Monte Cristo Sandwich with Potato Smiles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-22": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Cereal Variety",
-          "Egg & Waffle Sandwich",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Raspberry Smoothie",
-          "Sliced Bread Variety",
-          "Turkey Ham & Cheese on Hawaiian Bun",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-23": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Mini Cinnamon Rolls",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety",
-          "Vegan Bac'n Bean Taco with Potato Smiles"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Strawberries"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-24": {
-        "Breakfast Entree": [
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Ham, Egg & Cheese Bun",
-          "Mini Blueberry Waffles",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Raspberry Smoothie",
-          "Sliced Bread Variety",
-          "Twin Cinnamon Rolls",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-27": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Cheese English Muffin Sandwich",
-          "Mini Cinnamon Rolls",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Pancake & Sausage Breakfast Stick",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Raspberry Smoothie",
-          "Sliced Bread Variety",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk",
-          "Vanilla Iced Latte"
-        ]
-      },
-      "2026-04-28": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Mini French Toast",
-          "Mini Sausage Calzone",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-29": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Cereal Variety",
-          "Egg & Waffle Sandwich",
-          "Muffin Top and String Cheese",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Puffed Pancake Bites",
-          "Raspberry Smoothie",
-          "Sliced Bread Variety",
-          "Turkey Ham & Cheese on Hawaiian Bun",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Applesauce Cups, Flavored",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-30": {
-        "Breakfast Entree": [
-          "Apple Topping Cobbler",
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Mini Cinnamon Rolls",
-          "Muffin Variety",
-          "Peanut Butter & Jelly Uncrustable Sandwich",
-          "Powdered Mini Donut Holes",
-          "Sliced Bread Variety",
-          "Vegan Bac'n Bean Taco with Potato Smiles"
-        ],
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Strawberries"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
+      "2025-2026 High School Lunch": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       }
     },
-    "2025-2026 High School Lunch": {
-      "2026-03-02": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey Ham & Cheese Wrap",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Potato Soup with Cheese Ripper",
-          "Tomato Soup with Cheezy Breadstick"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Green Peas",
-          "Shredded Lettuce"
+    "Apple": {
+      "2025-2026 High School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
         ]
       },
-      "2026-03-03": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Spicy Chicken Wrap",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Mexican Bean Salad",
-          "Vegan Thai Noodle Salad",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Bacon Ranch Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Apple Juice": {
+      "2025-2026 High School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-03-04": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Pepperoni Pizza",
-          "Spicy Veggie Pizza"
-        ],
-        "Specials": [
-          "Bean and Cheese Burrito with Cheese Sauce and Veggies",
-          "Chicken Enchiladas with Fajita Veggies"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli Salad",
-          "Green Peas",
-          "Salad Mix"
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Apple Strudel": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Apple Topping Cobbler": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Applesauce Cups, Flavored": {
+      "2025-2026 High School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Applesauce Cups, Variety": {
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Assorted Fruit Cup": {
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Baby Carrots": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Bacon Ranch Pizza": {
+      "2025-2026 High School Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24"
+        ]
+      }
+    },
+    "Baked BBQ Beans": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27"
+        ]
+      }
+    },
+    "Baked Potato with Cheesy Broccoli and Roll": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-18"
+        ]
+      }
+    },
+    "Banana": {
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-16"
+        ]
+      }
+    },
+    "BBQ Chicken Pizza": {
+      "2025-2026 High School Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-03-02",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Bean and Cheese Burrito with Cheese Sauce and Veggies": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-04",
+          "2026-03-25",
+          "2026-04-03"
+        ]
+      }
+    },
+    "Beef Chili with Cornbread": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-11"
+        ]
+      }
+    },
+    "Black Bean and Cheese Empanada": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-09"
+        ]
+      }
+    },
+    "Blueberry Smoothie": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Breakfast Cheese Nachos": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-04-01"
+        ]
+      }
+    },
+    "Breakfast Chicken and Waffle": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Breakfast Pizza": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-06",
+          "2026-03-10",
+          "2026-03-13",
+          "2026-03-17",
+          "2026-03-20",
+          "2026-03-24",
+          "2026-03-27",
+          "2026-03-31",
+          "2026-04-03",
+          "2026-04-14",
+          "2026-04-17",
+          "2026-04-21",
+          "2026-04-24",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Broccoli": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Broccoli Salad": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
+        ]
+      }
+    },
+    "Caesar Dressed Romaine": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Canned Diced Peaches": {
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Canned Pears": {
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26"
+        ]
+      }
+    },
+    "Canned Sliced Pears": {
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Cereal Variety": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Cheese Nachos": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Cheeseburger": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-04-01"
         ]
       },
-      "2026-03-05": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Pears",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey BLT Deli Sandwich",
-          "Turkey Ham & Cheese Wrap",
-          "Vegan Mexican Bean Salad",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Hawaiian Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Meatless Chicken Nugget Chow Mein Noodle Bowl",
-          "Meatless Chicken Nugget Rice Bowl with Sweet & Sour Sauce",
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      "2025-2026 High School Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Cheesy Sausage Biscuit": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27"
+        ]
+      }
+    },
+    "Chef Salad with Roll": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Chicken and Waffles": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-16",
+          "2026-04-13"
+        ]
+      }
+    },
+    "Chicken Buffalo Totchos with Garlic Bread": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-01",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Chicken Caesar Salad with Roll": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Chicken Caesar Salad Wrap": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Chicken Egg Roll and Fried Rice": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-20"
+        ]
+      }
+    },
+    "Chicken Enchiladas with Fajita Veggies": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-04",
+          "2026-03-25"
+        ]
+      }
+    },
+    "Chicken Tenders with Pretzel Bites": {
+      "2025-2026 High School Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Chicken Tortilla Soup": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-09"
+        ]
+      }
+    },
+    "Cilantro Slaw": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Coleslaw": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23"
+        ]
+      }
+    },
+    "Corn": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-13",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Cucumbers": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-03-30",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-20",
+          "2026-04-23",
+          "2026-04-27",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Dried Cranberries": {
+      "2025-2026 High School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-03-06": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Spicy Chicken Wrap",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Satay Pinwheel"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Jerk Chicken  White Rice and Mango Salsa",
-          "Jerk Tofu  White Rice and Mango Salsa"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Edamame": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Egg & Cheese English Muffin Sandwich": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Egg & Waffle Sandwich": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Eggo Mini Confetti Pancakes": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "English Muffin Omelet Sandwich": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23"
+        ]
+      }
+    },
+    "Fasting Breakfast Pack K-12": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19"
+        ]
+      }
+    },
+    "Fasting Lunch Pack 9-12": {
+      "2025-2026 High School Lunch": {
+        "category": "Off Site Meal Pack",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19"
+        ]
+      }
+    },
+    "Feijoada with White Rice": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-13",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Four Cheese Pizza": {
+      "2025-2026 High School Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Fresh Orange": {
+      "2025-2026 High School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-24",
+          "2026-04-27"
         ]
       },
-      "2026-03-09": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey Ham & Cheese Wrap",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Spicy Hummus Wrap"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Black Bean and Cheese Empanada",
-          "Chicken Tortilla Soup"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Green Peas",
-          "Shredded Lettuce"
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Fruit Punch": {
+      "2025-2026 High School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-03-10": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Spicy Chicken Wrap",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Mexican Bean Salad",
-          "Vegan Thai Noodle Salad",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Bacon Ranch Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Golden Crispy Chicken Burger": {
+      "2025-2026 High School Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Green Peas": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Ham, Egg & Cheese Bun": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Hawaiian Pizza": {
+      "2025-2026 High School Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Italian Turkey Deli Sandwich": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Italian Turkey Wrap": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
+        ]
+      }
+    },
+    "Jerk Chicken  White Rice and Mango Salsa": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-06",
+          "2026-03-27",
+          "2026-04-17"
+        ]
+      }
+    },
+    "Jerk Tofu  White Rice and Mango Salsa": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-06",
+          "2026-03-27",
+          "2026-04-17"
+        ]
+      }
+    },
+    "Jerk Tofu Wrap": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22"
+        ]
+      }
+    },
+    "Ketchup": {
+      "2025-2026 High School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Korean BBQ Pork Rice Bowl": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-30",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Korean BBQ Tofu Rice Bowl": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-30",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Korean BBQ Tofu Wrap": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Local Salmon Chowder with Dinner Roll": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-18"
+        ]
+      }
+    },
+    "Macaroni and Cheese with Roll": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-13",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Meatless Chicken Buffalo Totchos with Roll": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-01",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Meatless Chicken Nugget Chow Mein Noodle Bowl": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26"
+        ]
+      }
+    },
+    "Meatless Chicken Nugget Rice Bowl with Sweet & Sour Sauce": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26"
+        ]
+      }
+    },
+    "Meatless Chicken Nuggets and Fried Rice": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-20"
+        ]
+      }
+    },
+    "Meatless Chicken Nuggets with Waffles": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-16"
+        ]
+      }
+    },
+    "Mini Blueberry Waffles": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Mini Cinnamon Rolls": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-05",
+          "2026-03-09",
+          "2026-03-12",
+          "2026-03-16",
+          "2026-03-19",
+          "2026-03-23",
+          "2026-03-26",
+          "2026-03-30",
+          "2026-04-02",
+          "2026-04-13",
+          "2026-04-16",
+          "2026-04-20",
+          "2026-04-23",
+          "2026-04-27",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Mini French Toast": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Mini Sausage Calzone": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-24",
+          "2026-04-14",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Monte Cristo Sandwich with Potato Smiles": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-31",
+          "2026-04-21"
+        ]
+      }
+    },
+    "Muffin Top and String Cheese": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-27",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Muffin Variety": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Mustard": {
+      "2025-2026 High School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Non Fat White Milk": {
+      "2025-2026 High School Breakfast": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-03-11": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Pepperoni Pizza",
-          "Spicy Veggie Pizza"
-        ],
-        "Specials": [
-          "Beef Chili with Cornbread",
-          "Three Sisters Stew with Cornbread"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli Salad",
-          "Green Peas",
-          "Salad Mix"
+      "2025-2026 High School Lunch": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "NSD Burger Sauce": {
+      "2025-2026 High School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Orange Chicken Chow Mein Noodle Bowl": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Orange Chicken Rice Bowl": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Pancake & Sausage Breakfast Stick": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Pasta with Meat Sauce": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-22"
+        ]
+      }
+    },
+    "Peach Cup": {
+      "2025-2026 High School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
       },
-      "2026-03-12": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Pears",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey BLT Deli Sandwich",
-          "Turkey Ham & Cheese Wrap",
-          "Vegan Mexican Bean Salad",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Hawaiian Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Meatless Chicken Nugget Chow Mein Noodle Bowl",
-          "Meatless Chicken Nugget Rice Bowl with Sweet & Sour Sauce",
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      "2025-2026 High School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-25",
+          "2026-03-27"
         ]
-      },
-      "2026-03-13": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Spicy Chicken Wrap",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Feijoada with White Rice",
-          "Macaroni and Cheese with Roll"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "Peanut Butter & Jelly Uncrustable Sandwich": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
-      },
-      "2026-03-16": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey Ham & Cheese Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Chicken and Waffles",
-          "Meatless Chicken Nuggets with Waffles"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Green Peas",
-          "Shredded Lettuce"
+      }
+    },
+    "Penne Pasta with Marinara and Cheese": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-22"
         ]
-      },
-      "2026-03-17": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Spicy Chicken Wrap",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Mexican Bean Salad",
-          "Vegan Thai Noodle Salad",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Bacon Ranch Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      }
+    },
+    "Pepperoni Pizza": {
+      "2025-2026 High School Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
-      },
-      "2026-03-18": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Pepperoni Pizza",
-          "Spicy Veggie Pizza"
-        ],
-        "Specials": [
-          "Baked Potato with Cheesy Broccoli and Roll",
-          "Local Salmon Chowder with Dinner Roll"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli Salad",
-          "Green Peas",
-          "Salad Mix"
+      }
+    },
+    "Pickled Onions": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-03",
+          "2026-03-06",
+          "2026-03-10",
+          "2026-03-13",
+          "2026-03-17",
+          "2026-03-20",
+          "2026-03-24",
+          "2026-03-27",
+          "2026-03-31",
+          "2026-04-03",
+          "2026-04-14",
+          "2026-04-17",
+          "2026-04-21",
+          "2026-04-24",
+          "2026-04-28"
         ]
-      },
-      "2026-03-19": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Pears",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey BLT Deli Sandwich",
-          "Turkey Ham & Cheese Wrap",
-          "Vegan Mexican Bean Salad",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Hawaiian Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Meatless Chicken Nugget Chow Mein Noodle Bowl",
-          "Meatless Chicken Nugget Rice Bowl with Sweet & Sour Sauce",
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Pico de Gallo": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
-      },
-      "2026-03-20": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Spicy Chicken Wrap",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Chicken Egg Roll and Fried Rice",
-          "Meatless Chicken Nuggets and Fried Rice"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
-      },
-      "2026-03-23": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey Ham & Cheese Wrap",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Potato Soup with Cheese Ripper",
-          "Tomato Soup with Cheezy Breadstick"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Green Peas",
-          "Shredded Lettuce"
+      }
+    },
+    "Potato Soup with Cheese Ripper": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-02",
+          "2026-03-23"
         ]
-      },
-      "2026-03-24": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Spicy Chicken Wrap",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Mexican Bean Salad",
-          "Vegan Thai Noodle Salad",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Pizza": [
-          "Bacon Ranch Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      }
+    },
+    "Powdered Mini Donut Holes": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
         ]
-      },
-      "2026-03-25": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Pepperoni Pizza",
-          "Spicy Veggie Pizza"
-        ],
-        "Specials": [
-          "Bean and Cheese Burrito with Cheese Sauce and Veggies",
-          "Chicken Enchiladas with Fajita Veggies"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli Salad",
-          "Green Peas",
-          "Salad Mix"
+      }
+    },
+    "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
-      },
-      "2026-03-26": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Pears",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey BLT Deli Sandwich",
-          "Turkey Ham & Cheese Wrap",
-          "Vegan Mexican Bean Salad",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Hawaiian Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Meatless Chicken Nugget Chow Mein Noodle Bowl",
-          "Meatless Chicken Nugget Rice Bowl with Sweet & Sour Sauce",
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Puffed Pancake Bites": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-29"
         ]
-      },
-      "2026-03-27": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Spicy Chicken Wrap",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Satay Pinwheel"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Jerk Chicken  White Rice and Mango Salsa",
-          "Jerk Tofu  White Rice and Mango Salsa"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "Ramen Bowl": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-15"
         ]
-      },
-      "2026-03-30": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Turkey Ham & Cheese Wrap",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Korean BBQ Pork Rice Bowl",
-          "Korean BBQ Tofu Rice Bowl"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cucumbers",
-          "Edamame",
-          "Shredded Lettuce"
+      }
+    },
+    "Ramen Bowl Vegetarain": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-15"
         ]
-      },
-      "2026-03-31": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Korean BBQ Tofu Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Spicy Chicken Wrap",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Pepperoni Pizza",
-          "Spicy Veggie Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      }
+    },
+    "Ranch Dressing": {
+      "2025-2026 High School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
-      },
-      "2026-04-01": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Assorted Fruit Cup",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chef Salad with Roll",
-          "Chicken Caesar Salad with Roll",
-          "Korean BBQ Tofu Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Buffalo Chickpea Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Chicken Buffalo Totchos with Garlic Bread",
-          "Meatless Chicken Buffalo Totchos with Roll"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Caesar Dressed Romaine",
-          "Green Peas"
+      }
+    },
+    "Raspberry Smoothie": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-29"
         ]
-      },
-      "2026-04-02": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Diced Peaches",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Chicken Caesar Salad Wrap",
-          "Korean BBQ Tofu Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Hawaiian Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli",
-          "Vegan Dal over Rice"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Refried Beans": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
-      },
-      "2026-04-03": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Applesauce Cups, Variety",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Spicy Chicken Wrap",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Bean and Cheese Burrito with Cheese Sauce and Veggies",
-          "Wild Alaska Fish Tacos"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "Romaine Salad": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-13"
         ]
-      },
-      "2026-04-13": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Chicken and Waffles",
-          "Three Sisters Stew with Cornbread"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Corn",
-          "Edamame",
-          "Romaine Salad"
+      }
+    },
+    "Salad Mix": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
         ]
-      },
-      "2026-04-14": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Spicy Chicken Wrap",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos",
-          "Vegan Thai Noodle Salad",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Pepperoni Pizza",
-          "Spicy Veggie Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      }
+    },
+    "Salsa": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
-      },
-      "2026-04-15": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Assorted Fruit Cup",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chef Salad with Roll",
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Spicy Red Pepper Hummus Pack",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Ramen Bowl",
-          "Ramen Bowl Vegetarain"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Caesar Dressed Romaine",
-          "Green Peas"
+      }
+    },
+    "Scrambled Eggs with Potato Smiles": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
         ]
-      },
-      "2026-04-16": {
-        "Fruit": [
-          "Apple Juice",
-          "Banana",
-          "Canned Diced Peaches",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Chicken Caesar Salad Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos",
-          "Vegan Spicy Red Pepper Hummus Pack",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Hawaiian Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli",
-          "Vegan Chana Masala with Rice"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Shredded Lettuce": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-03",
+          "2026-04-14",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28"
         ]
-      },
-      "2026-04-17": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Applesauce Cups, Variety",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Spicy Chicken Wrap",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Jerk Chicken  White Rice and Mango Salsa",
-          "Jerk Tofu  White Rice and Mango Salsa"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "Sliced Bread Variety": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
-      },
-      "2026-04-20": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "Jerk Tofu Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Turkey Ham & Cheese Wrap",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Tomato Soup with Cheezy Breadstick",
-          "Wild Coho Salmon with Rice Pilaf"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cucumbers",
-          "Edamame",
-          "Shredded Lettuce"
+      }
+    },
+    "Sliced Jalapenos": {
+      "2025-2026 High School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-03",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
-      },
-      "2026-04-21": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Jerk Tofu Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Spicy Chicken Wrap",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Pepperoni Pizza",
-          "Spicy Veggie Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      }
+    },
+    "Spicy Cheese Calzone": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
         ]
-      },
-      "2026-04-22": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Assorted Fruit Cup",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chef Salad with Roll",
-          "Chicken Caesar Salad with Roll",
-          "Jerk Tofu Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Buffalo Chickpea Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Pasta with Meat Sauce",
-          "Penne Pasta with Marinara and Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Caesar Dressed Romaine",
-          "Green Peas"
+      }
+    },
+    "Spicy Chicken Burger": {
+      "2025-2026 High School Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
-      },
-      "2026-04-23": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Diced Peaches",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Chicken Caesar Salad Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos",
-          "Vegan Spicy Red Pepper Hummus Pack",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Hawaiian Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli",
-          "Vegan Rajma Masala"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Spicy Chicken Wrap": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-03",
+          "2026-03-06",
+          "2026-03-10",
+          "2026-03-13",
+          "2026-03-17",
+          "2026-03-20",
+          "2026-03-24",
+          "2026-03-27",
+          "2026-03-31",
+          "2026-04-03",
+          "2026-04-14",
+          "2026-04-17",
+          "2026-04-21",
+          "2026-04-24",
+          "2026-04-28"
         ]
-      },
-      "2026-04-24": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Applesauce Cups, Variety",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Spicy Chicken Wrap",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Feijoada with White Rice",
-          "Macaroni and Cheese with Roll"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "Spicy Veggie Pizza": {
+      "2025-2026 High School Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
-      },
-      "2026-04-27": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Turkey Ham & Cheese Wrap",
-          "Vegan Buffalo Chickpea Wrap",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Korean BBQ Pork Rice Bowl",
-          "Korean BBQ Tofu Rice Bowl"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cucumbers",
-          "Edamame",
-          "Shredded Lettuce"
+      }
+    },
+    "Steamed Broccoli": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
         ]
-      },
-      "2026-04-28": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Korean BBQ Tofu Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Spicy Chicken Wrap",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Pepperoni Pizza",
-          "Spicy Veggie Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      }
+    },
+    "Strawberries": {
+      "2025-2026 High School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
         ]
-      },
-      "2026-04-29": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Assorted Fruit Cup",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chef Salad with Roll",
-          "Chicken Caesar Salad with Roll",
-          "Korean BBQ Tofu Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Buffalo Chickpea Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza",
-          "Four Cheese Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Chicken Buffalo Totchos with Garlic Bread",
-          "Meatless Chicken Buffalo Totchos with Roll"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Caesar Dressed Romaine",
-          "Green Peas"
+      }
+    },
+    "Sweet Apple Topping": {
+      "2025-2026 High School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
         ]
-      },
-      "2026-04-30": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Diced Peaches",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Chicken Caesar Salad Wrap",
-          "Korean BBQ Tofu Wrap",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Chicken Tenders with Pretzel Bites",
-          "Golden Crispy Chicken Burger",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza",
-          "Hawaiian Pizza",
-          "Pepperoni Pizza"
-        ],
-        "Specials": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli",
-          "Vegan Dal over Rice"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Tartar Sauce": {
+      "2025-2026 High School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Tater Tots": {
+      "2025-2026 High School Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Three Sisters Stew with Cornbread": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-11",
+          "2026-04-13"
+        ]
+      }
+    },
+    "Tomato Soup with Cheezy Breadstick": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-02",
+          "2026-03-23",
+          "2026-04-20"
+        ]
+      }
+    },
+    "Turkey and Cheese Deli Sandwich with Vegetables": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Turkey BLT Deli Sandwich": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Turkey Ham & Cheese on Hawaiian Bun": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Turkey Ham & Cheese Sandwich": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Turkey Ham & Cheese Wrap": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-02",
+          "2026-03-05",
+          "2026-03-09",
+          "2026-03-12",
+          "2026-03-16",
+          "2026-03-19",
+          "2026-03-23",
+          "2026-03-26",
+          "2026-03-30",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Turkey or Chicken Nachos with Cheese": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Twin Cinnamon Rolls": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Vanilla Iced Latte": {
+      "2025-2026 High School Breakfast": {
+        "category": "Milk",
+        "days": [
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Vegan Bac'n Bean Taco with Potato Smiles": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Vegan Buffalo Chickpea Wrap": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Vegan Burger": {
+      "2025-2026 High School Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Vegan Chana Masala with Rice": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-16"
+        ]
+      }
+    },
+    "Vegan Chicken Burger": {
+      "2025-2026 High School Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Vegan Dal over Rice": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-02",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Vegan Mexican Bean Salad": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26"
+        ]
+      }
+    },
+    "Vegan Rajma Masala": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-23"
+        ]
+      }
+    },
+    "Vegan Satay Pinwheel": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Vegan Southwest Bowl with Fritos": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Vegan Spicy Hummus Wrap": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-30",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Vegan Spicy Red Pepper Hummus Pack": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-23"
+        ]
+      }
+    },
+    "Vegan Thai Noodle Salad": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-04-14"
+        ]
+      }
+    },
+    "Whole Grain Donut Long": {
+      "2025-2026 High School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Wild Alaska Fish Burger": {
+      "2025-2026 High School Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Wild Alaska Fish Tacos": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-03"
+        ]
+      }
+    },
+    "Wild Coho Salmon with Rice Pilaf": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-20"
+        ]
+      }
+    },
+    "Yogurt Grab & Go Lunch with Blueberry Mini Waffles": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Yogurt Parfait with Blueberries and Mini Muffin": {
+      "2025-2026 High School Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26"
         ]
       }
     }

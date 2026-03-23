@@ -9,2575 +9,2079 @@
     "2026-03-29": "A chance of rain. Mostly cloudy, with a high near 62."
   },
   "menus": {
-    "2025-2026 Elementary School Breakfast": {
-      "2026-03-02": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
+    "1% White Milk": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-03-03": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Cheese Breakfast Bun",
-          "Fasting Breakfast Pack K-12",
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Apple",
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
+      "2025-2026 Elementary School Lunch": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-03-04": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Homemade Cheese Quesadilla",
-          "Pumpkin Bread"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
+      "2025-2026 Pre-K Breakfast": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-30"
         ]
       },
-      "2026-03-05": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12"
-        ],
-        "Fruit": [
-          "Apple",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-06": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "French Toast Sandwich with Turkey Ham and Cheese",
-          "Mini Cinnamon Rolls"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-09": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-10": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Cheese Breakfast Bun",
-          "Fasting Breakfast Pack K-12",
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Apple",
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-11": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Homemade Cheese Quesadilla",
-          "Pumpkin Bread"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-12": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12"
-        ],
-        "Fruit": [
-          "Apple",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-13": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "French Toast Sandwich with Turkey Ham and Cheese",
-          "Mini Cinnamon Rolls"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-16": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-17": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Cheese Breakfast Bun",
-          "Fasting Breakfast Pack K-12",
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Apple",
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-18": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Homemade Cheese Quesadilla",
-          "Pumpkin Bread"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-19": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12"
-        ],
-        "Fruit": [
-          "Apple",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-20": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "French Toast Sandwich with Turkey Ham and Cheese",
-          "Mini Cinnamon Rolls"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-23": {
-        "Breakfast Entree": [
-          "Apple Strudel",
-          "Breakfast Pizza",
-          "Cereal Variety"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-24": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Cheese Breakfast Bun",
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Apple",
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-25": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Homemade Cheese Quesadilla",
-          "Pumpkin Bread"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-26": {
-        "Breakfast Entree": [
-          "Blueberry Smoothie",
-          "Breakfast Chicken and Waffle",
-          "Cereal Variety"
-        ],
-        "Fruit": [
-          "Apple",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-27": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "French Toast Sandwich with Turkey Ham and Cheese",
-          "Mini Cinnamon Rolls"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-30": {
-        "Breakfast Entree": [
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Yogurt Dippers"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-31": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "French Toast Sandwich with Turkey Ham and Cheese",
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Apple",
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-01": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Waffle Sandwich",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-02": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Raspberry Smoothie",
-          "Turkey Ham & Cheese on Hawaiian Bun"
-        ],
-        "Fruit": [
-          "Apple",
-          "Assorted Fruit Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-03": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Cheese Breakfast Bun",
-          "Mini Cinnamon Rolls"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-13": {
-        "Breakfast Entree": [
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Yogurt Dippers"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-14": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "French Toast Sandwich with Turkey Ham and Cheese",
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Apple",
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-15": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Waffle Sandwich",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-16": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Raspberry Smoothie",
-          "Turkey Ham & Cheese on Hawaiian Bun"
-        ],
-        "Fruit": [
-          "Apple",
-          "Assorted Fruit Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-17": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Cheese Breakfast Bun",
-          "Mini Cinnamon Rolls"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-20": {
-        "Breakfast Entree": [
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Yogurt Dippers"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-21": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "French Toast Sandwich with Turkey Ham and Cheese",
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Apple",
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-22": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Waffle Sandwich",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-23": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Raspberry Smoothie",
-          "Turkey Ham & Cheese on Hawaiian Bun"
-        ],
-        "Fruit": [
-          "Apple",
-          "Assorted Fruit Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-24": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Cheese Breakfast Bun",
-          "Mini Cinnamon Rolls"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-27": {
-        "Breakfast Entree": [
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Yogurt Dippers"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-28": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "French Toast Sandwich with Turkey Ham and Cheese",
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Apple",
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-29": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Egg & Waffle Sandwich",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-30": {
-        "Breakfast Entree": [
-          "Cereal Variety",
-          "Raspberry Smoothie",
-          "Turkey Ham & Cheese on Hawaiian Bun"
-        ],
-        "Fruit": [
-          "Apple",
-          "Assorted Fruit Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-30"
         ]
       }
     },
-    "2025-2026 Elementary School Lunch": {
-      "2026-03-02": {
-        "A Lunch": [
-          "Beef Chili & Cornbread"
-        ],
-        "B Lunch": [
-          "Cheese Wedge Pizza"
-        ],
-        "C Lunch": [
-          "Pizza Stack Pack (Turkey)"
-        ],
-        "Fruit": [
-          "Apple"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli Salad",
-          "Green Beans",
-          "Salad Mix"
+    "Apple": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
         ]
       },
-      "2026-03-03": {
-        "A Lunch": [
-          "Chicken Nuggets with Rice"
-        ],
-        "B Lunch": [
-          "Bean and Cheese Burrito"
-        ],
-        "C Lunch": [
-          "Southwest Chicken Salad with BBQ Ranch Dressing"
-        ],
-        "Fruit": [
-          "Canned Pears",
-          "Frozen Fruit Slushie Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing",
-          "Sour Cream"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Corn",
-          "Salsa"
-        ]
-      },
-      "2026-03-04": {
-        "A Lunch": [
-          "Turkey Cheese Nachos"
-        ],
-        "B Lunch": [
-          "Cheese Nachos"
-        ],
-        "C Lunch": [
-          "Turkey and Cheese Hoagie Sandwich"
-        ],
-        "Fruit": [
-          "Orange Wedges",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing",
-          "Sour Cream"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Salsa"
-        ]
-      },
-      "2026-03-05": {
-        "A Lunch": [
-          "Cheeseburger"
-        ],
-        "B Lunch": [
-          "Vegan Chicken Burger"
-        ],
-        "C Lunch": [
-          "Sunbutter Sandwich"
-        ],
-        "Fruit": [
-          "Apple"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Shredded Lettuce",
-          "Sliced Red Onion",
-          "Tater Tots"
-        ]
-      },
-      "2026-03-06": {
-        "A Lunch": [
-          "Macaroni and Cheese"
-        ],
-        "B Lunch": [
-          "Vegan BBQ Lentil Sloppy Joe Sandwich"
-        ],
-        "C Lunch": [
-          "Yogurt Lunch with Mini French Toast"
-        ],
-        "Fruit": [
-          "Orange Wedges",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Cucumbers"
-        ]
-      },
-      "2026-03-09": {
-        "A Lunch": [
-          "Chicken Rice Soup with Roll"
-        ],
-        "B Lunch": [
-          "Cheese Wedge Pizza"
-        ],
-        "C Lunch": [
-          "Pizza Stack Pack (Turkey)"
-        ],
-        "Fruit": [
-          "Apple"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli Salad",
-          "Green Beans",
-          "Salad Mix"
-        ]
-      },
-      "2026-03-10": {
-        "A Lunch": [
-          "Chicken Bánh Mì with Pickled Veggies"
-        ],
-        "B Lunch": [
-          "Mini Cheese Calzone with Marinara Cups"
-        ],
-        "C Lunch": [
-          "Southwest Chicken Salad with BBQ Ranch Dressing"
-        ],
-        "Fruit": [
-          "Canned Pears",
-          "Frozen Fruit Slushie Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Corn"
-        ]
-      },
-      "2026-03-11": {
-        "A Lunch": [
-          "Turkey Cheese Nachos"
-        ],
-        "B Lunch": [
-          "Cheese Nachos"
-        ],
-        "C Lunch": [
-          "Turkey and Cheese Hoagie Sandwich"
-        ],
-        "Fruit": [
-          "Orange Wedges",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing",
-          "Sour Cream"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Salsa"
-        ]
-      },
-      "2026-03-12": {
-        "A Lunch": [
-          "Golden Crispy Chicken Burger"
-        ],
-        "B Lunch": [
-          "Vegan Burger"
-        ],
-        "C Lunch": [
-          "Sunbutter Sandwich"
-        ],
-        "Fruit": [
-          "Apple",
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Shredded Lettuce",
-          "Sliced Red Onion",
-          "Tater Tots"
-        ]
-      },
-      "2026-03-13": {
-        "A Lunch": [
-          "Feijoada with Brown Rice"
-        ],
-        "B Lunch": [
-          "Wild Alaska Fish & Chips with Roll"
-        ],
-        "C Lunch": [
-          "Yogurt Lunch with Puffed Pancake Bites"
-        ],
-        "Fruit": [
-          "Orange Wedges",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Cucumbers"
-        ]
-      },
-      "2026-03-16": {
-        "A Lunch": [
-          "Tomato Soup with Cheese Pizza Quesadilla"
-        ],
-        "B Lunch": [
-          "Cheese Wedge Pizza"
-        ],
-        "C Lunch": [
-          "Pizza Stack Pack (Turkey)"
-        ],
-        "Fruit": [
-          "Apple"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Beans"
-        ]
-      },
-      "2026-03-17": {
-        "A Lunch": [
-          "Chicken Bites and Waffles"
-        ],
-        "B Lunch": [
-          "Baked Potato with Cheesy Broccoli and Roll"
-        ],
-        "C Lunch": [
-          "Southwest Chicken Salad with BBQ Ranch Dressing"
-        ],
-        "Fruit": [
-          "Canned Pears",
-          "Frozen Fruit Slushie Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Corn"
-        ]
-      },
-      "2026-03-18": {
-        "A Lunch": [
-          "Turkey Cheese Nachos"
-        ],
-        "B Lunch": [
-          "Cheese Nachos"
-        ],
-        "C Lunch": [
-          "Turkey and Cheese Hoagie Sandwich"
-        ],
-        "Fruit": [
-          "Orange Wedges",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing",
-          "Sour Cream"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Salsa"
-        ]
-      },
-      "2026-03-19": {
-        "A Lunch": [
-          "Cheeseburger"
-        ],
-        "B Lunch": [
-          "Vegan Chicken Burger"
-        ],
-        "C Lunch": [
-          "Sunbutter Sandwich"
-        ],
-        "Fruit": [
-          "Apple"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack K-8"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Shredded Lettuce",
-          "Sliced Red Onion",
-          "Tater Tots"
-        ]
-      },
-      "2026-03-20": {
-        "A Lunch": [
-          "Orange Chicken Rice Bowl"
-        ],
-        "B Lunch": [
-          "Wild Alaska Fish & Chips with Roll"
-        ],
-        "C Lunch": [
-          "Yogurt Lunch with Mini Waffles"
-        ],
-        "Fruit": [
-          "Orange Wedges",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Cucumbers",
-          "Steamed Broccoli"
-        ]
-      },
-      "2026-03-23": {
-        "A Lunch": [
-          "Beef Chili & Cornbread"
-        ],
-        "B Lunch": [
-          "Cheese Wedge Pizza"
-        ],
-        "C Lunch": [
-          "Pizza Stack Pack (Turkey)"
-        ],
-        "Fruit": [
-          "Apple"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli Salad",
-          "Green Beans",
-          "Salad Mix"
-        ]
-      },
-      "2026-03-24": {
-        "A Lunch": [
-          "Chicken Nuggets with Rice"
-        ],
-        "B Lunch": [
-          "Bean and Cheese Burrito"
-        ],
-        "C Lunch": [
-          "Southwest Chicken Salad with BBQ Ranch Dressing"
-        ],
-        "Fruit": [
-          "Canned Pears",
-          "Frozen Fruit Slushie Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing",
-          "Sour Cream"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Corn",
-          "Salsa"
-        ]
-      },
-      "2026-03-25": {
-        "A Lunch": [
-          "Turkey Cheese Nachos"
-        ],
-        "B Lunch": [
-          "Cheese Nachos"
-        ],
-        "C Lunch": [
-          "Turkey and Cheese Hoagie Sandwich"
-        ],
-        "Fruit": [
-          "Orange Wedges",
-          "Sweet Apple Topping"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing",
-          "Sour Cream"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Salsa"
-        ]
-      },
-      "2026-03-26": {
-        "A Lunch": [
-          "Cheeseburger"
-        ],
-        "B Lunch": [
-          "Vegan Chicken Burger"
-        ],
-        "C Lunch": [
-          "Sunbutter Sandwich"
-        ],
-        "Fruit": [
-          "Apple"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Shredded Lettuce",
-          "Sliced Red Onion",
-          "Tater Tots"
-        ]
-      },
-      "2026-03-27": {
-        "A Lunch": [
-          "Macaroni and Cheese"
-        ],
-        "B Lunch": [
-          "Vegan BBQ Lentil Sloppy Joe Sandwich"
-        ],
-        "C Lunch": [
-          "Yogurt Lunch with Mini French Toast"
-        ],
-        "Fruit": [
-          "Orange Wedges",
-          "Peach Cup"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Cucumbers"
-        ]
-      },
-      "2026-03-30": {
-        "A Lunch": [
-          "Pasta with Meat Sauce"
-        ],
-        "B Lunch": [
-          "Cheese Wedge Pizza"
-        ],
-        "C Lunch": [
-          "Pizza Stack Pack (Turkey)"
-        ],
-        "Fruit": [
-          "Apple",
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Fresh Tomatoes",
-          "Salad Mix"
-        ]
-      },
-      "2026-03-31": {
-        "A Lunch": [
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin"
-        ],
-        "B Lunch": [
-          "Mini Cheese Calzone with Marinara Cups"
-        ],
-        "C Lunch": [
-          "Chicken Caesar Salad with a Roll"
-        ],
-        "Fruit": [
-          "Frozen Fruit Slushie Cup",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cucumbers",
-          "Salad Mix",
-          "Sliced Red Onion"
-        ]
-      },
-      "2026-04-01": {
-        "A Lunch": [
-          "Turkey Cheese Nachos"
-        ],
-        "B Lunch": [
-          "Cheese Nachos"
-        ],
-        "C Lunch": [
-          "Turkey and Cheese Hoagie Sandwich"
-        ],
-        "Fruit": [
-          "Apple"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing",
-          "Sour Cream"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Corn & Bean Salad",
-          "Fresh Tomatoes",
-          "Salsa",
-          "Shredded Lettuce"
-        ]
-      },
-      "2026-04-02": {
-        "A Lunch": [
-          "Golden Crispy Chicken Burger"
-        ],
-        "B Lunch": [
-          "Vegan Burger"
-        ],
-        "C Lunch": [
-          "Sunbutter Sandwich"
-        ],
-        "Fruit": [
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Fresh Tomatoes",
-          "Green Peas",
-          "Shredded Lettuce",
-          "Sliced Red Onion",
-          "Tater Tots"
-        ]
-      },
-      "2026-04-03": {
-        "A Lunch": [
-          "Wild Coho Salmon with Rice Pilaf"
-        ],
-        "B Lunch": [
-          "Bean and Cheese Burrito"
-        ],
-        "C Lunch": [
-          "Yogurt Lunch with Puffed Pancake Bites"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Frozen Blackberries"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Edamame",
-          "Shredded Lettuce"
-        ]
-      },
-      "2026-04-13": {
-        "A Lunch": [
-          "Chicken Nuggets with Rice and  Korean BBQ Sauce"
-        ],
-        "B Lunch": [
-          "Cheese Wedge Pizza"
-        ],
-        "C Lunch": [
-          "Yogurt Lunch with Mini French Toast"
-        ],
-        "Fruit": [
-          "Apple",
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Corn ",
-          "Sliced Red Onion"
-        ]
-      },
-      "2026-04-14": {
-        "A Lunch": [
-          "Dutch Waffle and Scrambled Eggs"
-        ],
-        "B Lunch": [
-          "Pretzel with String Cheese and Honey Mustard Dipping Sauce"
-        ],
-        "C Lunch": [
-          "Chicken Caesar Salad with a Roll"
-        ],
-        "Fruit": [
-          "Frozen Fruit Slushie Cup",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Green Peas",
-          "Sliced Red Onion"
-        ]
-      },
-      "2026-04-15": {
-        "A Lunch": [
-          "Turkey Cheese Nachos"
-        ],
-        "B Lunch": [
-          "Cheese Nachos"
-        ],
-        "C Lunch": [
-          "Turkey and Cheese Hoagie Sandwich"
-        ],
-        "Fruit": [
-          "Apple"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing",
-          "Sour Cream"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Black Beans",
-          "Corn & Bean Salad",
-          "Pickled Onions",
-          "Salsa"
-        ]
-      },
-      "2026-04-16": {
-        "A Lunch": [
-          "Cheeseburger"
-        ],
-        "B Lunch": [
-          "Vegan Chicken Burger"
-        ],
-        "C Lunch": [
-          "Sunbutter Sandwich"
-        ],
-        "Fruit": [
-          "Banana"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Fresh Tomatoes",
-          "Green Peas",
-          "Shredded Lettuce",
-          "Sliced Red Onion",
-          "Tater Tots"
-        ]
-      },
-      "2026-04-17": {
-        "A Lunch": [
-          "Macaroni and Cheese"
-        ],
-        "B Lunch": [
-          "Vegan BBQ Lentil Sloppy Joe Sandwich with Fingerling Potatoes"
-        ],
-        "C Lunch": [
-          "Pizza Stack Pack (Turkey)"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Blueberries"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Edamame",
-          "Shredded Lettuce"
-        ]
-      },
-      "2026-04-20": {
-        "A Lunch": [
-          "Beef Teriyaki Rice Bowl"
-        ],
-        "B Lunch": [
-          "Cheese Wedge Pizza"
-        ],
-        "C Lunch": [
-          "Pizza Stack Pack (Turkey)"
-        ],
-        "Fruit": [
-          "Apple",
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Fresh Tomatoes",
-          "Salad Mix"
-        ]
-      },
-      "2026-04-21": {
-        "A Lunch": [
-          "Chicken Bites and Waffles"
-        ],
-        "B Lunch": [
-          "Cheesy Rippable Breadstick with Marinara Sauce"
-        ],
-        "C Lunch": [
-          "Chicken Caesar Salad with a Roll"
-        ],
-        "Fruit": [
-          "Frozen Fruit Slushie Cup",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cucumbers",
-          "Salad Mix",
-          "Sliced Red Onion"
-        ]
-      },
-      "2026-04-22": {
-        "A Lunch": [
-          "Turkey Cheese Nachos"
-        ],
-        "B Lunch": [
-          "Cheese Nachos"
-        ],
-        "C Lunch": [
-          "Turkey and Cheese Hoagie Sandwich"
-        ],
-        "Fruit": [
-          "Apple"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing",
-          "Sour Cream"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Corn & Bean Salad",
-          "Fresh Tomatoes",
-          "Salsa",
-          "Shredded Lettuce"
-        ]
-      },
-      "2026-04-23": {
-        "A Lunch": [
-          "Cheeseburger"
-        ],
-        "B Lunch": [
-          "Wild Alaska Fish Burger"
-        ],
-        "C Lunch": [
-          "Sunbutter Sandwich"
-        ],
-        "Fruit": [
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Fresh Tomatoes",
-          "Green Peas",
-          "Shredded Lettuce",
-          "Sliced Red Onion",
-          "Tater Tots"
-        ]
-      },
-      "2026-04-24": {
-        "A Lunch": [
-          "Orange Chicken Rice Bowl"
-        ],
-        "B Lunch": [
-          "Wild Alaska Fish & Chips with Roll"
-        ],
-        "C Lunch": [
-          "Yogurt Lunch with Mini Confetti Pancakes"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Variety",
-          "Frozen Washington Raspberries"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Edamame",
-          "Shredded Lettuce",
-          "Steamed Broccoli"
-        ]
-      },
-      "2026-04-27": {
-        "A Lunch": [
-          "Pasta with Meat Sauce"
-        ],
-        "B Lunch": [
-          "Cheese Wedge Pizza"
-        ],
-        "C Lunch": [
-          "Pizza Stack Pack (Turkey)"
-        ],
-        "Fruit": [
-          "Apple",
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Fresh Tomatoes",
-          "Salad Mix"
-        ]
-      },
-      "2026-04-28": {
-        "A Lunch": [
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin"
-        ],
-        "B Lunch": [
-          "Mini Cheese Calzone with Marinara Cups"
-        ],
-        "C Lunch": [
-          "Chicken Caesar Salad with a Roll"
-        ],
-        "Fruit": [
-          "Frozen Fruit Slushie Cup",
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cucumbers",
-          "Salad Mix",
-          "Sliced Red Onion"
-        ]
-      },
-      "2026-04-29": {
-        "A Lunch": [
-          "Turkey Cheese Nachos"
-        ],
-        "B Lunch": [
-          "Cheese Nachos"
-        ],
-        "C Lunch": [
-          "Turkey and Cheese Hoagie Sandwich"
-        ],
-        "Fruit": [
-          "Apple"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing",
-          "Sour Cream"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Corn & Bean Salad",
-          "Fresh Tomatoes",
-          "Salsa",
-          "Shredded Lettuce"
-        ]
-      },
-      "2026-04-30": {
-        "A Lunch": [
-          "Golden Crispy Chicken Burger"
-        ],
-        "B Lunch": [
-          "Vegan Burger"
-        ],
-        "C Lunch": [
-          "Sunbutter Sandwich"
-        ],
-        "Fruit": [
-          "Orange Wedges"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mayonnaise",
-          "Mustard",
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Fresh Tomatoes",
-          "Green Peas",
-          "Shredded Lettuce",
-          "Sliced Red Onion",
-          "Tater Tots"
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-05",
+          "2026-03-09",
+          "2026-03-12",
+          "2026-03-16",
+          "2026-03-19",
+          "2026-03-23",
+          "2026-03-26",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-27",
+          "2026-04-29"
         ]
       }
     },
-    "2025-2026 Pre-K Breakfast": {
-      "2026-03-02": {
-        "Breakfast Entree": [
-          "Breakfast Stack Pack"
-        ],
-        "Fruit": [
-          "Canned Pears"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-03": {
-        "Breakfast Entree": [
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-05": {
-        "Breakfast Entree": [
-          "Mini French Toast"
-        ],
-        "Fruit": [
-          "Applesauce"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-06": {
-        "Breakfast Entree": [
-          "Cheerios Cereal"
-        ],
-        "Fruit": [
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-09": {
-        "Breakfast Entree": [
-          "Breakfast Stack Pack"
-        ],
-        "Fruit": [
-          "Canned Pears"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-10": {
-        "Breakfast Entree": [
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-12": {
-        "Breakfast Entree": [
-          "Mini French Toast"
-        ],
-        "Fruit": [
-          "Applesauce"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-13": {
-        "Breakfast Entree": [
-          "Cheerios Cereal"
-        ],
-        "Fruit": [
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-16": {
-        "Breakfast Entree": [
-          "Breakfast Stack Pack"
-        ],
-        "Fruit": [
-          "Canned Pears"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-17": {
-        "Breakfast Entree": [
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-19": {
-        "Breakfast Entree": [
-          "Mini French Toast"
-        ],
-        "Fruit": [
-          "Applesauce Cups, Flavored"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-23": {
-        "Breakfast Entree": [
-          "Breakfast Stack Pack"
-        ],
-        "Fruit": [
-          "Canned Pears"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-24": {
-        "Breakfast Entree": [
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-26": {
-        "Breakfast Entree": [
-          "Mini French Toast"
-        ],
-        "Fruit": [
-          "Applesauce"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-27": {
-        "Breakfast Entree": [
-          "Cheerios Cereal"
-        ],
-        "Fruit": [
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-30": {
-        "Breakfast Entree": [
-          "Breakfast Stack Pack"
-        ],
-        "Fruit": [
-          "Canned Pears"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-03-31": {
-        "Breakfast Entree": [
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-02": {
-        "Breakfast Entree": [
-          "Mini French Toast"
-        ],
-        "Fruit": [
-          "Applesauce"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-03": {
-        "Breakfast Entree": [
-          "Cheerios Cereal"
-        ],
-        "Fruit": [
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-13": {
-        "Breakfast Entree": [
-          "Breakfast Stack Pack"
-        ],
-        "Fruit": [
-          "Canned Pears"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-14": {
-        "Breakfast Entree": [
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-16": {
-        "Breakfast Entree": [
-          "Mini French Toast"
-        ],
-        "Fruit": [
-          "Applesauce"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-17": {
-        "Breakfast Entree": [
-          "Cheerios Cereal"
-        ],
-        "Fruit": [
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-20": {
-        "Breakfast Entree": [
-          "Breakfast Stack Pack"
-        ],
-        "Fruit": [
-          "Canned Pears"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-21": {
-        "Breakfast Entree": [
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-23": {
-        "Breakfast Entree": [
-          "Mini French Toast"
-        ],
-        "Fruit": [
-          "Applesauce"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-24": {
-        "Breakfast Entree": [
-          "Cheerios Cereal"
-        ],
-        "Fruit": [
-          "Raisins"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-27": {
-        "Breakfast Entree": [
-          "Breakfast Stack Pack"
-        ],
-        "Fruit": [
-          "Canned Pears"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-28": {
-        "Breakfast Entree": [
-          "Mini Maple Chip Pancakes"
-        ],
-        "Fruit": [
-          "Canned Diced Peaches"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ]
-      },
-      "2026-04-30": {
-        "Breakfast Entree": [
-          "Mini French Toast"
-        ],
-        "Fruit": [
-          "Applesauce"
-        ],
-        "Milk": [
-          "1% White Milk"
+    "Apple Slices": {
+      "2025-2026 Pre-K Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-23",
+          "2026-04-13"
         ]
       }
     },
-    "2025-2026 Pre-K Lunch": {
-      "2026-03-02": {
-        "Fruit": [
-          "Apple Slices"
-        ],
-        "Lunch Entree": [
-          "Beef Chili & Cornbread"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Vegetables": [
-          "Corn"
+    "Apple Strudel": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23"
+        ]
+      }
+    },
+    "Applesauce": {
+      "2025-2026 Pre-K Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
         ]
       },
-      "2026-03-03": {
-        "Fruit": [
-          "Canned Diced Pears"
-        ],
-        "Lunch Entree": [
-          "Bean and Cheese Burrito"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Sour Cream"
-        ],
-        "Vegetables": [
-          "Salsa"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-30",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Applesauce Cups, Flavored": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27"
         ]
       },
-      "2026-03-05": {
-        "Fruit": [
-          "Canned Diced Pears"
-        ],
-        "Lunch Entree": [
-          "Cheeseburger"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup"
-        ],
-        "Vegetables": [
-          "Tater Tots"
+      "2025-2026 Pre-K Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-19"
+        ]
+      }
+    },
+    "Applesauce Cups, Variety": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-29"
         ]
       },
-      "2026-03-06": {
-        "Fruit": [
-          "Oranges"
-        ],
-        "Lunch Entree": [
-          "Macaroni and Cheese"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Vegetables": [
-          "Green Beans"
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Assorted Fruit Cup": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Baby Carrots": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Baked BBQ Beans": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24"
+        ]
+      }
+    },
+    "Baked Potato with Cheesy Broccoli and Roll": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-03-17"
+        ]
+      }
+    },
+    "Banana": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-16"
+        ]
+      }
+    },
+    "Bean and Cheese Burrito": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-03-03",
+          "2026-03-24",
+          "2026-04-03"
         ]
       },
-      "2026-03-09": {
-        "Fruit": [
-          "Applesauce"
-        ],
-        "Lunch Entree": [
-          "Cheese Wedge Pizza"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Vegetables": [
-          "Green Peas"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-24"
+        ]
+      }
+    },
+    "Beef Chili & Cornbread": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-02",
+          "2026-03-23"
         ]
       },
-      "2026-03-10": {
-        "Fruit": [
-          "Canned Diced Pears"
-        ],
-        "Lunch Entree": [
-          "Mini Cheese Calzone with Marinara Cups"
-        ],
-        "Milk": [
-          "1% White Milk"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-23"
+        ]
+      }
+    },
+    "Beef Teriyaki Rice Bowl": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-04-20"
+        ]
+      }
+    },
+    "Black Beans": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-15"
+        ]
+      }
+    },
+    "Blueberries": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-17"
+        ]
+      }
+    },
+    "Blueberry Smoothie": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26"
+        ]
+      }
+    },
+    "Breakfast Chicken and Waffle": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26"
+        ]
+      }
+    },
+    "Breakfast Pizza": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Breakfast Stack Pack": {
+      "2025-2026 Pre-K Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Broccoli": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-30",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-24",
+          "2026-04-27"
         ]
       },
-      "2026-03-12": {
-        "Fruit": [
-          "Canned Diced Pears"
-        ],
-        "Lunch Entree": [
-          "Golden Crispy Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup"
-        ],
-        "Vegetables": [
-          "Tater Tots"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-03",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Broccoli Salad": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-23"
+        ]
+      }
+    },
+    "Canned Diced Peaches": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
         ]
       },
-      "2026-03-13": {
-        "Fruit": [
-          "Oranges"
-        ],
-        "Lunch Entree": [
-          "Wild Alaska Fish & Chips"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup"
+      "2025-2026 Pre-K Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
       },
-      "2026-03-16": {
-        "Fruit": [
-          "Applesauce"
-        ],
-        "Lunch Entree": [
-          "Cheese Stuffed Breadsticks"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Vegetables": [
-          "Marinara Sauce Cups"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-19"
+        ]
+      }
+    },
+    "Canned Diced Pears": {
+      "2025-2026 Pre-K Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Canned Pears": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24"
         ]
       },
-      "2026-03-17": {
-        "Fruit": [
-          "Canned Diced Pears"
-        ],
-        "Lunch Entree": [
-          "Chicken Nuggets with Waffle"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Cucumbers"
+      "2025-2026 Pre-K Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Cereal Variety": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Cheerios Cereal": {
+      "2025-2026 Pre-K Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Cheese Nachos": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Cheese Stuffed Breadsticks": {
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-16"
+        ]
+      }
+    },
+    "Cheese Wedge Pizza": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
         ]
       },
-      "2026-03-19": {
-        "Fruit": [
-          "Canned Diced Peaches"
-        ],
-        "Lunch Entree": [
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup"
-        ],
-        "Vegetables": [
-          "Tater Tots"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-09",
+          "2026-04-20"
+        ]
+      }
+    },
+    "Cheeseburger": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-05",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-16",
+          "2026-04-23"
         ]
       },
-      "2026-03-23": {
-        "Fruit": [
-          "Apple Slices"
-        ],
-        "Lunch Entree": [
-          "Beef Chili & Cornbread"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Vegetables": [
-          "Corn"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-05",
+          "2026-04-16"
+        ]
+      }
+    },
+    "Cheesy Rippable Breadstick with Marinara Sauce": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-04-21"
         ]
       },
-      "2026-03-24": {
-        "Fruit": [
-          "Canned Diced Pears"
-        ],
-        "Lunch Entree": [
-          "Bean and Cheese Burrito"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Sour Cream"
-        ],
-        "Vegetables": [
-          "Salsa"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-04-21"
+        ]
+      }
+    },
+    "Chicken Bánh Mì with Pickled Veggies": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-10"
+        ]
+      }
+    },
+    "Chicken Bites and Waffles": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-17",
+          "2026-04-21"
+        ]
+      }
+    },
+    "Chicken Caesar Salad with a Roll": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "C Lunch",
+        "days": [
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Chicken Nuggets with Rice": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-03",
+          "2026-03-24"
+        ]
+      }
+    },
+    "Chicken Nuggets with Rice and  Korean BBQ Sauce": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-04-13"
         ]
       },
-      "2026-03-26": {
-        "Fruit": [
-          "Canned Diced Pears"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup"
-        ],
-        "Vegetables": [
-          "Tater Tots"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-04-13"
+        ]
+      }
+    },
+    "Chicken Nuggets with Waffle": {
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-17"
+        ]
+      }
+    },
+    "Chicken Rice Soup with Roll": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-09"
+        ]
+      }
+    },
+    "Coleslaw": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27"
+        ]
+      }
+    },
+    "Corn": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24"
         ]
       },
-      "2026-03-27": {
-        "Fruit": [
-          "Oranges"
-        ],
-        "Lunch Entree": [
-          "Macaroni and Cheese"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Vegetables": [
-          "Green Beans"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-23",
+          "2026-04-13"
+        ]
+      }
+    },
+    "Corn ": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-13"
+        ]
+      }
+    },
+    "Corn & Bean Salad": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Cucumbers": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-03-31",
+          "2026-04-21",
+          "2026-04-28"
         ]
       },
-      "2026-03-30": {
-        "Fruit": [
-          "Applesauce"
-        ],
-        "Lunch Entree": [
-          "Pasta with Meat Sauce"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Vegetables": [
-          "Green Peas"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-17",
+          "2026-04-20"
+        ]
+      }
+    },
+    "Dutch Waffle and Scrambled Eggs": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-04-14"
+        ]
+      }
+    },
+    "Edamame": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Egg & Cheese Breakfast Bun": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Egg & Waffle Sandwich": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Fasting Breakfast Pack K-12": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19"
+        ]
+      }
+    },
+    "Fasting Lunch Pack K-8": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Off Site Meal Pack",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19"
+        ]
+      }
+    },
+    "Feijoada with Brown Rice": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-13"
+        ]
+      }
+    },
+    "French Toast Sandwich with Turkey Ham and Cheese": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Fresh Tomatoes": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-27",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Frozen Blackberries": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-03"
+        ]
+      }
+    },
+    "Frozen Fruit Slushie Cup": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
       },
-      "2026-03-31": {
-        "Fruit": [
-          "Canned Diced Pears"
-        ],
-        "Lunch Entree": [
-          "Mini Cheese Calzone with Marinara Cups"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Ranch Dressing"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-20"
+        ]
+      }
+    },
+    "Frozen Washington Raspberries": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-24"
+        ]
+      }
+    },
+    "Golden Crispy Chicken Burger": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-12",
+          "2026-04-02",
+          "2026-04-30"
         ]
       },
-      "2026-04-02": {
-        "Fruit": [
-          "Juicy Kiwifruit"
-        ],
-        "Lunch Entree": [
-          "Golden Crispy Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup"
-        ],
-        "Vegetables": [
-          "Tater Tots"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-12",
+          "2026-04-02",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Green Beans": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23"
         ]
       },
-      "2026-04-03": {
-        "Fruit": [
-          "Oranges"
-        ],
-        "Lunch Entree": [
-          "Ham and Cheese Ripper"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Broccoli"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-06",
+          "2026-03-27"
+        ]
+      }
+    },
+    "Green Peas": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
         ]
       },
-      "2026-04-13": {
-        "Fruit": [
-          "Apple Slices"
-        ],
-        "Lunch Entree": [
-          "Chicken Nuggets with Rice and  Korean BBQ Sauce"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Vegetables": [
-          "Corn"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-09",
+          "2026-03-30",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Ham and Cheese Ripper": {
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-04-03"
+        ]
+      }
+    },
+    "Homemade Cheese Quesadilla": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
+        ]
+      }
+    },
+    "Juicy Kiwifruit": {
+      "2025-2026 Pre-K Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-02",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Ketchup": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-04-02",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-30"
         ]
       },
-      "2026-04-14": {
-        "Fruit": [
-          "Canned Diced Pears"
-        ],
-        "Lunch Entree": [
-          "Waffles and Scrambled Eggs"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ranch Dressing"
-        ],
-        "Vegetables": [
-          "Salad Mix"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Macaroni and Cheese": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-06",
+          "2026-03-27",
+          "2026-04-17"
         ]
       },
-      "2026-04-16": {
-        "Fruit": [
-          "Sliced Banana"
-        ],
-        "Lunch Entree": [
-          "Cheeseburger"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup"
-        ],
-        "Vegetables": [
-          "Tater Tots"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-06",
+          "2026-03-27"
+        ]
+      }
+    },
+    "Marinara Sauce Cups": {
+      "2025-2026 Pre-K Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-16"
+        ]
+      }
+    },
+    "Mayonnaise": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Mini Cheese Calzone with Marinara Cups": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-03-10",
+          "2026-03-31",
+          "2026-04-28"
         ]
       },
-      "2026-04-17": {
-        "Fruit": [
-          "Oranges"
-        ],
-        "Lunch Entree": [
-          "Vegan BBQ Lentil Sloppy Joe Sandwich with Fingerling Potatoes"
-        ],
-        "Milk": [
-          "1% White Milk"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-10",
+          "2026-03-31",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Mini Cinnamon Rolls": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Mini French Toast": {
+      "2025-2026 Pre-K Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Mini Maple Chip Pancakes": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
       },
-      "2026-04-20": {
-        "Fruit": [
-          "Frozen Fruit Slushie Cup"
-        ],
-        "Lunch Entree": [
-          "Cheese Wedge Pizza"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Vegetables": [
-          "Cucumbers"
+      "2025-2026 Pre-K Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Mustard": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Non Fat White Milk": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-04-21": {
-        "Fruit": [
-          "Canned Diced Pears"
-        ],
-        "Lunch Entree": [
-          "Cheesy Rippable Breadstick with Marinara Sauce"
-        ],
-        "Milk": [
-          "1% White Milk"
+      "2025-2026 Elementary School Lunch": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Orange Chicken Rice Bowl": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-20",
+          "2026-04-24"
         ]
       },
-      "2026-04-23": {
-        "Fruit": [
-          "Juicy Kiwifruit"
-        ],
-        "Lunch Entree": [
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Tartar Sauce"
-        ],
-        "Vegetables": [
-          "Tater Tots"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-04-24"
+        ]
+      }
+    },
+    "Orange Wedges": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-29"
         ]
       },
-      "2026-04-24": {
-        "Fruit": [
-          "Oranges"
-        ],
-        "Lunch Entree": [
-          "Orange Chicken Rice Bowl"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Vegetables": [
-          "Broccoli"
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Oranges": {
+      "2025-2026 Pre-K Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Pasta with Meat Sauce": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-30",
+          "2026-04-27"
         ]
       },
-      "2026-04-27": {
-        "Fruit": [
-          "Applesauce"
-        ],
-        "Lunch Entree": [
-          "Pasta with Meat Sauce"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Vegetables": [
-          "Green Peas"
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-30",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Peach Cup": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26"
         ]
       },
-      "2026-04-28": {
-        "Fruit": [
-          "Canned Diced Pears"
-        ],
-        "Lunch Entree": [
-          "Mini Cheese Calzone with Marinara Cups"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Ranch Dressing"
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27"
+        ]
+      }
+    },
+    "Pickled Onions": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-15"
+        ]
+      }
+    },
+    "Pizza Stack Pack (Turkey)": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "C Lunch",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-31",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Pretzel with String Cheese and Honey Mustard Dipping Sauce": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-04-14"
+        ]
+      }
+    },
+    "Pumpkin Bread": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
+        ]
+      }
+    },
+    "Raisins": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
       },
-      "2026-04-30": {
-        "Fruit": [
-          "Juicy Kiwifruit"
-        ],
-        "Lunch Entree": [
-          "Golden Crispy Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk"
-        ],
-        "Misc.": [
-          "Ketchup"
-        ],
-        "Vegetables": [
-          "Tater Tots"
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-12"
+        ]
+      },
+      "2025-2026 Pre-K Breakfast": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Ranch Dressing": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      },
+      "2025-2026 Pre-K Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-17",
+          "2026-03-31",
+          "2026-04-03",
+          "2026-04-14",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Raspberry Smoothie": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Salad Mix": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-27",
+          "2026-04-28"
+        ]
+      },
+      "2025-2026 Pre-K Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-14"
+        ]
+      }
+    },
+    "Salsa": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      },
+      "2025-2026 Pre-K Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-03",
+          "2026-03-24"
+        ]
+      }
+    },
+    "Shredded Lettuce": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Sliced Banana": {
+      "2025-2026 Pre-K Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-16"
+        ]
+      }
+    },
+    "Sliced Bread Variety": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Sliced Red Onion": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Sour Cream": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      },
+      "2025-2026 Pre-K Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-03",
+          "2026-03-24"
+        ]
+      }
+    },
+    "Southwest Chicken Salad with BBQ Ranch Dressing": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "C Lunch",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24"
+        ]
+      }
+    },
+    "Steamed Broccoli": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-20",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Sunbutter Sandwich": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "C Lunch",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Sweet Apple Topping": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
+        ]
+      }
+    },
+    "Tartar Sauce": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-13",
+          "2026-03-20"
+        ]
+      },
+      "2025-2026 Pre-K Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-04-23"
+        ]
+      }
+    },
+    "Tater Tots": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      },
+      "2025-2026 Pre-K Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Tomato Soup with Cheese Pizza Quesadilla": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-16"
+        ]
+      }
+    },
+    "Turkey and Cheese Hoagie Sandwich": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "C Lunch",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Turkey Cheese Nachos": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Turkey Ham & Cheese on Hawaiian Bun": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Vegan BBQ Lentil Sloppy Joe Sandwich": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-03-06",
+          "2026-03-27"
+        ]
+      }
+    },
+    "Vegan BBQ Lentil Sloppy Joe Sandwich with Fingerling Potatoes": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-04-17"
+        ]
+      },
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-04-17"
+        ]
+      }
+    },
+    "Vegan Burger": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-03-12",
+          "2026-04-02",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Vegan Chicken Burger": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-03-05",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-16"
+        ]
+      },
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-19"
+        ]
+      }
+    },
+    "Waffles and Scrambled Eggs": {
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-04-14"
+        ]
+      }
+    },
+    "Wild Alaska Fish & Chips": {
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-03-13"
+        ]
+      }
+    },
+    "Wild Alaska Fish & Chips with Roll": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-03-13",
+          "2026-03-20",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Wild Alaska Fish Burger": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-04-23"
+        ]
+      },
+      "2025-2026 Pre-K Lunch": {
+        "category": "Lunch Entree",
+        "days": [
+          "2026-04-23"
+        ]
+      }
+    },
+    "Wild Coho Salmon with Rice Pilaf": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-04-03"
+        ]
+      }
+    },
+    "Yogurt Dippers": {
+      "2025-2026 Elementary School Breakfast": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Yogurt Lunch with Mini Confetti Pancakes": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "C Lunch",
+        "days": [
+          "2026-04-24"
+        ]
+      }
+    },
+    "Yogurt Lunch with Mini French Toast": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "C Lunch",
+        "days": [
+          "2026-03-06",
+          "2026-03-27",
+          "2026-04-13"
+        ]
+      }
+    },
+    "Yogurt Lunch with Mini Waffles": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "C Lunch",
+        "days": [
+          "2026-03-20"
+        ]
+      }
+    },
+    "Yogurt Lunch with Puffed Pancake Bites": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "C Lunch",
+        "days": [
+          "2026-03-13",
+          "2026-04-03"
         ]
       }
     }

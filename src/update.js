@@ -64,7 +64,7 @@ const updateSchool = async (domain, school, apps) => {
   });
 
   console.log(
-    `Wrote school data for ${domain}/${school} (${Object.keys(weather).length} weather, ${Object.keys(menus).length} menus, ${subs.length} subs)`,
+    `Wrote school data for ${domain}/${school} (${Object.keys(weather).length} weather, ${Object.keys(menus).length} menu items, ${subs.length} subs)`,
   );
 };
 

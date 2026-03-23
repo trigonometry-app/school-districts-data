@@ -9,2422 +9,2225 @@
     "2026-03-29": "A chance of rain. Mostly cloudy, with a high near 61."
   },
   "menus": {
-    "2025-2026 SAS and ILAB BREAKFAST": {
-      "2026-03-02": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Assorted Fruit Cup",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Mini French Toast",
-          "Powdered Mini Donut Holes",
-          "Waffles, Strawberry or Maple"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
+    "1% White Milk": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-03-03": {
-        "Breakfast Entree": [
-          "Apple",
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "English Muffin Omelet Sandwich",
-          "Fasting Breakfast Pack K-12",
-          "Peanut Butter & Jelly Uncrustable Sandwich"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-04": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fasting Breakfast Pack K-12",
-          "Fruit Cup",
-          "Mini Bagel, Mini Cinni or Apple Frudel"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-05": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Fresh Orange",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-06": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Fruit Cup",
-          "Puffed Pancake Bites",
-          "Twin Cinnamon Rolls"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-09": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Assorted Fruit Cup",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Mini French Toast",
-          "Powdered Mini Donut Holes",
-          "Waffles, Strawberry or Maple"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-10": {
-        "Breakfast Entree": [
-          "Apple",
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "English Muffin Omelet Sandwich",
-          "Fasting Breakfast Pack K-12",
-          "Peanut Butter & Jelly Uncrustable Sandwich"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-11": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fasting Breakfast Pack K-12",
-          "Fruit Cup",
-          "Mini Bagel, Mini Cinni or Apple Frudel"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-12": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Fresh Orange",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-13": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Fruit Cup",
-          "Puffed Pancake Bites",
-          "Twin Cinnamon Rolls"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-16": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Assorted Fruit Cup",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Mini French Toast",
-          "Powdered Mini Donut Holes",
-          "Waffles, Strawberry or Maple"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-17": {
-        "Breakfast Entree": [
-          "Apple",
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "English Muffin Omelet Sandwich",
-          "Fasting Breakfast Pack K-12",
-          "Peanut Butter & Jelly Uncrustable Sandwich"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-18": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fasting Breakfast Pack K-12",
-          "Fruit Cup",
-          "Mini Bagel, Mini Cinni or Apple Frudel"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-19": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Fasting Breakfast Pack K-12",
-          "Fresh Orange",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-20": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Fruit Cup",
-          "Puffed Pancake Bites",
-          "Twin Cinnamon Rolls"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-23": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Assorted Fruit Cup",
-          "Cereal Variety",
-          "Mini French Toast",
-          "Powdered Mini Donut Holes",
-          "Waffles, Strawberry or Maple"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-24": {
-        "Breakfast Entree": [
-          "Apple",
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "English Muffin Omelet Sandwich",
-          "Peanut Butter & Jelly Uncrustable Sandwich"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-25": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fruit Cup",
-          "Mini Bagel, Mini Cinni or Apple Frudel"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-26": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Fresh Orange",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-27": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Fruit Cup",
-          "Puffed Pancake Bites",
-          "Twin Cinnamon Rolls"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-30": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Assorted Fruit Cup",
-          "Cereal Variety",
-          "Mini French Toast",
-          "Powdered Mini Donut Holes",
-          "Waffles, Strawberry or Maple"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-03-31": {
-        "Breakfast Entree": [
-          "Apple",
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Egg & Cheese English Muffin Sandwich",
-          "Peanut Butter & Jelly Uncrustable Sandwich"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-01": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Breakfast Cheese Nachos",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fruit Cup"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-02": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Fresh Orange",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-03": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Fruit Cup",
-          "Sliced Bread Variety",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-13": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Assorted Fruit Cup",
-          "Cereal Variety",
-          "Mini French Toast",
-          "Powdered Mini Donut Holes",
-          "Waffles, Strawberry or Maple"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-14": {
-        "Breakfast Entree": [
-          "Apple",
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Egg & Cheese English Muffin Sandwich",
-          "Peanut Butter & Jelly Uncrustable Sandwich"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-15": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fruit Cup",
-          "Muffin Top and String Cheese"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-16": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Fresh Orange",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-17": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Fruit Cup",
-          "Sliced Bread Variety",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-20": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Assorted Fruit Cup",
-          "Cereal Variety",
-          "Mini French Toast",
-          "Powdered Mini Donut Holes",
-          "Waffles, Strawberry or Maple"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-21": {
-        "Breakfast Entree": [
-          "Apple",
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Egg & Cheese English Muffin Sandwich",
-          "Peanut Butter & Jelly Uncrustable Sandwich"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-22": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fruit Cup",
-          "Muffin Top and String Cheese"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-23": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Fresh Orange",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-24": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Fruit Cup",
-          "Sliced Bread Variety",
-          "Whole Grain Donut Long"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-27": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Assorted Fruit Cup",
-          "Cereal Variety",
-          "Mini French Toast",
-          "Powdered Mini Donut Holes",
-          "Waffles, Strawberry or Maple"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-28": {
-        "Breakfast Entree": [
-          "Apple",
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Egg & Cheese English Muffin Sandwich",
-          "Peanut Butter & Jelly Uncrustable Sandwich"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-29": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Cereal Variety",
-          "Eggo Mini Confetti Pancakes",
-          "Fruit Cup",
-          "Muffin Top and String Cheese"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ]
-      },
-      "2026-04-30": {
-        "Breakfast Entree": [
-          "Applesauce Cups, Flavored",
-          "Breakfast Pizza",
-          "Cereal Variety",
-          "Fresh Orange",
-          "Sliced Bread Variety"
-        ],
-        "Fruit": [
-          "Apple Juice",
-          "Fruit Punch"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       }
     },
-    "2025-2026 SAS and ILAB Lunch": {
-      "2026-03-02": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Specials": [
-          "Potato Soup with Cheese Ripper"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Green Peas",
-          "Shredded Lettuce"
+    "Apple": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
       },
-      "2026-03-03": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Spicy Chicken Wrap",
-          "Vegan Thai Noodle Salad",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Corn Dog",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Bacon Ranch Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Apple Juice": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-03-04": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Wrap",
-          "Vegan Spicy Red Pepper Hummus Pack",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Golden Crispy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Spicy Veggie Pizza"
-        ],
-        "Special": [
-          "Chicken Enchiladas with Fajita Veggies"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli Salad",
-          "Green Peas",
-          "Salad Mix"
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Applesauce Cups, Flavored": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Applesauce Cups, Variety": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Assorted Fruit Cup": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
         ]
       },
-      "2026-03-05": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Pears",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Mexican Bean Salad",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Buffalo Chicken Pizza"
-        ],
-        "Specials": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Baby Carrots": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Bacon Ranch Pizza": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24"
+        ]
+      }
+    },
+    "Baked BBQ Beans": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27"
+        ]
+      }
+    },
+    "Baked Potato with Cheesy Broccoli and Roll": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-18"
+        ]
+      }
+    },
+    "Banana": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-16"
+        ]
+      }
+    },
+    "BBQ Chicken Pizza": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Bean and Cheese Burrito with Cheese Sauce and Veggies": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-25"
+        ]
+      }
+    },
+    "Beef Chili with Cornbread": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-11"
+        ]
+      }
+    },
+    "Black Beans": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-14"
+        ]
+      }
+    },
+    "Breakfast Cheese Nachos": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-04-01"
+        ]
+      }
+    },
+    "Breakfast Pizza": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Broccoli": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Broccoli Salad": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
+        ]
+      }
+    },
+    "Buffalo Chicken Pizza": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26"
+        ]
+      }
+    },
+    "Caesar Dressed Romaine": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Canned Diced Peaches": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Canned Pears": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26"
+        ]
+      }
+    },
+    "Canned Sliced Pears": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Cereal Variety": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Cheese Nachos": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Cheeseburger": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-02",
+          "2026-03-05",
+          "2026-03-09",
+          "2026-03-12",
+          "2026-03-16",
+          "2026-03-19",
+          "2026-03-23",
+          "2026-03-26",
+          "2026-03-30",
+          "2026-04-02",
+          "2026-04-13",
+          "2026-04-16",
+          "2026-04-20",
+          "2026-04-23",
+          "2026-04-27",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Chef Salad with Roll": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Chicken and Waffles": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-16",
+          "2026-04-13"
+        ]
+      }
+    },
+    "Chicken Buffalo Totchos with Garlic Bread": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-01"
+        ]
+      }
+    },
+    "Chicken Caesar Salad with Roll": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Chicken Enchiladas with Fajita Veggies": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-04"
+        ]
+      }
+    },
+    "Chicken Tenders with Pretzel Bites": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Chicken Tortilla Soup": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-09"
+        ]
+      }
+    },
+    "Cilantro Slaw": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Coleslaw": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23"
+        ]
+      }
+    },
+    "Corn": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Corn ": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-13"
+        ]
+      }
+    },
+    "Corn Dog": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24"
+        ]
+      }
+    },
+    "Cucumbers": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-03-30",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-20",
+          "2026-04-23",
+          "2026-04-27",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Dried Cranberries": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Edamame": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Egg & Cheese English Muffin Sandwich": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Eggo Mini Confetti Pancakes": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "English Muffin Omelet Sandwich": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24"
+        ]
+      }
+    },
+    "Fasting Breakfast Pack K-12": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19"
+        ]
+      }
+    },
+    "Fasting Lunch Pack 9-12": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Off Site Meal Pack",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19"
+        ]
+      }
+    },
+    "Feijoada with White Rice": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-13"
+        ]
+      }
+    },
+    "Four Cheese Pizza": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-03-02",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-02",
+          "2026-04-13",
+          "2026-04-16",
+          "2026-04-20",
+          "2026-04-23",
+          "2026-04-27",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Fresh Orange": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
         ]
       },
-      "2026-03-06": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Chicken Tenders with Pretzel Bites",
-          "Tater Tots",
-          "Vegan Chicken Burger",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Special": [
-          "Jerk Chicken  White Rice and Mango Salsa"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Fruit Cup": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Fruit Punch": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-03-09": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Specials": [
-          "Chicken Tortilla Soup"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Green Peas",
-          "Shredded Lettuce"
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Golden Crispy Chicken Burger": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Green Peas": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Hawaiian Pizza": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Italian Turkey Deli Sandwich": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Italian Turkey Wrap": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
+        ]
+      }
+    },
+    "Jerk Chicken  White Rice and Mango Salsa": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-06",
+          "2026-03-27",
+          "2026-04-17"
+        ]
+      }
+    },
+    "Ketchup": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Korean BBQ Pork Rice Bowl": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-27"
+        ]
+      }
+    },
+    "Korean BBQ Tofu Rice Bowl": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-30"
+        ]
+      }
+    },
+    "Macaroni and Cheese with Roll": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-24"
+        ]
+      }
+    },
+    "Meatless Chicken Buffalo Totchos with Garlic Bread": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-29"
+        ]
+      }
+    },
+    "Mini Bagel, Mini Cinni or Apple Frudel": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
+        ]
+      }
+    },
+    "Mini French Toast": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Muffin Top and String Cheese": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Mustard": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Non Fat White Milk": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
       },
-      "2026-03-10": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Spicy Chicken Wrap",
-          "Vegan Thai Noodle Salad",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Corn Dog",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Bacon Ranch Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Milk",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
-      },
-      "2026-03-11": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Wrap",
-          "Vegan Spicy Red Pepper Hummus Pack",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Golden Crispy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Spicy Veggie Pizza"
-        ],
-        "Special": [
-          "Beef Chili with Cornbread"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli Salad",
-          "Green Peas",
-          "Salad Mix"
+      }
+    },
+    "NSD Burger Sauce": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
-      },
-      "2026-03-12": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Pears",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Mexican Bean Salad",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Buffalo Chicken Pizza"
-        ],
-        "Specials": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Orange Chicken Chow Mein Noodle Bowl": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
         ]
-      },
-      "2026-03-13": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Chicken Tenders with Pretzel Bites",
-          "Tater Tots",
-          "Vegan Chicken Burger",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Off-Site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Specials": [
-          "Feijoada with White Rice"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "Orange Chicken Rice Bowl": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
         ]
-      },
-      "2026-03-16": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Special": [
-          "Chicken and Waffles"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Green Peas",
-          "Shredded Lettuce"
+      }
+    },
+    "Pasta with Meat Sauce": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-22"
         ]
-      },
-      "2026-03-17": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Spicy Chicken Wrap",
-          "Vegan Thai Noodle Salad",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Corn Dog",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Off-site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Bacon Ranch Pizza"
-        ],
-        "Special": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      }
+    },
+    "Peach Cup": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Fruit",
+        "days": [
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-25",
+          "2026-03-27"
         ]
-      },
-      "2026-03-18": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Wrap",
-          "Vegan Spicy Red Pepper Hummus Pack",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Golden Crispy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Spicy Veggie Pizza"
-        ],
-        "Special": [
-          "Baked Potato with Cheesy Broccoli and Roll"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli Salad",
-          "Green Peas",
-          "Salad Mix"
+      }
+    },
+    "Peanut Butter & Jelly Uncrustable Sandwich": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
-      },
-      "2026-03-19": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Pears",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Mexican Bean Salad",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Off-site Meal Pack": [
-          "Fasting Lunch Pack 9-12"
-        ],
-        "Pizza": [
-          "Buffalo Chicken Pizza"
-        ],
-        "Special": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Pickled Onions": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-03",
+          "2026-03-06",
+          "2026-03-10",
+          "2026-03-13",
+          "2026-03-17",
+          "2026-03-20",
+          "2026-03-24",
+          "2026-03-27",
+          "2026-03-31",
+          "2026-04-03",
+          "2026-04-14",
+          "2026-04-17",
+          "2026-04-21",
+          "2026-04-24",
+          "2026-04-28"
         ]
-      },
-      "2026-03-20": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Chicken Tenders with Pretzel Bites",
-          "Tater Tots",
-          "Vegan Chicken Burger",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "Pico de Gallo": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-21",
+          "2026-04-28"
         ]
-      },
-      "2026-03-23": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Specials": [
-          "Tomato Soup with Cheezy Breadstick"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Coleslaw",
-          "Green Peas",
-          "Shredded Lettuce"
+      }
+    },
+    "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
         ]
-      },
-      "2026-03-24": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Spicy Chicken Wrap",
-          "Vegan Thai Noodle Salad",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Corn Dog",
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Pizza": [
-          "Bacon Ranch Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      }
+    },
+    "Potato Soup with Cheese Ripper": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-02"
         ]
-      },
-      "2026-03-25": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Wrap",
-          "Vegan Spicy Red Pepper Hummus Pack",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Golden Crispy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Spicy Veggie Pizza"
-        ],
-        "Special": [
-          "Bean and Cheese Burrito with Cheese Sauce and Veggies"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli Salad",
-          "Green Peas",
-          "Salad Mix"
+      }
+    },
+    "Powdered Mini Donut Holes": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
         ]
-      },
-      "2026-03-26": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Pears",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Mexican Bean Salad",
-          "Yogurt Parfait with Blueberries and Mini Muffin"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Buffalo Chicken Pizza"
-        ],
-        "Specials": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Puffed Pancake Bites": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27"
         ]
-      },
-      "2026-03-27": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fruit Punch",
-          "Peach Cup"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Chicken Tenders with Pretzel Bites",
-          "Tater Tots",
-          "Vegan Chicken Burger",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Special": [
-          "Jerk Chicken  White Rice and Mango Salsa"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Baked BBQ Beans",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "Ramen Bowl": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-15"
         ]
-      },
-      "2026-03-30": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "Vegan Buffalo Chickpea Wrap"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Specials": [
-          "Korean BBQ Tofu Rice Bowl"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cucumbers",
-          "Edamame",
-          "Shredded Lettuce"
+      }
+    },
+    "Ranch Dressing": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
-      },
-      "2026-03-31": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Thai Noodle Salad"
-        ],
-        "Grill": [
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Pizza": [
-          "Hawaiian Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      }
+    },
+    "Refried Beans": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
-      },
-      "2026-04-01": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Assorted Fruit Cup",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chef Salad with Roll",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Golden Crispy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Spicy Veggie Pizza"
-        ],
-        "Special": [
-          "Chicken Buffalo Totchos with Garlic Bread"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Caesar Dressed Romaine",
-          "Green Peas"
+      }
+    },
+    "Romaine Salad": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-13",
+          "2026-04-14"
         ]
-      },
-      "2026-04-02": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Diced Peaches",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Specials": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Salad Mix": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
         ]
-      },
-      "2026-04-03": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Applesauce Cups, Variety",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Chicken Tenders with Pretzel Bites",
-          "Tater Tots",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza"
-        ],
-        "Specials": [
-          "Wild Alaska Fish Tacos"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "Salsa": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
-      },
-      "2026-04-13": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "Vegan Buffalo Chickpea Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Special": [
-          "Chicken and Waffles"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Corn ",
-          "Edamame",
-          "Romaine Salad"
+      }
+    },
+    "Shredded Lettuce": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28"
         ]
-      },
-      "2026-04-14": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Thai Noodle Salad"
-        ],
-        "Grill": [
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Pizza": [
-          "Hawaiian Pizza"
-        ],
-        "Special": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Black Beans",
-          "Pickled Onions",
-          "Romaine Salad",
-          "Salsa"
+      }
+    },
+    "Sliced Bread Variety": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-30"
         ]
-      },
-      "2026-04-15": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Assorted Fruit Cup",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chef Salad with Roll",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Golden Crispy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Spicy Veggie Pizza"
-        ],
-        "Special": [
-          "Ramen Bowl"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Caesar Dressed Romaine",
-          "Green Peas"
+      }
+    },
+    "Sliced Jalapenos": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
-      },
-      "2026-04-16": {
-        "Fruit": [
-          "Apple Juice",
-          "Banana",
-          "Canned Diced Peaches",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Special": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Spicy Chicken Burger": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
         ]
-      },
-      "2026-04-17": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Applesauce Cups, Variety",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Chicken Tenders with Pretzel Bites",
-          "Tater Tots",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza"
-        ],
-        "Special": [
-          "Jerk Chicken  White Rice and Mango Salsa"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "Spicy Chicken Wrap": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24"
         ]
-      },
-      "2026-04-20": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "Vegan Buffalo Chickpea Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Specials": [
-          "Tomato Soup with Cheezy Breadstick"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cucumbers",
-          "Edamame",
-          "Shredded Lettuce"
+      }
+    },
+    "Spicy Veggie Pizza": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Pizza",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
         ]
-      },
-      "2026-04-21": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Thai Noodle Salad"
-        ],
-        "Grill": [
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Pizza": [
-          "Hawaiian Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      }
+    },
+    "Steamed Broccoli": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
         ]
-      },
-      "2026-04-22": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Assorted Fruit Cup",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chef Salad with Roll",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Spicy Hummus Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Golden Crispy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Spicy Veggie Pizza"
-        ],
-        "Special": [
-          "Pasta with Meat Sauce"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Caesar Dressed Romaine",
-          "Green Peas"
+      }
+    },
+    "Tartar Sauce": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Misc.",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
         ]
-      },
-      "2026-04-23": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Diced Peaches",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Specials": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Tater Tots": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04",
+          "2026-03-05",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-10",
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-17",
+          "2026-03-18",
+          "2026-03-19",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-24",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-03-31",
+          "2026-04-01",
+          "2026-04-02",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-14",
+          "2026-04-15",
+          "2026-04-16",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-21",
+          "2026-04-22",
+          "2026-04-23",
+          "2026-04-24",
+          "2026-04-27",
+          "2026-04-28",
+          "2026-04-29",
+          "2026-04-30"
         ]
-      },
-      "2026-04-24": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Applesauce Cups, Variety",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Turkey Ham & Cheese Sandwich",
-          "Vegan Satay Pinwheel",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Chicken Tenders with Pretzel Bites",
-          "Tater Tots",
-          "Wild Alaska Fish Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Tartar Sauce"
-        ],
-        "Pizza": [
-          "BBQ Chicken Pizza"
-        ],
-        "Special": [
-          "Macaroni and Cheese with Roll"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Green Peas",
-          "Pickled Onions",
-          "Shredded Lettuce"
+      }
+    },
+    "Tomato Soup with Cheezy Breadstick": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-23",
+          "2026-04-20"
         ]
-      },
-      "2026-04-27": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Canned Sliced Pears",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "Italian Turkey Deli Sandwich",
-          "Vegan Buffalo Chickpea Wrap",
-          "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Specials": [
-          "Korean BBQ Pork Rice Bowl"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cucumbers",
-          "Edamame",
-          "Shredded Lettuce"
+      }
+    },
+    "Turkey and Cheese Deli Sandwich with Vegetables": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
         ]
-      },
-      "2026-04-28": {
-        "Fruit": [
-          "Apple Juice",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Thai Noodle Salad"
-        ],
-        "Grill": [
-          "Spicy Chicken Burger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing",
-          "Sliced Jalapenos"
-        ],
-        "Pizza": [
-          "Hawaiian Pizza"
-        ],
-        "Specials": [
-          "Cheese Nachos",
-          "Refried Beans",
-          "Turkey or Chicken Nachos with Cheese"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Pickled Onions",
-          "Pico de Gallo",
-          "Salsa",
-          "Shredded Lettuce"
+      }
+    },
+    "Turkey BLT Deli Sandwich": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
         ]
-      },
-      "2026-04-29": {
-        "Fruit": [
-          "Apple",
-          "Apple Juice",
-          "Assorted Fruit Cup",
-          "Dried Cranberries",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chef Salad with Roll",
-          "Turkey and Cheese Deli Sandwich with Vegetables",
-          "Vegan Spicy Hummus Wrap"
-        ],
-        "Grill": [
-          "Golden Crispy Chicken Burger",
-          "Tater Tots",
-          "Vegan Chicken Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Spicy Veggie Pizza"
-        ],
-        "Special": [
-          "Meatless Chicken Buffalo Totchos with Garlic Bread"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Broccoli",
-          "Caesar Dressed Romaine",
-          "Green Peas"
+      }
+    },
+    "Turkey Ham & Cheese Sandwich": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
         ]
-      },
-      "2026-04-30": {
-        "Fruit": [
-          "Apple Juice",
-          "Canned Diced Peaches",
-          "Dried Cranberries",
-          "Fresh Orange",
-          "Fruit Punch"
-        ],
-        "Grab and Go": [
-          "Chicken Caesar Salad with Roll",
-          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
-          "Turkey BLT Deli Sandwich",
-          "Vegan Southwest Bowl with Fritos"
-        ],
-        "Grill": [
-          "Cheeseburger",
-          "Tater Tots",
-          "Vegan Burger"
-        ],
-        "Milk": [
-          "1% White Milk",
-          "Non Fat White Milk"
-        ],
-        "Misc.": [
-          "Ketchup",
-          "Mustard",
-          "NSD Burger Sauce",
-          "Ranch Dressing"
-        ],
-        "Pizza": [
-          "Four Cheese Pizza"
-        ],
-        "Specials": [
-          "Orange Chicken Chow Mein Noodle Bowl",
-          "Orange Chicken Rice Bowl",
-          "Steamed Broccoli"
-        ],
-        "Vegetables": [
-          "Baby Carrots",
-          "Cilantro Slaw",
-          "Corn",
-          "Cucumbers"
+      }
+    },
+    "Turkey or Chicken Nachos with Cheese": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Twin Cinnamon Rolls": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27"
+        ]
+      }
+    },
+    "Vegan Buffalo Chickpea Wrap": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Vegan Burger": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26",
+          "2026-03-31",
+          "2026-04-02",
+          "2026-04-14",
+          "2026-04-16",
+          "2026-04-21",
+          "2026-04-23",
+          "2026-04-28",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Vegan Chicken Burger": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-27",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Vegan Mexican Bean Salad": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-05",
+          "2026-03-12",
+          "2026-03-19",
+          "2026-03-26"
+        ]
+      }
+    },
+    "Vegan Satay Pinwheel": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Vegan Southwest Bowl with Fritos": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-04-02",
+          "2026-04-16",
+          "2026-04-23",
+          "2026-04-30"
+        ]
+      }
+    },
+    "Vegan Spicy Hummus Wrap": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22",
+          "2026-04-29"
+        ]
+      }
+    },
+    "Vegan Spicy Red Pepper Hummus Pack": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-04",
+          "2026-03-11",
+          "2026-03-18",
+          "2026-03-25"
+        ]
+      }
+    },
+    "Vegan Thai Noodle Salad": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-03",
+          "2026-03-10",
+          "2026-03-17",
+          "2026-03-24",
+          "2026-03-31",
+          "2026-04-14",
+          "2026-04-21",
+          "2026-04-28"
+        ]
+      }
+    },
+    "Waffles, Strawberry or Maple": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-03-02",
+          "2026-03-09",
+          "2026-03-16",
+          "2026-03-23",
+          "2026-03-30",
+          "2026-04-13",
+          "2026-04-20",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Whole Grain Donut Long": {
+      "2025-2026 SAS and ILAB BREAKFAST": {
+        "category": "Breakfast Entree",
+        "days": [
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Wild Alaska Fish Burger": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grill",
+        "days": [
+          "2026-03-06",
+          "2026-03-13",
+          "2026-03-20",
+          "2026-03-27",
+          "2026-04-03",
+          "2026-04-17",
+          "2026-04-24"
+        ]
+      }
+    },
+    "Wild Alaska Fish Tacos": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-03"
+        ]
+      }
+    },
+    "Yogurt Grab & Go Lunch with Blueberry Mini Waffles": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-02",
+          "2026-03-04",
+          "2026-03-06",
+          "2026-03-09",
+          "2026-03-11",
+          "2026-03-13",
+          "2026-03-16",
+          "2026-03-18",
+          "2026-03-20",
+          "2026-03-23",
+          "2026-03-25",
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-03",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-22",
+          "2026-04-24",
+          "2026-04-27"
+        ]
+      }
+    },
+    "Yogurt Parfait with Blueberries and Mini Muffin": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Grab And Go",
+        "days": [
+          "2026-03-03",
+          "2026-03-05",
+          "2026-03-10",
+          "2026-03-12",
+          "2026-03-17",
+          "2026-03-19",
+          "2026-03-24",
+          "2026-03-26"
         ]
       }
     }

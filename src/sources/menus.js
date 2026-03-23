@@ -2,90 +2,101 @@ import { fetchJson, fetchResponse } from "../http.js";
 
 const MENU_MONTH_OFFSETS = [0, 1];
 
-const sortObject = (value) =>
-  Object.fromEntries(
-    Object.entries(value).sort(([a], [b]) => a.localeCompare(b)),
-  );
+const sortedEntries = (obj) =>
+  Object.entries(obj).sort(([a], [b]) => a.localeCompare(b));
 
-const normalizeMenuListing = (listing) =>
+const dedupSort = (arr) => [...new Set(arr)].sort((a, b) => a.localeCompare(b));
+
+const normalizeDayListing = (listing) =>
   Object.fromEntries(
-    Object.entries(sortObject(listing)).map(([section, items]) => [
+    sortedEntries(listing).map(([section, items]) => [
       section,
-      [...new Set(items)].sort((a, b) => a.localeCompare(b)),
+      dedupSort(items),
     ]),
   );
 
-const getMenuMonths = () => {
-  const current = new Date();
-  current.setUTCDate(1);
+// Canonicalize the most common singular/plural mismatch in the source data.
+const canonicalizeCategoryName = (value) =>
+  value
+    .trim()
+    .replace(/[-_]+/g, " ")
+    .replace(/\s+/g, " ")
+    .split(" ")
+    .map((word) => word[0].toUpperCase() + word.slice(1).toLowerCase())
+    .join(" ")
+    .replace(/^Special$/, "Specials");
 
-  return MENU_MONTH_OFFSETS.map((offset) => {
-    const date = new Date(current);
-    date.setUTCMonth(date.getUTCMonth() + offset);
-    return {
-      year: date.getUTCFullYear(),
-      month: date.getUTCMonth() + 1,
-    };
-  });
-};
+const normalizeItemListing = (listing) =>
+  Object.fromEntries(
+    sortedEntries(listing).map(([itemName, menus]) => [
+      itemName,
+      Object.fromEntries(
+        sortedEntries(menus).map(([menuName, entry]) => [
+          menuName,
+          { category: entry.category, days: dedupSort(entry.days) },
+        ]),
+      ),
+    ]),
+  );
 
 const parseMenuListing = (setting) => {
-  const currentDisplay = JSON.parse(setting).current_display;
-
   const listing = {};
   let category = "";
-
-  for (const item of currentDisplay) {
-    if (item.type == "category") {
-      category = item.name;
-      continue;
-    }
-
-    if (item.type != "recipe") {
-      continue;
-    }
-
-    const section = category || "Items";
-    (listing[section] ??= []).push(item.name);
+  for (const item of JSON.parse(setting).current_display) {
+    if (item.type == "category") category = item.name;
+    else if (item.type == "recipe")
+      (listing[category || "Items"] ??= []).push(item.name);
   }
+  return Object.keys(listing).length ? normalizeDayListing(listing) : undefined;
+};
 
-  return Object.keys(listing).length
-    ? normalizeMenuListing(listing)
-    : undefined;
+const fetchOverwrites = async (url) => {
+  const response = await fetchResponse(url);
+  if (response.status == 400) {
+    console.warn(`Menus: skipping ${url}.`);
+    return undefined;
+  }
+  if (!response.ok) throw new Error(`${url} is ${response.status}ing`);
+  return (await response.json()).data;
+};
+
+const processOverwrite = (output, menuName, { day, setting }) => {
+  const listing = parseMenuListing(setting);
+  if (!listing) return;
+  for (const [rawCategory, items] of Object.entries(listing)) {
+    const category = canonicalizeCategoryName(rawCategory);
+    for (const item of items) {
+      const entry = ((output[item] ??= {})[menuName] ??= {
+        category,
+        days: [],
+      });
+      if (entry.category != category)
+        throw new Error(
+          `Conflicting categories for ${item} in ${menuName}: ${entry.category} vs ${category}`,
+        );
+      entry.days.push(day);
+    }
+  }
 };
 
 export const loadMenus = async ({ districtBase, schoolBase }) => {
   const { data: menus } = await fetchJson(`${schoolBase}/menus`);
+  const now = new Date();
   const output = {};
+  for (const menu of menus) {
+    const { id, name: menuName } = menu;
+    for (const offset of MENU_MONTH_OFFSETS) {
+      const d = new Date(
+        Date.UTC(now.getUTCFullYear(), now.getUTCMonth() + offset, 1),
+      );
+      const url = `${districtBase}/menus/${id}/year/${d.getUTCFullYear()}/month/${d.getUTCMonth() + 1}/date_overwrites`;
 
-  for (const { id, name } of menus) {
-    const menuName = name;
-    const menuDays = {};
-
-    for (const { year, month } of getMenuMonths()) {
-      const url = `${districtBase}/menus/${id}/year/${year}/month/${month}/date_overwrites`;
-      const response = await fetchResponse(url);
-      if (response.status == 400) {
-        console.warn(`Menus: skipping ${year}/${month} for ${url}.`);
-        continue;
+      const overwrites = await fetchOverwrites(url);
+      if (!overwrites) continue;
+      for (const overwrite of overwrites) {
+        processOverwrite(output, menuName, overwrite);
       }
-      if (!response.ok) {
-        throw new Error(
-          `${response.status} ${response.statusText} from ${url}`,
-        );
-      }
-
-      const { data: overwrites } = JSON.parse(await response.text());
-      for (const { day, setting } of overwrites) {
-        const listing = parseMenuListing(setting);
-        menuDays[day] = listing;
-      }
-    }
-
-    if (Object.keys(menuDays).length) {
-      output[menuName] = sortObject(menuDays);
     }
   }
-
-  return sortObject(output);
+  return normalizeItemListing(output);
 };
