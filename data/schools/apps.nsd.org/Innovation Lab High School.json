@@ -1619,6 +1619,7 @@
         "Grab and Go": [
           "Chicken Caesar Salad with Roll",
           "Italian Turkey Deli Sandwich",
+          "Vegan Buffalo Chickpea Wrap",
           "Yogurt Grab & Go Lunch with Blueberry Mini Waffles"
         ],
         "Grill": [
@@ -1639,8 +1640,13 @@
         "Pizza": [
           "Four Cheese Pizza"
         ],
+        "Specials": [
+          "Korean BBQ Tofu Rice Bowl"
+        ],
         "Vegetables": [
           "Baby Carrots",
+          "Cucumbers",
+          "Edamame",
           "Shredded Lettuce"
         ]
       },
@@ -1653,10 +1659,11 @@
         ],
         "Grab and Go": [
           "Chicken Caesar Salad with Roll",
+          "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin",
+          "Turkey BLT Deli Sandwich",
           "Vegan Thai Noodle Salad"
         ],
         "Grill": [
-          "Corn Dog",
           "Spicy Chicken Burger",
           "Tater Tots",
           "Vegan Burger"
@@ -1671,6 +1678,9 @@
           "NSD Burger Sauce",
           "Ranch Dressing",
           "Sliced Jalapenos"
+        ],
+        "Pizza": [
+          "Hawaiian Pizza"
         ],
         "Specials": [
           "Cheese Nachos",
