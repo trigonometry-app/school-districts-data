@@ -7,6 +7,8 @@ const sortedEntries = (obj) =>
 
 const dedupSort = (arr) => [...new Set(arr)].sort((a, b) => a.localeCompare(b));
 
+const normalizeMeal = (name) => name.trim();
+
 const normalizeDayListing = (listing) =>
   Object.fromEntries(
     sortedEntries(listing).map(([section, items]) => [
@@ -45,7 +47,7 @@ const parseMenuListing = (setting) => {
   for (const item of JSON.parse(setting).current_display) {
     if (item.type == "category") category = item.name;
     else if (item.type == "recipe")
-      (listing[category || "Items"] ??= []).push(item.name);
+      (listing[category || "Items"] ??= []).push(normalizeMeal(item.name));
   }
   return Object.keys(listing).length ? normalizeDayListing(listing) : undefined;
 };
