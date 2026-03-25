@@ -1,4 +1,4 @@
-name: Update Master Meals
+name: Update Root Meals
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  update-master-meals:
+  update-root-meals:
     runs-on: ubuntu-latest
 
     steps:
@@ -31,8 +31,8 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Update master meals data
-        run: pnpm update-master-meals
+      - name: Update root meals data
+        run: pnpm update-root-meals
 
       - name: Commit and push changes
         run: |
@@ -45,6 +45,6 @@ jobs:
             echo "No changes to commit"
           else
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
-            git commit -m "Update master meals - $TIMESTAMP"
+            git commit -m "Update root meals - $TIMESTAMP"
             git push
           fi

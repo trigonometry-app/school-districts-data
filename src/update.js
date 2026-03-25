@@ -20,7 +20,7 @@ const writeJson = async (filePath, data) => {
 const getAppBase = (apps, appName) =>
   apps.find((app) => app.app === appName).base;
 
-const loadMasterMealsForDomain = async (domain) => {
+const loadRootMealsForDomain = async (domain) => {
   const mealsFile = path.join(ROOT_MEALS_DIR, `${sanitizePathSegment(domain)}.json`);
   return JSON.parse(await readFile(mealsFile, "utf8"));
 };
@@ -81,7 +81,7 @@ for (const domain of Object.keys(schoolApps).sort((a, b) =>
 )) {
   await updateDistrict(domain);
 
-  const allMeals = await loadMasterMealsForDomain(domain);
+  const allMeals = await loadRootMealsForDomain(domain);
 
   const weatherByGridpoint = await loadWeather(
     Object.values(schoolApps[domain]).map((apps) => getAppBase(apps, "NWS")),
