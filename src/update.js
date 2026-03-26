@@ -50,10 +50,10 @@ const indexImageFilesByMeal = (imageFiles) => {
 
 const buildMealsForSchool = (listing, school, imageFilesByMeal, usedImageFiles) => {
   const meals = {};
+  const mealsWithImages = [];
 
   for (const [mealName, menus] of sortedEntries(listing)) {
     const matchingImageFiles = imageFilesByMeal.get(mealName) ?? [];
-    const hasImage = matchingImageFiles.length > 0;
     let schoolMenus = null;
 
     for (const [menuName, entry] of sortedEntries(menus)) {
@@ -64,17 +64,17 @@ const buildMealsForSchool = (listing, school, imageFilesByMeal, usedImageFiles) 
         category: entry.category,
         days: entry.days,
         servedWith: entry.servedWith,
-        hasImage,
       };
     }
 
     if (schoolMenus == null) continue;
 
+    if (matchingImageFiles.length > 0) mealsWithImages.push(mealName);
     for (const imageFile of matchingImageFiles) usedImageFiles.add(imageFile);
     meals[mealName] = schoolMenus;
   }
 
-  return meals;
+  return { meals, mealsWithImages };
 };
 
 const updateDistrict = async (domain) => {
@@ -117,7 +117,7 @@ const updateSchool = async (
     throw new Error(`Missing weather for ${school} (${forecastBase})`);
 
   const subs = await loadSubs({ synergyBase, school });
-  const meals = buildMealsForSchool(
+  const { meals, mealsWithImages } = buildMealsForSchool(
     allMeals,
     school,
     imageFilesByMeal,
@@ -127,6 +127,7 @@ const updateSchool = async (
   await writeJson(schoolFile, {
     weather,
     meals,
+    mealsWithImages,
     subs,
   });
 
