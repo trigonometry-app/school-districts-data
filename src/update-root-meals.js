@@ -17,7 +17,7 @@ const dedupSort = (arr) => [...new Set(arr)].sort((a, b) => a.localeCompare(b));
 
 const sanitizePathSegment = (value) => value.replaceAll("/", " - ");
 
-const normalizeMeal = (name) => name.trim();
+const normalizeMeal = (name) => name.trim().replace(/\s+/g, " ");
 
 const isAllWithText = (item) =>
   item.type == "text" &&
@@ -185,7 +185,10 @@ for (const [domain, appsBySchool] of sortedEntries(schoolApps)) {
     ),
   );
 
-  const filePath = path.join(ROOT_MEALS_DIR, `${sanitizePathSegment(domain)}.json`);
+  const filePath = path.join(
+    ROOT_MEALS_DIR,
+    `${sanitizePathSegment(domain)}.json`,
+  );
   await writeJson(filePath, domainMeals);
   console.log(
     `Wrote root meals for ${domain} (${Object.keys(domainMeals).length} items) to ${filePath}`,
