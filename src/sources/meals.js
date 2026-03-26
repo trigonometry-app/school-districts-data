@@ -11,7 +11,11 @@ export const filterMeals = (listing, school) =>
             .filter(([, entry]) => entry.schoolNames.includes(school))
             .map(([menuName, entry]) => [
               menuName,
-              { category: entry.category, days: entry.days },
+              {
+                category: entry.category,
+                days: entry.days,
+                servedWith: entry.servedWith,
+              },
             ]),
         ),
       ])

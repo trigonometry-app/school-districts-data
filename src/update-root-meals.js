@@ -37,11 +37,23 @@ const isAllWithText = (item) =>
   item.type == "text" &&
   /^all\s+(served|offered)\s+with$/i.test(item.name.trim());
 
+const dedupMealEntries = (entries) => [
+  ...new Map(
+    entries.map((entry) => [
+      JSON.stringify([entry.name, entry.servedWith]),
+      entry,
+    ]),
+  ).values(),
+].sort((a, b) =>
+  a.name.localeCompare(b.name) ||
+  JSON.stringify(a.servedWith).localeCompare(JSON.stringify(b.servedWith)),
+);
+
 const normalizeDayListing = (listing) =>
   Object.fromEntries(
     sortedEntries(listing).map(([section, items]) => [
       section,
-      dedupSort(items),
+      dedupMealEntries(items),
     ]),
   );
 
@@ -68,18 +80,18 @@ const parseMenuListing = (setting) => {
   const listing = {};
   let category = "";
   let categoryRecipes = [];
-  let allWithRecipes = [];
+  let allWith = "";
   let pendingAllWith = false;
 
   const currentSection = () => category || "Items";
   const flushCategoryRecipes = () => {
-    const suffix = allWithRecipes.length
-      ? ` with ${allWithRecipes.map((item) => normalizeMeal(item)).join(" and ")}`
-      : "";
     for (const recipe of categoryRecipes)
-      (listing[currentSection()] ??= []).push(normalizeMeal(recipe) + suffix);
+      (listing[currentSection()] ??= []).push({
+        name: normalizeMeal(recipe),
+        servedWith: allWith,
+      });
     categoryRecipes = [];
-    allWithRecipes = [];
+    allWith = "";
     pendingAllWith = false;
   };
 
@@ -100,7 +112,9 @@ const parseMenuListing = (setting) => {
     }
 
     if (pendingAllWith) {
-      allWithRecipes.push(item.name);
+      if (allWith)
+        throw new Error(`Multiple all-with items for ${currentSection()}: ${allWith} vs ${item.name}`);
+      allWith = normalizeMeal(item.name);
       continue;
     }
 
@@ -154,17 +168,23 @@ const loadMeals = async (districtBase, schoolBases) => {
         for (const [rawCategory, items] of Object.entries(listing)) {
           const category = canonicalizeCategoryName(rawCategory);
           for (const item of items) {
-            const entry = ((aggregate[item] ??= {})[menu.name] ??= {
+            const entry = ((aggregate[item.name] ??= {})[menu.name] ??= {
               schoolNames: new Set(),
               category,
               days: new Set(),
+              servedWith: {},
             });
             if (entry.category != category)
               throw new Error(
-                `Conflicting categories for ${item} in ${menu.name} (menu ${menu.id}): ${entry.category} vs ${category}`,
+                `Conflicting categories for ${item.name} in ${menu.name} (menu ${menu.id}): ${entry.category} vs ${category}`,
+              );
+            if (day in entry.servedWith && entry.servedWith[day] != item.servedWith)
+              throw new Error(
+                `Conflicting servedWith values for ${item.name} in ${menu.name} on ${day}: ${entry.servedWith[day]} vs ${item.servedWith}`,
               );
             for (const s of menu.schoolNames) entry.schoolNames.add(s);
             entry.days.add(day);
+            if (item.servedWith) entry.servedWith[day] = item.servedWith;
           }
         }
       }
@@ -181,6 +201,7 @@ const loadMeals = async (districtBase, schoolBases) => {
             schoolNames: dedupSort([...entry.schoolNames]),
             category: entry.category,
             days: dedupSort([...entry.days]),
+            servedWith: Object.fromEntries(sortedEntries(entry.servedWith)),
           },
         ]),
       ),
