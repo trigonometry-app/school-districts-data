@@ -1,6 +1,6 @@
 {
   "weather": {
-    "2026-03-27": "Partly sunny. High near 55, with temperatures falling to around 53 in the afternoon.",
+    "2026-03-27": "Mostly sunny. High near 55, with temperatures falling to around 53 in the afternoon.",
     "2026-03-28": "Partly sunny, with a high near 52.",
     "2026-03-29": "Rain likely. Mostly cloudy, with a high near 51. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible.",
     "2026-03-30": "A chance of rain before 5pm. Mostly sunny, with a high near 48.",
@@ -1601,5 +1601,12 @@
     "Yogurt Lunch with Mini Waffles",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": []
+  "subs": [
+    "April McCoy",
+    "Danyel Joyner",
+    "Dustin Metzger",
+    "Jennifer Brown",
+    "Lisa Billings",
+    "Tracy (Staff) Bickhaus"
+  ]
 }
