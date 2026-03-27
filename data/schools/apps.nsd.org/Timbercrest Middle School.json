@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-03-26": "Sunny, with a high near 51.",
     "2026-03-27": "Mostly sunny. High near 55, with temperatures falling to around 53 in the afternoon.",
     "2026-03-28": "Patchy fog before 7am. Partly sunny, with a high near 53.",
-    "2026-03-29": "A chance of rain and snow showers before 5pm, then rain likely. Mostly cloudy, with a high near 53.",
+    "2026-03-29": "A chance of rain and snow showers before 5pm, then rain likely. Mostly cloudy, with a high near 53. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
     "2026-03-30": "A chance of rain. Partly sunny, with a high near 48.",
     "2026-03-31": "A chance of rain. Partly sunny, with a high near 52.",
-    "2026-04-01": "Rain likely. Mostly cloudy, with a high near 49."
+    "2026-04-01": "Rain likely. Mostly cloudy, with a high near 49.",
+    "2026-04-02": "Rain likely. Mostly cloudy, with a high near 50."
   },
   "meals": {
     "1% White Milk": {
@@ -52,8 +52,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       },
       "2025-2026 Middle School Lunch": {
         "category": "Milk",
@@ -97,8 +96,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Apple": {
@@ -121,8 +119,7 @@
           "2026-04-23",
           "2026-04-28",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       },
       "2025-2026 Middle School Lunch": {
         "category": "Fruit",
@@ -150,8 +147,7 @@
           "2026-04-24",
           "2026-04-27",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Apple Juice": {
@@ -197,8 +193,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       },
       "2025-2026 Middle School Lunch": {
         "category": "Fruit",
@@ -242,8 +237,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Apple Strudel": {
@@ -258,8 +252,7 @@
           "2026-04-15",
           "2026-04-22",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Apple Topping Cobbler": {
@@ -282,8 +275,7 @@
           "2026-04-23",
           "2026-04-28",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Applesauce Cups, Flavored": {
@@ -313,8 +305,7 @@
           "2026-04-24",
           "2026-04-27",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Applesauce Cups, Variety": {
@@ -324,8 +315,7 @@
           "2026-04-03",
           "2026-04-17",
           "2026-04-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Assorted Fruit Cup": {
@@ -336,8 +326,7 @@
           "2026-04-15",
           "2026-04-22",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Baby Carrots": {
@@ -383,8 +372,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Bacon Ranch Pizza": {
@@ -395,8 +383,7 @@
           "2026-03-10",
           "2026-03-17",
           "2026-03-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Baked BBQ Beans": {
@@ -407,8 +394,7 @@
           "2026-03-13",
           "2026-03-20",
           "2026-03-27"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Baked Potato with Cheesy Broccoli and Roll": {
@@ -416,8 +402,7 @@
         "category": "Specials",
         "days": [
           "2026-03-18"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Banana": {
@@ -425,8 +410,7 @@
         "category": "Fruit",
         "days": [
           "2026-04-16"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "BBQ Chicken Pizza": {
@@ -452,8 +436,7 @@
           "2026-04-24",
           "2026-04-27",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Bean and Cheese Burrito with Cheese Sauce and Veggies": {
@@ -463,8 +446,7 @@
           "2026-03-04",
           "2026-03-25",
           "2026-04-03"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Beef Chili with Cornbread": {
@@ -472,8 +454,7 @@
         "category": "Specials",
         "days": [
           "2026-03-11"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Black Bean and Cheese Empanada": {
@@ -481,8 +462,7 @@
         "category": "Specials",
         "days": [
           "2026-03-09"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Black Beans": {
@@ -490,8 +470,7 @@
         "category": "Vegetables",
         "days": [
           "2026-04-14"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Blueberry Smoothie": {
@@ -526,8 +505,7 @@
           "2026-04-23",
           "2026-04-28",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Breakfast Cheese Nachos": {
@@ -535,8 +513,7 @@
         "category": "Breakfast Entree",
         "days": [
           "2026-04-01"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Breakfast Chicken and Waffle": {
@@ -551,8 +528,7 @@
           "2026-04-16",
           "2026-04-23",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Breakfast Pizza": {
@@ -574,8 +550,7 @@
           "2026-04-21",
           "2026-04-24",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Broccoli": {
@@ -586,8 +561,7 @@
           "2026-04-15",
           "2026-04-22",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Broccoli Salad": {
@@ -598,8 +572,7 @@
           "2026-03-11",
           "2026-03-18",
           "2026-03-25"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Caesar Dressed Romaine": {
@@ -610,8 +583,7 @@
           "2026-04-15",
           "2026-04-22",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Canned Diced Peaches": {
@@ -622,8 +594,7 @@
           "2026-04-16",
           "2026-04-23",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Canned Pears": {
@@ -634,8 +605,7 @@
           "2026-03-12",
           "2026-03-19",
           "2026-03-26"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Canned Sliced Pears": {
@@ -650,8 +620,7 @@
           "2026-04-13",
           "2026-04-20",
           "2026-04-27"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Cereal Variety": {
@@ -697,8 +666,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Cheese Nachos": {
@@ -714,16 +682,7 @@
           "2026-04-21",
           "2026-04-28"
         ],
-        "servedWith": {
-          "2026-03-03": "Refried Beans",
-          "2026-03-10": "Refried Beans",
-          "2026-03-17": "Refried Beans",
-          "2026-03-24": "Refried Beans",
-          "2026-03-31": "Refried Beans",
-          "2026-04-14": "Refried Beans",
-          "2026-04-21": "Refried Beans",
-          "2026-04-28": "Refried Beans"
-        }
+        "servedWith": "Refried Beans"
       }
     },
     "Cheeseburger": {
@@ -731,8 +690,7 @@
         "category": "Breakfast Entree",
         "days": [
           "2026-04-01"
-        ],
-        "servedWith": {}
+        ]
       },
       "2025-2026 Middle School Lunch": {
         "category": "Grill",
@@ -777,47 +735,7 @@
           "2026-04-29",
           "2026-04-30"
         ],
-        "servedWith": {
-          "2026-03-02": "Tater Tots",
-          "2026-03-03": "Tater Tots",
-          "2026-03-04": "Tater Tots",
-          "2026-03-05": "Tater Tots",
-          "2026-03-06": "Tater Tots",
-          "2026-03-09": "Tater Tots",
-          "2026-03-10": "Tater Tots",
-          "2026-03-11": "Tater Tots",
-          "2026-03-12": "Tater Tots",
-          "2026-03-13": "Tater Tots",
-          "2026-03-16": "Tater Tots",
-          "2026-03-17": "Tater Tots",
-          "2026-03-18": "Tater Tots",
-          "2026-03-19": "Tater Tots",
-          "2026-03-20": "Tater Tots",
-          "2026-03-23": "Tater Tots",
-          "2026-03-24": "Tater Tots",
-          "2026-03-25": "Tater Tots",
-          "2026-03-26": "Tater Tots",
-          "2026-03-27": "Tater Tots",
-          "2026-03-30": "Tater Tots",
-          "2026-03-31": "Tater Tots",
-          "2026-04-01": "Tater Tots",
-          "2026-04-02": "Tater Tots",
-          "2026-04-03": "Tater Tots",
-          "2026-04-13": "Tater Tots",
-          "2026-04-14": "Tater Tots",
-          "2026-04-15": "Tater Tots",
-          "2026-04-16": "Tater Tots",
-          "2026-04-17": "Tater Tots",
-          "2026-04-20": "Tater Tots",
-          "2026-04-21": "Tater Tots",
-          "2026-04-22": "Tater Tots",
-          "2026-04-23": "Tater Tots",
-          "2026-04-24": "Tater Tots",
-          "2026-04-27": "Tater Tots",
-          "2026-04-28": "Tater Tots",
-          "2026-04-29": "Tater Tots",
-          "2026-04-30": "Tater Tots"
-        }
+        "servedWith": "Tater Tots"
       }
     },
     "Cheesy Sausage Biscuit": {
@@ -828,8 +746,7 @@
           "2026-03-13",
           "2026-03-20",
           "2026-03-27"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Chef Salad with Roll": {
@@ -840,8 +757,7 @@
           "2026-04-15",
           "2026-04-22",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Chicken (Meatless) Buffalo Totchos with Garlic Bread": {
@@ -850,8 +766,7 @@
         "days": [
           "2026-04-01",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Chicken and Waffles": {
@@ -860,8 +775,7 @@
         "days": [
           "2026-03-16",
           "2026-04-13"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Chicken Buffalo Totchos with Garlic Bread": {
@@ -870,8 +784,7 @@
         "days": [
           "2026-04-01",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Chicken Caesar Salad with Roll": {
@@ -905,8 +818,7 @@
           "2026-04-21",
           "2026-04-24",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Chicken Caesar Salad Wrap": {
@@ -921,8 +833,7 @@
           "2026-04-23",
           "2026-04-27",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Chicken Egg Roll and Fried Rice": {
@@ -930,8 +841,7 @@
         "category": "Specials",
         "days": [
           "2026-03-20"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Chicken Enchiladas with Fajita Veggies": {
@@ -940,8 +850,7 @@
         "days": [
           "2026-03-04",
           "2026-03-25"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Chicken Nugget (Meatless) Chow Mein Noodle Bowl": {
@@ -953,12 +862,7 @@
           "2026-03-19",
           "2026-03-26"
         ],
-        "servedWith": {
-          "2026-03-05": "Steamed Broccoli",
-          "2026-03-12": "Steamed Broccoli",
-          "2026-03-19": "Steamed Broccoli",
-          "2026-03-26": "Steamed Broccoli"
-        }
+        "servedWith": "Steamed Broccoli"
       }
     },
     "Chicken Nugget (Meatless) Rice Bowl with Sweet & Sour Sauce": {
@@ -970,12 +874,7 @@
           "2026-03-19",
           "2026-03-26"
         ],
-        "servedWith": {
-          "2026-03-05": "Steamed Broccoli",
-          "2026-03-12": "Steamed Broccoli",
-          "2026-03-19": "Steamed Broccoli",
-          "2026-03-26": "Steamed Broccoli"
-        }
+        "servedWith": "Steamed Broccoli"
       }
     },
     "Chicken Nuggets (Meatless) and Fried Rice": {
@@ -983,8 +882,7 @@
         "category": "Specials",
         "days": [
           "2026-03-20"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Chicken Nuggets (Meatless) with Waffles": {
@@ -992,8 +890,7 @@
         "category": "Specials",
         "days": [
           "2026-03-16"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Chicken Tenders with Pretzel Bites": {
@@ -1033,40 +930,7 @@
           "2026-04-29",
           "2026-04-30"
         ],
-        "servedWith": {
-          "2026-03-02": "Tater Tots",
-          "2026-03-03": "Tater Tots",
-          "2026-03-04": "Tater Tots",
-          "2026-03-05": "Tater Tots",
-          "2026-03-09": "Tater Tots",
-          "2026-03-10": "Tater Tots",
-          "2026-03-11": "Tater Tots",
-          "2026-03-12": "Tater Tots",
-          "2026-03-16": "Tater Tots",
-          "2026-03-17": "Tater Tots",
-          "2026-03-18": "Tater Tots",
-          "2026-03-19": "Tater Tots",
-          "2026-03-23": "Tater Tots",
-          "2026-03-24": "Tater Tots",
-          "2026-03-25": "Tater Tots",
-          "2026-03-26": "Tater Tots",
-          "2026-03-30": "Tater Tots",
-          "2026-03-31": "Tater Tots",
-          "2026-04-01": "Tater Tots",
-          "2026-04-02": "Tater Tots",
-          "2026-04-13": "Tater Tots",
-          "2026-04-14": "Tater Tots",
-          "2026-04-15": "Tater Tots",
-          "2026-04-16": "Tater Tots",
-          "2026-04-20": "Tater Tots",
-          "2026-04-21": "Tater Tots",
-          "2026-04-22": "Tater Tots",
-          "2026-04-23": "Tater Tots",
-          "2026-04-27": "Tater Tots",
-          "2026-04-28": "Tater Tots",
-          "2026-04-29": "Tater Tots",
-          "2026-04-30": "Tater Tots"
-        }
+        "servedWith": "Tater Tots"
       }
     },
     "Chicken Tortilla Soup": {
@@ -1074,8 +938,7 @@
         "category": "Specials",
         "days": [
           "2026-03-09"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Cilantro Slaw": {
@@ -1090,8 +953,7 @@
           "2026-04-16",
           "2026-04-23",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Corn": {
@@ -1107,8 +969,7 @@
           "2026-04-16",
           "2026-04-23",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Cucumbers": {
@@ -1126,8 +987,7 @@
           "2026-04-23",
           "2026-04-27",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Dried Cranberries": {
@@ -1173,8 +1033,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       },
       "2025-2026 Middle School Lunch": {
         "category": "Fruit",
@@ -1218,8 +1077,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Edamame": {
@@ -1230,8 +1088,7 @@
           "2026-04-13",
           "2026-04-20",
           "2026-04-27"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Egg & Cheese English Muffin Sandwich": {
@@ -1242,8 +1099,7 @@
           "2026-04-13",
           "2026-04-20",
           "2026-04-27"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Egg & Waffle Sandwich": {
@@ -1253,8 +1109,7 @@
           "2026-04-15",
           "2026-04-22",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Eggo Mini Confetti Pancakes": {
@@ -1277,8 +1132,7 @@
           "2026-04-23",
           "2026-04-28",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "English Muffin Omelet Sandwich": {
@@ -1289,8 +1143,7 @@
           "2026-03-09",
           "2026-03-16",
           "2026-03-23"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Fasting Breakfast Pack K-12": {
@@ -1311,8 +1164,7 @@
           "2026-03-17",
           "2026-03-18",
           "2026-03-19"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Fasting Lunch Pack 9-12": {
@@ -1323,8 +1175,7 @@
           "2026-03-17",
           "2026-03-18",
           "2026-03-19"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Fasting Lunch Pack K-8": {
@@ -1341,8 +1192,7 @@
           "2026-03-11",
           "2026-03-12",
           "2026-03-13"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Feijoada with White Rice": {
@@ -1351,8 +1201,7 @@
         "days": [
           "2026-03-13",
           "2026-04-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Four Cheese Pizza": {
@@ -1398,8 +1247,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Fresh Orange": {
@@ -1421,8 +1269,7 @@
           "2026-04-20",
           "2026-04-24",
           "2026-04-27"
-        ],
-        "servedWith": {}
+        ]
       },
       "2025-2026 Middle School Lunch": {
         "category": "Fruit",
@@ -1442,8 +1289,7 @@
           "2026-04-23",
           "2026-04-28",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Fruit Punch": {
@@ -1489,8 +1335,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       },
       "2025-2026 Middle School Lunch": {
         "category": "Fruit",
@@ -1534,8 +1379,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Golden Crispy Chicken Burger": {
@@ -1582,47 +1426,7 @@
           "2026-04-29",
           "2026-04-30"
         ],
-        "servedWith": {
-          "2026-03-02": "Tater Tots",
-          "2026-03-03": "Tater Tots",
-          "2026-03-04": "Tater Tots",
-          "2026-03-05": "Tater Tots",
-          "2026-03-06": "Tater Tots",
-          "2026-03-09": "Tater Tots",
-          "2026-03-10": "Tater Tots",
-          "2026-03-11": "Tater Tots",
-          "2026-03-12": "Tater Tots",
-          "2026-03-13": "Tater Tots",
-          "2026-03-16": "Tater Tots",
-          "2026-03-17": "Tater Tots",
-          "2026-03-18": "Tater Tots",
-          "2026-03-19": "Tater Tots",
-          "2026-03-20": "Tater Tots",
-          "2026-03-23": "Tater Tots",
-          "2026-03-24": "Tater Tots",
-          "2026-03-25": "Tater Tots",
-          "2026-03-26": "Tater Tots",
-          "2026-03-27": "Tater Tots",
-          "2026-03-30": "Tater Tots",
-          "2026-03-31": "Tater Tots",
-          "2026-04-01": "Tater Tots",
-          "2026-04-02": "Tater Tots",
-          "2026-04-03": "Tater Tots",
-          "2026-04-13": "Tater Tots",
-          "2026-04-14": "Tater Tots",
-          "2026-04-15": "Tater Tots",
-          "2026-04-16": "Tater Tots",
-          "2026-04-17": "Tater Tots",
-          "2026-04-20": "Tater Tots",
-          "2026-04-21": "Tater Tots",
-          "2026-04-22": "Tater Tots",
-          "2026-04-23": "Tater Tots",
-          "2026-04-24": "Tater Tots",
-          "2026-04-27": "Tater Tots",
-          "2026-04-28": "Tater Tots",
-          "2026-04-29": "Tater Tots",
-          "2026-04-30": "Tater Tots"
-        }
+        "servedWith": "Tater Tots"
       }
     },
     "Green Peas": {
@@ -1644,8 +1448,7 @@
           "2026-04-22",
           "2026-04-24",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Ham, Egg & Cheese Bun": {
@@ -1655,8 +1458,7 @@
           "2026-04-03",
           "2026-04-17",
           "2026-04-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Hawaiian Pizza": {
@@ -1671,8 +1473,7 @@
           "2026-04-16",
           "2026-04-23",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Italian Turkey Deli Sandwich": {
@@ -1687,8 +1488,7 @@
           "2026-04-13",
           "2026-04-20",
           "2026-04-27"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Italian Turkey Wrap": {
@@ -1699,8 +1499,7 @@
           "2026-03-11",
           "2026-03-18",
           "2026-03-25"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Jerk Chicken White Rice and Mango Salsa": {
@@ -1710,8 +1509,7 @@
           "2026-03-06",
           "2026-03-27",
           "2026-04-17"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Jerk Tofu White Rice and Mango Salsa": {
@@ -1721,8 +1519,7 @@
           "2026-03-06",
           "2026-03-27",
           "2026-04-17"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Jerk Tofu Wrap": {
@@ -1730,8 +1527,7 @@
         "category": "Grab And Go",
         "days": [
           "2026-04-20"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Ketchup": {
@@ -1777,8 +1573,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Korean BBQ Pork Rice Bowl": {
@@ -1787,8 +1582,7 @@
         "days": [
           "2026-03-30",
           "2026-04-27"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Korean BBQ Tofu Rice Bowl": {
@@ -1797,8 +1591,7 @@
         "days": [
           "2026-03-30",
           "2026-04-27"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Korean BBQ Tofu Wrap": {
@@ -1807,8 +1600,7 @@
         "days": [
           "2026-03-31",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Local Salmon Chowder with Roll": {
@@ -1816,8 +1608,7 @@
         "category": "Specials",
         "days": [
           "2026-03-18"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Macaroni and Cheese with Roll": {
@@ -1826,8 +1617,7 @@
         "days": [
           "2026-03-13",
           "2026-04-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Mini Blueberry Waffles": {
@@ -1841,8 +1631,7 @@
           "2026-04-03",
           "2026-04-17",
           "2026-04-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Mini Cinnamon Rolls": {
@@ -1865,8 +1654,7 @@
           "2026-04-23",
           "2026-04-27",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Mini French Toast": {
@@ -1881,8 +1669,7 @@
           "2026-04-14",
           "2026-04-21",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Mini Sausage Calzone": {
@@ -1892,8 +1679,7 @@
           "2026-03-24",
           "2026-04-14",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Monte Cristo Sandwich with Potato Smiles": {
@@ -1905,8 +1691,7 @@
           "2026-03-17",
           "2026-03-31",
           "2026-04-21"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Muffin Top and String Cheese": {
@@ -1929,8 +1714,7 @@
           "2026-04-22",
           "2026-04-27",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Muffin Variety": {
@@ -1976,8 +1760,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Mustard": {
@@ -2023,8 +1806,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Non Fat White Milk": {
@@ -2070,8 +1852,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       },
       "2025-2026 Middle School Lunch": {
         "category": "Milk",
@@ -2115,8 +1896,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "NSD Burger Sauce": {
@@ -2162,8 +1942,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Orange Chicken Chow Mein Noodle Bowl": {
@@ -2179,16 +1958,7 @@
           "2026-04-23",
           "2026-04-30"
         ],
-        "servedWith": {
-          "2026-03-05": "Steamed Broccoli",
-          "2026-03-12": "Steamed Broccoli",
-          "2026-03-19": "Steamed Broccoli",
-          "2026-03-26": "Steamed Broccoli",
-          "2026-04-02": "Steamed Broccoli",
-          "2026-04-16": "Steamed Broccoli",
-          "2026-04-23": "Steamed Broccoli",
-          "2026-04-30": "Steamed Broccoli"
-        }
+        "servedWith": "Steamed Broccoli"
       }
     },
     "Orange Chicken Rice Bowl": {
@@ -2204,16 +1974,7 @@
           "2026-04-23",
           "2026-04-30"
         ],
-        "servedWith": {
-          "2026-03-05": "Steamed Broccoli",
-          "2026-03-12": "Steamed Broccoli",
-          "2026-03-19": "Steamed Broccoli",
-          "2026-03-26": "Steamed Broccoli",
-          "2026-04-02": "Steamed Broccoli",
-          "2026-04-16": "Steamed Broccoli",
-          "2026-04-23": "Steamed Broccoli",
-          "2026-04-30": "Steamed Broccoli"
-        }
+        "servedWith": "Steamed Broccoli"
       }
     },
     "Pancake & Sausage Breakfast Stick": {
@@ -2224,8 +1985,7 @@
           "2026-04-13",
           "2026-04-20",
           "2026-04-27"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Pasta with Meat Sauce": {
@@ -2233,8 +1993,7 @@
         "category": "Specials",
         "days": [
           "2026-04-22"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Peach Cup": {
@@ -2249,8 +2008,7 @@
           "2026-04-14",
           "2026-04-21",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       },
       "2025-2026 Middle School Lunch": {
         "category": "Fruit",
@@ -2263,8 +2021,7 @@
           "2026-03-20",
           "2026-03-25",
           "2026-03-27"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Peanut Butter & Jelly Uncrustable Sandwich": {
@@ -2310,8 +2067,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Penne Pasta with Marinara and Cheese": {
@@ -2319,8 +2075,7 @@
         "category": "Specials",
         "days": [
           "2026-04-22"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Pepperoni Pizza": {
@@ -2366,8 +2121,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Pickled Onions": {
@@ -2389,8 +2143,7 @@
           "2026-04-21",
           "2026-04-24",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Pico de Gallo": {
@@ -2404,8 +2157,7 @@
           "2026-03-31",
           "2026-04-21",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "PNW Raspberry or Blackberry Yogurt Parfait with Mini Muffin": {
@@ -2443,8 +2195,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Potato Soup with Cheesy Breadstick": {
@@ -2453,8 +2204,7 @@
         "days": [
           "2026-03-02",
           "2026-03-23"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Powdered Mini Donut Holes": {
@@ -2477,8 +2227,7 @@
           "2026-04-23",
           "2026-04-28",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Protein Pack w/Egg, Cheese Sauce & Pretzel Bites": {
@@ -2504,8 +2253,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Puffed Pancake Bites": {
@@ -2535,8 +2283,7 @@
           "2026-04-24",
           "2026-04-27",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Ramen Bowl": {
@@ -2544,8 +2291,7 @@
         "category": "Specials",
         "days": [
           "2026-04-15"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Ramen Bowl Vegetarain": {
@@ -2553,8 +2299,7 @@
         "category": "Specials",
         "days": [
           "2026-04-15"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Ranch Dressing": {
@@ -2600,8 +2345,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Raspberry Smoothie": {
@@ -2619,8 +2363,7 @@
           "2026-04-24",
           "2026-04-27",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Romaine Salad": {
@@ -2629,8 +2372,7 @@
         "days": [
           "2026-04-13",
           "2026-04-14"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Salad Mix": {
@@ -2641,8 +2383,7 @@
           "2026-03-11",
           "2026-03-18",
           "2026-03-25"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Salsa": {
@@ -2657,8 +2398,7 @@
           "2026-04-14",
           "2026-04-21",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Scrambled Eggs with Potato Smiles": {
@@ -2669,8 +2409,7 @@
           "2026-03-11",
           "2026-03-18",
           "2026-03-25"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Shredded Lettuce": {
@@ -2698,8 +2437,7 @@
           "2026-04-24",
           "2026-04-27",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Sliced Bread Variety": {
@@ -2745,8 +2483,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Sliced Jalapenos": {
@@ -2762,8 +2499,7 @@
           "2026-04-14",
           "2026-04-21",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Spicy Cheese Calzone": {
@@ -2774,8 +2510,7 @@
           "2026-03-11",
           "2026-03-18",
           "2026-03-25"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Spicy Chicken Burger": {
@@ -2822,47 +2557,7 @@
           "2026-04-29",
           "2026-04-30"
         ],
-        "servedWith": {
-          "2026-03-02": "Tater Tots",
-          "2026-03-03": "Tater Tots",
-          "2026-03-04": "Tater Tots",
-          "2026-03-05": "Tater Tots",
-          "2026-03-06": "Tater Tots",
-          "2026-03-09": "Tater Tots",
-          "2026-03-10": "Tater Tots",
-          "2026-03-11": "Tater Tots",
-          "2026-03-12": "Tater Tots",
-          "2026-03-13": "Tater Tots",
-          "2026-03-16": "Tater Tots",
-          "2026-03-17": "Tater Tots",
-          "2026-03-18": "Tater Tots",
-          "2026-03-19": "Tater Tots",
-          "2026-03-20": "Tater Tots",
-          "2026-03-23": "Tater Tots",
-          "2026-03-24": "Tater Tots",
-          "2026-03-25": "Tater Tots",
-          "2026-03-26": "Tater Tots",
-          "2026-03-27": "Tater Tots",
-          "2026-03-30": "Tater Tots",
-          "2026-03-31": "Tater Tots",
-          "2026-04-01": "Tater Tots",
-          "2026-04-02": "Tater Tots",
-          "2026-04-03": "Tater Tots",
-          "2026-04-13": "Tater Tots",
-          "2026-04-14": "Tater Tots",
-          "2026-04-15": "Tater Tots",
-          "2026-04-16": "Tater Tots",
-          "2026-04-17": "Tater Tots",
-          "2026-04-20": "Tater Tots",
-          "2026-04-21": "Tater Tots",
-          "2026-04-22": "Tater Tots",
-          "2026-04-23": "Tater Tots",
-          "2026-04-24": "Tater Tots",
-          "2026-04-27": "Tater Tots",
-          "2026-04-28": "Tater Tots",
-          "2026-04-29": "Tater Tots",
-          "2026-04-30": "Tater Tots"
-        }
+        "servedWith": "Tater Tots"
       }
     },
     "Spicy Chicken Wrap": {
@@ -2873,8 +2568,7 @@
           "2026-03-10",
           "2026-03-17",
           "2026-03-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Spicy Veggie Pizza": {
@@ -2889,8 +2583,7 @@
           "2026-04-14",
           "2026-04-21",
           "2026-04-28"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Strawberries": {
@@ -2905,8 +2598,7 @@
           "2026-04-16",
           "2026-04-23",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Sweet Apple Topping": {
@@ -2921,8 +2613,7 @@
           "2026-04-15",
           "2026-04-22",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Tartar Sauce": {
@@ -2936,8 +2627,7 @@
           "2026-04-03",
           "2026-04-17",
           "2026-04-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Three Sisters Stew with Cornbread": {
@@ -2946,8 +2636,7 @@
         "days": [
           "2026-03-11",
           "2026-04-13"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Tomato Soup with Cheesy Breadstick": {
@@ -2957,8 +2646,7 @@
           "2026-03-02",
           "2026-03-23",
           "2026-04-20"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Turkey and Cheese Deli Sandwich with Vegetables": {
@@ -2969,8 +2657,7 @@
           "2026-04-15",
           "2026-04-22",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Turkey BLT Deli Sandwich": {
@@ -2989,8 +2676,7 @@
           "2026-04-23",
           "2026-04-28",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Turkey Ham & Cheese on Hawaiian Bun": {
@@ -3004,8 +2690,7 @@
           "2026-04-15",
           "2026-04-22",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Turkey Ham & Cheese Sandwich": {
@@ -3019,8 +2704,7 @@
           "2026-04-03",
           "2026-04-17",
           "2026-04-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Turkey or Chicken Cheese Nachos": {
@@ -3036,16 +2720,7 @@
           "2026-04-21",
           "2026-04-28"
         ],
-        "servedWith": {
-          "2026-03-03": "Refried Beans",
-          "2026-03-10": "Refried Beans",
-          "2026-03-17": "Refried Beans",
-          "2026-03-24": "Refried Beans",
-          "2026-03-31": "Refried Beans",
-          "2026-04-14": "Refried Beans",
-          "2026-04-21": "Refried Beans",
-          "2026-04-28": "Refried Beans"
-        }
+        "servedWith": "Refried Beans"
       }
     },
     "Twin Cinnamon Rolls": {
@@ -3059,8 +2734,7 @@
           "2026-04-03",
           "2026-04-17",
           "2026-04-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Vegan Bac'n Bean Taco with Potato Smiles": {
@@ -3075,8 +2749,7 @@
           "2026-04-16",
           "2026-04-23",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Vegan Buffalo Chickpea Wrap": {
@@ -3088,8 +2761,7 @@
           "2026-04-22",
           "2026-04-27",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Vegan Burger": {
@@ -3113,24 +2785,7 @@
           "2026-04-28",
           "2026-04-30"
         ],
-        "servedWith": {
-          "2026-03-03": "Tater Tots",
-          "2026-03-05": "Tater Tots",
-          "2026-03-10": "Tater Tots",
-          "2026-03-12": "Tater Tots",
-          "2026-03-17": "Tater Tots",
-          "2026-03-19": "Tater Tots",
-          "2026-03-24": "Tater Tots",
-          "2026-03-26": "Tater Tots",
-          "2026-03-31": "Tater Tots",
-          "2026-04-02": "Tater Tots",
-          "2026-04-14": "Tater Tots",
-          "2026-04-16": "Tater Tots",
-          "2026-04-21": "Tater Tots",
-          "2026-04-23": "Tater Tots",
-          "2026-04-28": "Tater Tots",
-          "2026-04-30": "Tater Tots"
-        }
+        "servedWith": "Tater Tots"
       }
     },
     "Vegan Chana Masala with Rice": {
@@ -3139,9 +2794,7 @@
         "days": [
           "2026-04-16"
         ],
-        "servedWith": {
-          "2026-04-16": "Steamed Broccoli"
-        }
+        "servedWith": "Steamed Broccoli"
       }
     },
     "Vegan Chicken Burger": {
@@ -3172,31 +2825,7 @@
           "2026-04-27",
           "2026-04-29"
         ],
-        "servedWith": {
-          "2026-03-02": "Tater Tots",
-          "2026-03-04": "Tater Tots",
-          "2026-03-06": "Tater Tots",
-          "2026-03-09": "Tater Tots",
-          "2026-03-11": "Tater Tots",
-          "2026-03-13": "Tater Tots",
-          "2026-03-16": "Tater Tots",
-          "2026-03-18": "Tater Tots",
-          "2026-03-20": "Tater Tots",
-          "2026-03-23": "Tater Tots",
-          "2026-03-25": "Tater Tots",
-          "2026-03-27": "Tater Tots",
-          "2026-03-30": "Tater Tots",
-          "2026-04-01": "Tater Tots",
-          "2026-04-03": "Tater Tots",
-          "2026-04-13": "Tater Tots",
-          "2026-04-15": "Tater Tots",
-          "2026-04-17": "Tater Tots",
-          "2026-04-20": "Tater Tots",
-          "2026-04-22": "Tater Tots",
-          "2026-04-24": "Tater Tots",
-          "2026-04-27": "Tater Tots",
-          "2026-04-29": "Tater Tots"
-        }
+        "servedWith": "Tater Tots"
       }
     },
     "Vegan Dal over Rice": {
@@ -3206,10 +2835,7 @@
           "2026-04-02",
           "2026-04-30"
         ],
-        "servedWith": {
-          "2026-04-02": "Steamed Broccoli",
-          "2026-04-30": "Steamed Broccoli"
-        }
+        "servedWith": "Steamed Broccoli"
       }
     },
     "Vegan Mexican Bean Salad": {
@@ -3220,8 +2846,7 @@
           "2026-03-12",
           "2026-03-19",
           "2026-03-26"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Vegan Rajma Masala": {
@@ -3230,9 +2855,7 @@
         "days": [
           "2026-04-23"
         ],
-        "servedWith": {
-          "2026-04-23": "Steamed Broccoli"
-        }
+        "servedWith": "Steamed Broccoli"
       }
     },
     "Vegan Satay Pinwheel": {
@@ -3246,8 +2869,7 @@
           "2026-04-03",
           "2026-04-17",
           "2026-04-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Vegan Southwest Bowl with Fritos": {
@@ -3259,8 +2881,7 @@
           "2026-04-21",
           "2026-04-23",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Vegan Spicy Hummus Wrap": {
@@ -3273,8 +2894,7 @@
           "2026-03-11",
           "2026-03-23",
           "2026-03-25"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Vegan Thai Noodle Salad": {
@@ -3285,8 +2905,7 @@
           "2026-03-10",
           "2026-03-17",
           "2026-03-24"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Whole Grain Donut Long": {
@@ -3316,8 +2935,7 @@
           "2026-04-24",
           "2026-04-27",
           "2026-04-29"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Wild Alaska Fish Burger": {
@@ -3332,15 +2950,7 @@
           "2026-04-17",
           "2026-04-24"
         ],
-        "servedWith": {
-          "2026-03-06": "Tater Tots",
-          "2026-03-13": "Tater Tots",
-          "2026-03-20": "Tater Tots",
-          "2026-03-27": "Tater Tots",
-          "2026-04-03": "Tater Tots",
-          "2026-04-17": "Tater Tots",
-          "2026-04-24": "Tater Tots"
-        }
+        "servedWith": "Tater Tots"
       }
     },
     "Wild Alaska Fish Tacos": {
@@ -3348,8 +2958,7 @@
         "category": "Specials",
         "days": [
           "2026-04-03"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Wild Coho Salmon with Rice Pilaf": {
@@ -3357,8 +2966,7 @@
         "category": "Specials",
         "days": [
           "2026-04-20"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Yogurt Grab & Go Lunch with Blueberry Mini Waffles": {
@@ -3401,8 +3009,7 @@
           "2026-04-28",
           "2026-04-29",
           "2026-04-30"
-        ],
-        "servedWith": {}
+        ]
       }
     },
     "Yogurt Parfait with Blueberries and Mini Muffin": {
@@ -3417,8 +3024,7 @@
           "2026-03-19",
           "2026-03-24",
           "2026-03-26"
-        ],
-        "servedWith": {}
+        ]
       }
     }
   },
