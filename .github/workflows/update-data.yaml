@@ -2,7 +2,8 @@ name: Update Data
 
 on:
   schedule:
-    - cron: "47 * * * *"
+    - cron: "15 0,6,7,8,9,10,11,12,13,14,15,23 * * *"
+      timezone: "America/Los_Angeles"
   workflow_dispatch:
 
 permissions:
