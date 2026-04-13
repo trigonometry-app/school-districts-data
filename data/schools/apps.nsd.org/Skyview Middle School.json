@@ -1,7 +1,7 @@
 {
   "weather": {
     "2026-04-13": "Rain likely. Cloudy, with a high near 51. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "2026-04-14": "Rain. Cloudy, with a high near 49. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
+    "2026-04-14": "Rain. Cloudy. High near 49, with temperatures falling to around 47 in the afternoon. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
     "2026-04-15": "Rain before 2pm, then showers and thunderstorms between 2pm and 5pm, then rain likely. Mostly cloudy, with a high near 50. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
     "2026-04-16": "Mostly sunny, with a high near 55.",
     "2026-04-17": "Partly sunny, with a high near 56.",
@@ -1763,9 +1763,12 @@
   ],
   "subs": [
     "Andrew Wright",
+    "Camella Elizabeth E. Fink",
     "Carisa (Staff) Monsef",
     "Cat Homan",
     "Dan Carlson",
+    "Heidi Weaver",
+    "Jamie Hamm",
     "Jesus Carrillo Lerma",
     "Jillian Bennett",
     "Jordan Redford",
