@@ -1,7 +1,7 @@
 {
   "weather": {
     "2026-04-15": "A chance of rain before 11am, then showers and thunderstorms between 11am and 5pm, then rain likely. Mostly cloudy. High near 49, with temperatures falling to around 47 in the afternoon. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "2026-04-16": "Mostly sunny, with a high near 56.",
+    "2026-04-16": "Mostly sunny. High near 56, with temperatures falling to around 54 in the afternoon.",
     "2026-04-17": "Partly sunny, with a high near 57.",
     "2026-04-18": "A chance of rain after 5pm. Mostly cloudy, with a high near 64.",
     "2026-04-19": "A chance of rain. Mostly cloudy, with a high near 65.",
@@ -1834,12 +1834,14 @@
   "subs": [
     "Alexander Zahajko",
     "Allison (Staff) Enstrom",
+    "Ashley Dodson",
     "Catherine Swearengin",
     "Emily Birch",
     "Jacquelyn Roumelis",
     "Jennifer Leland",
     "Kevin Finney",
     "Kim Matthews",
+    "Nicholas Elliott",
     "Sarah Homer",
     "Terry Ley",
     "Todd Fredrickson"
