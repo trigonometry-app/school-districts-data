@@ -1,6 +1,6 @@
 {
   "weather": {
-    "2026-04-16": "Patchy frost before 9am. Mostly sunny, with a high near 56.",
+    "2026-04-16": "Sunny, with a high near 56.",
     "2026-04-17": "Partly sunny, with a high near 58.",
     "2026-04-18": "A slight chance of rain after 5pm. Mostly cloudy, with a high near 66. Chance of precipitation is 20%.",
     "2026-04-19": "A chance of rain. Mostly cloudy, with a high near 65.",
@@ -326,7 +326,6 @@
         "days": [
           "2026-04-01",
           "2026-04-15",
-          "2026-04-22",
           "2026-04-29"
         ]
       }
@@ -696,7 +695,6 @@
           "2026-04-02",
           "2026-04-14",
           "2026-04-21",
-          "2026-04-23",
           "2026-04-28",
           "2026-04-30"
         ]
@@ -1742,6 +1740,8 @@
     "Wild Alaska Fish Tacos"
   ],
   "subs": [
-    "Philip Razem"
+    "Janet Bauer",
+    "Philip Razem",
+    "Scott Heath"
   ]
 }

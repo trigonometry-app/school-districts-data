@@ -1,6 +1,6 @@
 {
   "weather": {
-    "2026-04-16": "Patchy frost before 9am. Mostly sunny, with a high near 56.",
+    "2026-04-16": "Mostly sunny, with a high near 56.",
     "2026-04-17": "Partly sunny, with a high near 57.",
     "2026-04-18": "Mostly cloudy, with a high near 65.",
     "2026-04-19": "A chance of rain. Mostly cloudy, with a high near 65.",
@@ -318,7 +318,6 @@
         "days": [
           "2026-04-01",
           "2026-04-15",
-          "2026-04-22",
           "2026-04-29"
         ]
       }
@@ -696,7 +695,6 @@
           "2026-04-02",
           "2026-04-14",
           "2026-04-21",
-          "2026-04-23",
           "2026-04-28",
           "2026-04-30"
         ]
@@ -1098,6 +1096,15 @@
           "2026-04-30"
         ],
         "servedWith": "Steamed Broccoli"
+      }
+    },
+    "Oven Roasted Potatoes": {
+      "2025-2026 High School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-04-17",
+          "2026-04-22"
+        ]
       }
     },
     "Pancake & Sausage Breakfast Stick": {
