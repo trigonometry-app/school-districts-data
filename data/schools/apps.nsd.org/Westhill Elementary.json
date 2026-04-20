@@ -1,6 +1,6 @@
 {
   "weather": {
-    "2026-04-20": "Partly sunny. High near 71, with temperatures falling to around 69 in the afternoon.",
+    "2026-04-20": "Mostly cloudy. High near 71, with temperatures falling to around 69 in the afternoon.",
     "2026-04-21": "Rain likely. Mostly cloudy, with a high near 60. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
     "2026-04-22": "Rain likely. Mostly cloudy, with a high near 56. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
     "2026-04-23": "Mostly sunny, with a high near 63.",
@@ -1242,6 +1242,7 @@
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
   "subs": [
-    "Jill (Staff) Brobeck"
+    "Jill (Staff) Brobeck",
+    "Kristina Kupferschmidt"
   ]
 }
