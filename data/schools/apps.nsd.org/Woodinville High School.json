@@ -901,6 +901,14 @@
         ]
       }
     },
+    "LETTUCE,GRN LEAF,RAW": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-22"
+        ]
+      }
+    },
     "Macaroni and Cheese with Roll": {
       "2025-2026 High School Lunch": {
         "category": "Specials",
@@ -1762,7 +1770,7 @@
         ]
       }
     },
-    "Wild Coho Salmon with Vegan Rice Pilaf Asparagus": {
+    "Wild Coho Salmon with Rice Pilaf": {
       "2025-2026 High School Lunch": {
         "category": "Specials",
         "days": [

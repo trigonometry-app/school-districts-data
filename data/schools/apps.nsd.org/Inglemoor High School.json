@@ -1,6 +1,6 @@
 {
   "weather": {
-    "2026-04-21": "Rain likely. Mostly cloudy. High near 60, with temperatures falling to around 58 in the afternoon. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible.",
+    "2026-04-21": "Rain likely after 10am. Mostly cloudy. High near 60, with temperatures falling to around 58 in the afternoon. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible.",
     "2026-04-22": "Rain likely. Mostly cloudy, with a high near 57. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
     "2026-04-23": "Partly sunny, with a high near 62.",
     "2026-04-24": "Sunny, with a high near 65.",
@@ -901,6 +901,14 @@
         ]
       }
     },
+    "LETTUCE,GRN LEAF,RAW": {
+      "2025-2026 High School Lunch": {
+        "category": "Vegetables",
+        "days": [
+          "2026-04-22"
+        ]
+      }
+    },
     "Macaroni and Cheese with Roll": {
       "2025-2026 High School Lunch": {
         "category": "Specials",
@@ -1762,7 +1770,7 @@
         ]
       }
     },
-    "Wild Coho Salmon with Vegan Rice Pilaf Asparagus": {
+    "Wild Coho Salmon with Rice Pilaf": {
       "2025-2026 High School Lunch": {
         "category": "Specials",
         "days": [
