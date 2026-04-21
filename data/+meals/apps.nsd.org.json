@@ -5282,6 +5282,32 @@
     }
   },
   "LETTUCE,GRN LEAF,RAW": {
+    "2025-2026 High School Lunch": {
+      "schoolNames": [
+        "Bothell High School",
+        "Inglemoor High School",
+        "North Creek High School",
+        "Woodinville High School"
+      ],
+      "category": "Vegetables",
+      "days": [
+        "2026-04-22"
+      ]
+    },
+    "2025-2026 Middle School Lunch": {
+      "schoolNames": [
+        "Canyon Park Middle School",
+        "Kenmore Middle School",
+        "Leota Middle School",
+        "Northshore Middle School",
+        "Skyview Middle School",
+        "Timbercrest Middle School"
+      ],
+      "category": "Vegetables",
+      "days": [
+        "2026-04-22"
+      ]
+    },
     "2025-2026 SAS and ILAB Lunch": {
       "schoolNames": [
         "Innovation Lab High School"
@@ -6457,8 +6483,7 @@
       "days": [
         "2026-04-02",
         "2026-04-14",
-        "2026-04-28",
-        "2026-04-30"
+        "2026-04-28"
       ]
     }
   },
@@ -9844,9 +9869,7 @@
       "days": [
         "2026-04-03"
       ]
-    }
-  },
-  "Wild Coho Salmon with Vegan Rice Pilaf Asparagus": {
+    },
     "2025-2026 High School Lunch": {
       "schoolNames": [
         "Bothell High School",
@@ -10017,36 +10040,6 @@
       ]
     }
   },
-  "Yogurt Lunch with Mini Confetti Pancakes": {
-    "2025-2026 Elementary School Lunch": {
-      "schoolNames": [
-        "Arrowhead Elementary",
-        "Canyon Creek Elementary",
-        "Cottage Lake Elementary",
-        "Crystal Springs Elementary",
-        "East Ridge Elementary",
-        "Fernwood Elementary",
-        "Frank Love Elementary",
-        "Hollywood Hill Elementary",
-        "Kenmore Elementary",
-        "Kokanee Elementary",
-        "Lockwood Elementary",
-        "Maywood Hills Elementary",
-        "Moorlands Elementary",
-        "Ruby Bridges Elementary",
-        "Shelton View Elementary",
-        "Sunrise Elementary",
-        "Wellington Elementary",
-        "Westhill Elementary",
-        "Woodin Elementary",
-        "Woodmoor Elementary"
-      ],
-      "category": "C Lunch",
-      "days": [
-        "2026-04-24"
-      ]
-    }
-  },
   "Yogurt Lunch with Mini French Toast": {
     "2025-2026 Elementary School Lunch": {
       "schoolNames": [
@@ -10103,7 +10096,8 @@
       ],
       "category": "C Lunch",
       "days": [
-        "2026-04-03"
+        "2026-04-03",
+        "2026-04-24"
       ]
     }
   },
