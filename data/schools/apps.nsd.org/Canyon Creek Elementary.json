@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-04-20": "Mostly cloudy. High near 71, with temperatures falling to around 69 in the afternoon.",
-    "2026-04-21": "Rain likely. Mostly cloudy. High near 60, with temperatures falling to around 58 in the afternoon. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "2026-04-22": "Rain likely. Mostly cloudy, with a high near 55. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "2026-04-23": "Mostly sunny, with a high near 62.",
-    "2026-04-24": "Sunny, with a high near 67.",
-    "2026-04-25": "Mostly sunny, with a high near 67.",
-    "2026-04-26": "Mostly sunny, with a high near 65."
+    "2026-04-21": "Rain likely. Mostly cloudy. High near 60, with temperatures falling to around 58 in the afternoon. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "2026-04-22": "Rain likely. Mostly cloudy, with a high near 56. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "2026-04-23": "Mostly sunny, with a high near 61.",
+    "2026-04-24": "Sunny, with a high near 65.",
+    "2026-04-25": "Sunny, with a high near 67.",
+    "2026-04-26": "Sunny, with a high near 68.",
+    "2026-04-27": "A slight chance of rain between 11am and 5pm. Mostly sunny, with a high near 66."
   },
   "meals": {
     "1% White Milk": {
@@ -928,9 +928,5 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": [
-    "Sara Hart",
-    "Terri (Staff) Jaenson",
-    "Theresa (Staff) Burns"
-  ]
+  "subs": []
 }
