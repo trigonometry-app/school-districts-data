@@ -1,7 +1,7 @@
 {
   "weather": {
     "2026-04-23": "Partly sunny, with a high near 59.",
-    "2026-04-24": "Sunny, with a high near 63.",
+    "2026-04-24": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon.",
     "2026-04-25": "Sunny, with a high near 64.",
     "2026-04-26": "Sunny, with a high near 66.",
     "2026-04-27": "A slight chance of rain between 11am and 5pm. Mostly sunny, with a high near 66.",
@@ -1749,6 +1749,7 @@
   ],
   "subs": [
     "Brigitte Wheeler",
+    "Jay Stookey",
     "Olivia Seegers",
     "Talia Rich",
     "Tamra Erickson"

@@ -1,7 +1,7 @@
 {
   "weather": {
     "2026-04-23": "Partly sunny, with a high near 60.",
-    "2026-04-24": "Sunny, with a high near 63.",
+    "2026-04-24": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon.",
     "2026-04-25": "Sunny, with a high near 64.",
     "2026-04-26": "Sunny, with a high near 66.",
     "2026-04-27": "Mostly sunny, with a high near 66.",
@@ -920,5 +920,8 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": []
+  "subs": [
+    "Alison Thurman",
+    "Kristi (Staff) Kapioski"
+  ]
 }
