@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-04-22": "A slight chance of rain showers. Mostly cloudy, with a high near 56. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
-    "2026-04-23": "Mostly sunny, with a high near 60.",
+    "2026-04-23": "Partly sunny, with a high near 60.",
     "2026-04-24": "Sunny, with a high near 62.",
     "2026-04-25": "Sunny, with a high near 64.",
     "2026-04-26": "Sunny, with a high near 66.",
     "2026-04-27": "Mostly sunny, with a high near 66.",
-    "2026-04-28": "Sunny, with a high near 66."
+    "2026-04-28": "Mostly sunny, with a high near 66.",
+    "2026-04-29": "Sunny, with a high near 69."
   },
   "meals": {
     "1% White Milk": {
@@ -1748,10 +1748,11 @@
     "Wild Alaska Fish Tacos"
   ],
   "subs": [
-    "Ashlee Jackson",
-    "Cathleen Monahan",
+    "Amanda Baker",
+    "Darla Guymon",
+    "Gin Ernster",
+    "Heather Baldwin-Mccurdy",
     "Heidi Weaver",
-    "Melanie Glazener",
-    "Victoria (Staff) Madsen"
+    "Melanie Glazener"
   ]
 }
