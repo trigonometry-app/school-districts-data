@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-04-23": "Sunny, with a high near 61.",
-    "2026-04-24": "Sunny, with a high near 63.",
+    "2026-04-24": "Sunny, with a high near 61.",
     "2026-04-25": "Sunny, with a high near 64.",
-    "2026-04-26": "Sunny, with a high near 67.",
-    "2026-04-27": "Mostly sunny, with a high near 67.",
-    "2026-04-28": "Mostly sunny, with a high near 66.",
-    "2026-04-29": "Sunny, with a high near 69."
+    "2026-04-26": "Sunny, with a high near 66.",
+    "2026-04-27": "Mostly sunny, with a high near 62.",
+    "2026-04-28": "Partly sunny, with a high near 62.",
+    "2026-04-29": "Sunny, with a high near 67.",
+    "2026-04-30": "Mostly sunny, with a high near 70."
   },
   "meals": {
     "1% White Milk": {
@@ -1826,14 +1826,5 @@
     "Wild Alaska Fish Burger",
     "Wild Alaska Fish Tacos"
   ],
-  "subs": [
-    "Amy Hayward",
-    "Annalisa Anderson",
-    "Elisabeth Kowalski",
-    "Jason Metcalf Lindenburger",
-    "Jennifer (Staff) Vaninetti",
-    "Kyle Richards",
-    "Robyn Votava",
-    "Tammy Wright"
-  ]
+  "subs": []
 }

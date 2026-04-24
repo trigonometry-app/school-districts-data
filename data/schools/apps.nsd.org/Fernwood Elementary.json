@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-04-23": "Sunny, with a high near 59.",
-    "2026-04-24": "Sunny, with a high near 62.",
+    "2026-04-24": "Sunny. High near 61, with temperatures falling to around 59 in the afternoon.",
     "2026-04-25": "Sunny, with a high near 63.",
-    "2026-04-26": "Sunny, with a high near 66.",
-    "2026-04-27": "Mostly sunny, with a high near 66.",
-    "2026-04-28": "Mostly sunny, with a high near 65.",
-    "2026-04-29": "Sunny, with a high near 68."
+    "2026-04-26": "Sunny, with a high near 64.",
+    "2026-04-27": "Mostly sunny, with a high near 61.",
+    "2026-04-28": "Partly sunny, with a high near 61.",
+    "2026-04-29": "Sunny, with a high near 66.",
+    "2026-04-30": "Mostly sunny, with a high near 69."
   },
   "meals": {
     "1% White Milk": {
@@ -920,11 +920,5 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": [
-    "Emily Hawkinson",
-    "Jerri Tregear",
-    "Nicole Ryan",
-    "Ryan Weaver",
-    "Tracy (Staff) Bickhaus"
-  ]
+  "subs": []
 }

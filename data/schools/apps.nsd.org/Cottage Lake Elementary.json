@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-04-23": "Sunny, with a high near 60.",
-    "2026-04-24": "Sunny, with a high near 63.",
+    "2026-04-24": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon.",
     "2026-04-25": "Sunny, with a high near 64.",
-    "2026-04-26": "Sunny, with a high near 67.",
-    "2026-04-27": "A slight chance of rain showers between 11am and 5pm. Mostly sunny, with a high near 66.",
-    "2026-04-28": "Mostly sunny, with a high near 66.",
-    "2026-04-29": "Sunny, with a high near 69."
+    "2026-04-26": "Sunny, with a high near 65.",
+    "2026-04-27": "A slight chance of rain between 11am and 5pm. Mostly sunny, with a high near 61.",
+    "2026-04-28": "Partly sunny, with a high near 62.",
+    "2026-04-29": "Sunny, with a high near 68.",
+    "2026-04-30": "Mostly sunny, with a high near 70."
   },
   "meals": {
     "1% White Milk": {
@@ -920,10 +920,5 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": [
-    "Angela Macklin",
-    "Julia Hutcheson",
-    "Kara Morrison",
-    "Victoria Cohen"
-  ]
+  "subs": []
 }
