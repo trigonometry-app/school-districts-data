@@ -122,6 +122,7 @@ const parseMenuListing = (setting) => {
       continue;
     }
 
+    if (item.name === "Condiments: Self Service") continue;
     categoryRecipes.push(item.name);
   }
 
@@ -170,8 +171,9 @@ const loadMeals = async (districtBase, schoolBases) => {
         const listing = parseMenuListing(setting);
         if (!listing) continue;
         for (const [rawCategory, items] of Object.entries(listing)) {
-          const category = canonicalizeCategoryName(rawCategory);
+          let category = canonicalizeCategoryName(rawCategory);
           for (const item of items) {
+            if (item.name === "Ranch Dressing" || item.name === "Tartar Sauce") category = "Misc.";
             const entry = ((aggregate[item.name] ??= {})[menu.name] ??= {
               schoolNames: new Set(),
               category,
