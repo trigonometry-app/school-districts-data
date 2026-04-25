@@ -173,13 +173,16 @@ const loadMeals = async (districtBase, schoolBases) => {
         for (const [rawCategory, items] of Object.entries(listing)) {
           let category = canonicalizeCategoryName(rawCategory);
           for (const item of items) {
-            if (item.name === "Ranch Dressing" || item.name === "Tartar Sauce") category = "Misc.";
+            const effectiveCategory =
+              item.name === "Ranch Dressing" || item.name === "Tartar Sauce"
+                ? "Misc."
+                : category;
             const entry = ((aggregate[item.name] ??= {})[menu.name] ??= {
               schoolNames: new Set(),
-              category,
+              category: effectiveCategory,
               days: new Set(),
             });
-            if (entry.category != category)
+            if (entry.category != effectiveCategory)
               throw new Error(
                 `Conflicting categories for ${item.name} in ${menu.name} (menu ${menu.id}): ${entry.category} vs ${category}`,
               );
