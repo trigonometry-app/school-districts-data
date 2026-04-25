@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-04-25": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon.",
-    "2026-04-26": "Sunny, with a high near 65.",
-    "2026-04-27": "A chance of rain after 11am. Mostly sunny, with a high near 60. Chance of precipitation is 30%.",
-    "2026-04-28": "A slight chance of rain before 11am. Partly sunny, with a high near 59.",
+    "2026-04-25": "Sunny, with a high near 63.",
+    "2026-04-26": "Sunny. High near 66, with temperatures falling to around 64 in the afternoon.",
+    "2026-04-27": "A slight chance of rain after 5pm. Mostly sunny, with a high near 60. Chance of precipitation is 20%.",
+    "2026-04-28": "Mostly cloudy, with a high near 59.",
     "2026-04-29": "Sunny, with a high near 67.",
-    "2026-04-30": "Mostly sunny, with a high near 71.",
-    "2026-05-01": "Mostly sunny, with a high near 69."
+    "2026-04-30": "Partly sunny, with a high near 69.",
+    "2026-05-01": "Partly sunny, with a high near 65."
   },
   "meals": {
     "1% White Milk": {
