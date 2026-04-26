@@ -16,7 +16,7 @@ export const fetchText = async (url, init = {}) => {
   const response = await fetchResponse(url, init);
   if (!response.ok) {
     console.error(await response.text());
-    throw new Error(`${response.statusText}`);
+    throw new Error(`Got a ${response.status} (${response.statusText})`);
   }
   return await response.text();
 };
