@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-04-27": "Mostly sunny, with a high near 61.",
     "2026-04-28": "Mostly cloudy, with a high near 58.",
     "2026-04-29": "Sunny, with a high near 66.",
-    "2026-04-30": "Partly sunny, with a high near 70.",
-    "2026-05-01": "Partly sunny, with a high near 65.",
+    "2026-04-30": "Mostly sunny, with a high near 71.",
+    "2026-05-01": "Partly sunny, with a high near 66.",
     "2026-05-02": "Mostly sunny, with a high near 69.",
-    "2026-05-03": "Sunny, with a high near 76."
+    "2026-05-03": "Sunny, with a high near 76.",
+    "2026-05-04": "Sunny, with a high near 79."
   },
   "meals": {
     "1% White Milk": {
@@ -1369,9 +1369,5 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": [
-    "Kara Morrison",
-    "Michelle Baer",
-    "Susan Wright"
-  ]
+  "subs": []
 }
