@@ -256,14 +256,6 @@
         ]
       }
     },
-    "Beef Teriyaki Rice Bowl": {
-      "2025-2026 Elementary School Lunch": {
-        "category": "A Lunch",
-        "days": [
-          "2026-05-11"
-        ]
-      }
-    },
     "Black Beans": {
       "2025-2026 Elementary School Lunch": {
         "category": "Vegetables",
@@ -1369,5 +1361,9 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": []
+  "subs": [
+    "Lacey Ott",
+    "Nicole Van Avery",
+    "Pamela (Staff) Otto"
+  ]
 }
