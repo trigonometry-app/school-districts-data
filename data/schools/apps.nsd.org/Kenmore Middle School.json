@@ -1,7 +1,7 @@
 {
   "weather": {
     "2026-04-30": "Mostly sunny, with a high near 72.",
-    "2026-05-01": "Partly sunny, with a high near 70.",
+    "2026-05-01": "Partly sunny. High near 70, with temperatures falling to around 68 in the afternoon.",
     "2026-05-02": "Partly sunny, with a high near 71.",
     "2026-05-03": "Sunny, with a high near 77.",
     "2026-05-04": "Sunny, with a high near 80.",
@@ -2638,6 +2638,7 @@
   "subs": [
     "Brett Colley",
     "Joe Dalan",
+    "Rhonda (Staff) Bragg",
     "Ryan Lane",
     "Shannon Colley"
   ]
