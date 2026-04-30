@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-04-29": "Sunny, with a high near 66.",
-    "2026-04-30": "Patchy fog before 7am. Mostly sunny, with a high near 72.",
-    "2026-05-01": "Partly sunny, with a high near 71.",
-    "2026-05-02": "Partly sunny, with a high near 70.",
-    "2026-05-03": "Sunny, with a high near 78.",
-    "2026-05-04": "Sunny, with a high near 78.",
-    "2026-05-05": "Mostly sunny, with a high near 71."
+    "2026-04-30": "Patchy fog before 7am. Mostly sunny. High near 72, with temperatures falling to around 70 in the afternoon.",
+    "2026-05-01": "Partly sunny, with a high near 70.",
+    "2026-05-02": "Partly sunny, with a high near 71.",
+    "2026-05-03": "Sunny, with a high near 77.",
+    "2026-05-04": "Sunny, with a high near 79.",
+    "2026-05-05": "Mostly sunny, with a high near 74.",
+    "2026-05-06": "Mostly sunny, with a high near 72."
   },
   "meals": {
     "1% White Milk": {
@@ -1362,6 +1362,7 @@
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
   "subs": [
-    "Amy Pak"
+    "Johanna Jing",
+    "Kimberlyn Woodard"
   ]
 }
