@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-05-01": "Partly sunny. High near 71, with temperatures falling to around 69 in the afternoon.",
     "2026-05-02": "Partly sunny, with a high near 72.",
     "2026-05-03": "Sunny, with a high near 78.",
     "2026-05-04": "Sunny, with a high near 80.",
     "2026-05-05": "Sunny, with a high near 74.",
     "2026-05-06": "Sunny, with a high near 73.",
-    "2026-05-07": "Mostly sunny, with a high near 71."
+    "2026-05-07": "Mostly sunny, with a high near 71.",
+    "2026-05-08": "Partly sunny, with a high near 70."
   },
   "meals": {
     "1% White Milk": {
@@ -963,10 +963,5 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": [
-    "Christina Charlesworth",
-    "Jessica Murphy",
-    "Rana (Staff) Mahmud",
-    "Susan Sires"
-  ]
+  "subs": []
 }
