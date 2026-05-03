@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-05-02": "Sunny, with a high near 72.",
     "2026-05-03": "Sunny, with a high near 78.",
     "2026-05-04": "Sunny, with a high near 81.",
     "2026-05-05": "Sunny, with a high near 74.",
     "2026-05-06": "Mostly sunny, with a high near 71.",
     "2026-05-07": "Partly sunny, with a high near 68.",
-    "2026-05-08": "Partly sunny, with a high near 66."
+    "2026-05-08": "Partly sunny, with a high near 66.",
+    "2026-05-09": "Mostly sunny, with a high near 69."
   },
   "meals": {
     "1% White Milk": {
