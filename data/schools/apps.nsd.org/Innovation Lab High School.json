@@ -365,6 +365,14 @@
         ]
       }
     },
+    "Chicken Alfredo Pasta": {
+      "2025-2026 SAS and ILAB Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-05-06"
+        ]
+      }
+    },
     "Chicken and Waffles": {
       "2025-2026 SAS and ILAB Lunch": {
         "category": "Specials",
@@ -867,7 +875,6 @@
       "2025-2026 SAS and ILAB Lunch": {
         "category": "Specials",
         "days": [
-          "2026-05-06",
           "2026-05-27"
         ]
       }

@@ -61,6 +61,14 @@
         ]
       }
     },
+    "Alfredo Mozzarella Pasta": {
+      "2025-2026 Middle School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-05-06"
+        ]
+      }
+    },
     "Apple": {
       "2025-2026 Middle School Breakfast": {
         "category": "Fruit",
@@ -434,6 +442,14 @@
         "category": "Specials",
         "days": [
           "2026-05-20"
+        ]
+      }
+    },
+    "Chicken Alfredo Pasta": {
+      "2025-2026 Middle School Lunch": {
+        "category": "Specials",
+        "days": [
+          "2026-05-06"
         ]
       }
     },
@@ -1261,7 +1277,6 @@
       "2025-2026 Middle School Lunch": {
         "category": "Specials",
         "days": [
-          "2026-05-06",
           "2026-05-27"
         ]
       }
@@ -1270,7 +1285,6 @@
       "2025-2026 Middle School Lunch": {
         "category": "Specials",
         "days": [
-          "2026-05-06",
           "2026-05-27"
         ]
       }
