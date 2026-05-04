@@ -375,6 +375,22 @@
       ]
     }
   },
+  "Alfredo Mozzarella Pasta": {
+    "2025-2026 Middle School Lunch": {
+      "schoolNames": [
+        "Canyon Park Middle School",
+        "Kenmore Middle School",
+        "Leota Middle School",
+        "Northshore Middle School",
+        "Skyview Middle School",
+        "Timbercrest Middle School"
+      ],
+      "category": "Specials",
+      "days": [
+        "2026-05-06"
+      ]
+    }
+  },
   "Apple": {
     "2025-2026 Elementary School Breakfast": {
       "schoolNames": [
@@ -2620,6 +2636,31 @@
       "category": "Specials",
       "days": [
         "2026-05-20"
+      ]
+    }
+  },
+  "Chicken Alfredo Pasta": {
+    "2025-2026 Middle School Lunch": {
+      "schoolNames": [
+        "Canyon Park Middle School",
+        "Kenmore Middle School",
+        "Leota Middle School",
+        "Northshore Middle School",
+        "Skyview Middle School",
+        "Timbercrest Middle School"
+      ],
+      "category": "Specials",
+      "days": [
+        "2026-05-06"
+      ]
+    },
+    "2025-2026 SAS and ILAB Lunch": {
+      "schoolNames": [
+        "Innovation Lab High School"
+      ],
+      "category": "Specials",
+      "days": [
+        "2026-05-06"
       ]
     }
   },
@@ -7089,7 +7130,6 @@
       ],
       "category": "Specials",
       "days": [
-        "2026-05-06",
         "2026-05-27"
       ]
     },
@@ -7099,7 +7139,6 @@
       ],
       "category": "Specials",
       "days": [
-        "2026-05-06",
         "2026-05-27"
       ]
     }
@@ -7129,7 +7168,6 @@
       ],
       "category": "Specials",
       "days": [
-        "2026-05-06",
         "2026-05-27"
       ]
     }
@@ -8655,6 +8693,7 @@
       ],
       "category": "Grab And Go",
       "days": [
+        "2026-05-04",
         "2026-05-11",
         "2026-05-18"
       ]
