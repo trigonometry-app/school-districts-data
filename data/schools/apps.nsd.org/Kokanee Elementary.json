@@ -1,6 +1,6 @@
 {
   "weather": {
-    "2026-05-07": "Partly sunny, with a high near 69.",
+    "2026-05-07": "Partly sunny, with a high near 67.",
     "2026-05-08": "Partly sunny, with a high near 69.",
     "2026-05-09": "Mostly sunny, with a high near 74.",
     "2026-05-10": "Partly sunny, with a high near 71.",
@@ -963,5 +963,7 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": []
+  "subs": [
+    "Dawn Hamilton"
+  ]
 }
