@@ -1,7 +1,7 @@
 {
   "weather": {
     "2026-05-11": "Sunny, with a high near 68.",
-    "2026-05-12": "Mostly sunny, with a high near 78.",
+    "2026-05-12": "Mostly sunny. High near 78, with temperatures falling to around 76 in the afternoon.",
     "2026-05-13": "A chance of rain. Partly sunny, with a high near 69. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
     "2026-05-14": "A slight chance of rain after 5pm. Partly sunny, with a high near 65.",
     "2026-05-15": "A chance of rain before 11am, then a chance of showers and thunderstorms between 11am and 5pm, then a chance of rain. Mostly cloudy, with a high near 61.",
@@ -1823,6 +1823,9 @@
     "Wild Alaska Fish Tacos"
   ],
   "subs": [
-    "Pamela Sutton"
+    "Casey Parvin",
+    "Nichole Lepkowski",
+    "Pamela Sutton",
+    "Torrey Myers"
   ]
 }
