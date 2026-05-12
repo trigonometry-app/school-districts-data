@@ -462,6 +462,14 @@
         ]
       }
     },
+    "Chicken Teriyaki Rice Bowl": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-05-19"
+        ]
+      }
+    },
     "Corn": {
       "2025-2026 Pre-K Lunch": {
         "category": "Vegetables",
@@ -688,12 +696,6 @@
       }
     },
     "Mini Cheese Calzone with Marinara Cups": {
-      "2025-2026 Elementary School Lunch": {
-        "category": "B Lunch",
-        "days": [
-          "2026-05-19"
-        ]
-      },
       "2025-2026 Pre-K Lunch": {
         "category": "Lunch Entree",
         "days": [

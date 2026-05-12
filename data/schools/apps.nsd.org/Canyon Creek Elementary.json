@@ -302,6 +302,14 @@
         ]
       }
     },
+    "Chicken Teriyaki Rice Bowl": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "B Lunch",
+        "days": [
+          "2026-05-19"
+        ]
+      }
+    },
     "Corn & Bean Salad": {
       "2025-2026 Elementary School Lunch": {
         "category": "Vegetables",
@@ -471,14 +479,6 @@
           "2026-05-21",
           "2026-05-27",
           "2026-05-28"
-        ]
-      }
-    },
-    "Mini Cheese Calzone with Marinara Cups": {
-      "2025-2026 Elementary School Lunch": {
-        "category": "B Lunch",
-        "days": [
-          "2026-05-19"
         ]
       }
     },
@@ -949,7 +949,6 @@
     "Chicken Bites and Waffles",
     "Golden Crispy Chicken Burger",
     "Macaroni and Cheese",
-    "Mini Cheese Calzone with Marinara Cups",
     "Orange Chicken Rice Bowl",
     "Pizza Stack Pack (Turkey)",
     "Sunbutter Sandwich",
