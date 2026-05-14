@@ -1513,6 +1513,36 @@
       ]
     }
   },
+  "Beef Teriyaki Rice Bowl": {
+    "2025-2026 Elementary School Lunch": {
+      "schoolNames": [
+        "Arrowhead Elementary",
+        "Canyon Creek Elementary",
+        "Cottage Lake Elementary",
+        "Crystal Springs Elementary",
+        "East Ridge Elementary",
+        "Fernwood Elementary",
+        "Frank Love Elementary",
+        "Hollywood Hill Elementary",
+        "Kenmore Elementary",
+        "Kokanee Elementary",
+        "Lockwood Elementary",
+        "Maywood Hills Elementary",
+        "Moorlands Elementary",
+        "Ruby Bridges Elementary",
+        "Shelton View Elementary",
+        "Sunrise Elementary",
+        "Wellington Elementary",
+        "Westhill Elementary",
+        "Woodin Elementary",
+        "Woodmoor Elementary"
+      ],
+      "category": "A Lunch",
+      "days": [
+        "2026-05-11"
+      ]
+    }
+  },
   "Blueberries": {
     "2025-2026 Elementary School Lunch": {
       "schoolNames": [
@@ -2796,8 +2826,7 @@
       "days": [
         "2026-05-05",
         "2026-05-12",
-        "2026-05-19",
-        "2026-05-26"
+        "2026-05-19"
       ]
     },
     "2025-2026 High School Lunch": {
@@ -9951,6 +9980,36 @@
       "days": [
         "2026-05-08",
         "2026-05-29"
+      ]
+    }
+  },
+  "Yogurt Lunch with Mini Waffles": {
+    "2025-2026 Elementary School Lunch": {
+      "schoolNames": [
+        "Arrowhead Elementary",
+        "Canyon Creek Elementary",
+        "Cottage Lake Elementary",
+        "Crystal Springs Elementary",
+        "East Ridge Elementary",
+        "Fernwood Elementary",
+        "Frank Love Elementary",
+        "Hollywood Hill Elementary",
+        "Kenmore Elementary",
+        "Kokanee Elementary",
+        "Lockwood Elementary",
+        "Maywood Hills Elementary",
+        "Moorlands Elementary",
+        "Ruby Bridges Elementary",
+        "Shelton View Elementary",
+        "Sunrise Elementary",
+        "Wellington Elementary",
+        "Westhill Elementary",
+        "Woodin Elementary",
+        "Woodmoor Elementary"
+      ],
+      "category": "C Lunch",
+      "days": [
+        "2026-05-26"
       ]
     }
   },
