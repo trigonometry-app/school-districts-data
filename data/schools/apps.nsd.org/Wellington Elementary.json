@@ -164,6 +164,14 @@
         ]
       }
     },
+    "Beef Teriyaki Rice Bowl": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "A Lunch",
+        "days": [
+          "2026-05-11"
+        ]
+      }
+    },
     "Blueberries": {
       "2025-2026 Elementary School Lunch": {
         "category": "Fruit",
@@ -289,8 +297,7 @@
         "days": [
           "2026-05-05",
           "2026-05-12",
-          "2026-05-19",
-          "2026-05-26"
+          "2026-05-19"
         ]
       }
     },
@@ -931,6 +938,14 @@
         ]
       }
     },
+    "Yogurt Lunch with Mini Waffles": {
+      "2025-2026 Elementary School Lunch": {
+        "category": "C Lunch",
+        "days": [
+          "2026-05-26"
+        ]
+      }
+    },
     "Yogurt Lunch with Puffed Pancake Bites": {
       "2025-2026 Elementary School Lunch": {
         "category": "C Lunch",
@@ -959,7 +974,10 @@
     "Wild Alaska Fish & Chips with Roll",
     "Wild Alaska Fish Burger",
     "Yogurt Lunch with Mini French Toast",
+    "Yogurt Lunch with Mini Waffles",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": []
+  "subs": [
+    "Heather Jenks"
+  ]
 }
