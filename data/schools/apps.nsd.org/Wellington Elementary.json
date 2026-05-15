@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-05-14": "A chance of showers and thunderstorms before 5pm, then a chance of rain. Cloudy. High near 61, with temperatures falling to around 56 in the afternoon. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
-    "2026-05-15": "Rain likely between 7am and 2pm, then showers and thunderstorms likely between 2pm and 5pm, then rain likely. Mostly cloudy. High near 52, with temperatures falling to around 50 in the afternoon. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "2026-05-15": "A chance of rain between 7am and 11am, then showers and thunderstorms likely. Mostly cloudy, with a high near 51. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible.",
     "2026-05-16": "A chance of rain before 11am, then showers and thunderstorms between 11am and 5pm, then a chance of rain. Mostly cloudy, with a high near 55. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "2026-05-17": "Mostly cloudy, with a high near 63.",
-    "2026-05-18": "Partly sunny, with a high near 65.",
-    "2026-05-19": "A slight chance of rain before 5pm. Partly sunny, with a high near 65.",
-    "2026-05-20": "Mostly sunny, with a high near 68."
+    "2026-05-17": "Partly sunny, with a high near 63.",
+    "2026-05-18": "Partly sunny, with a high near 66.",
+    "2026-05-19": "Partly sunny, with a high near 66.",
+    "2026-05-20": "Partly sunny, with a high near 67.",
+    "2026-05-21": "Partly sunny, with a high near 68."
   },
   "meals": {
     "1% White Milk": {
@@ -977,8 +977,5 @@
     "Yogurt Lunch with Mini Waffles",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": [
-    "Heather Jenks",
-    "Pamela (Staff) Otto"
-  ]
+  "subs": []
 }
