@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-05-15": "Showers and thunderstorms. Mostly cloudy, with a high near 50. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
-    "2026-05-16": "A chance of rain before 11am, then showers and thunderstorms between 11am and 4pm, then a chance of showers and thunderstorms between 4pm and 5pm, then a chance of rain. Mostly cloudy, with a high near 55. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
+    "2026-05-16": "A chance of rain showers before 11am, then a chance of showers and thunderstorms between 11am and noon, then showers and thunderstorms likely between noon and 2pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 55. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
     "2026-05-17": "Mostly cloudy, with a high near 61.",
     "2026-05-18": "Partly sunny, with a high near 65.",
-    "2026-05-19": "A slight chance of rain before 11am. Mostly sunny, with a high near 64.",
+    "2026-05-19": "Mostly sunny, with a high near 64.",
     "2026-05-20": "Partly sunny, with a high near 66.",
-    "2026-05-21": "Partly sunny, with a high near 66."
+    "2026-05-21": "Partly sunny, with a high near 66.",
+    "2026-05-22": "Mostly sunny, with a high near 68."
   },
   "meals": {
     "1% White Milk": {
@@ -1758,12 +1758,5 @@
     "Wild Alaska Fish Burger",
     "Wild Alaska Fish Tacos"
   ],
-  "subs": [
-    "Ashley Lovern",
-    "Christina Griffin",
-    "John Rietz",
-    "Matt Wallace",
-    "Nikolas Gregg",
-    "Sophie Larson"
-  ]
+  "subs": []
 }
