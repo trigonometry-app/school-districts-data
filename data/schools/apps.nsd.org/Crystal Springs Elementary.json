@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-05-18": "Mostly sunny, with a high near 67.",
-    "2026-05-19": "Mostly cloudy, with a high near 66.",
-    "2026-05-20": "Partly sunny, with a high near 69.",
-    "2026-05-21": "Mostly sunny, with a high near 75.",
-    "2026-05-22": "Mostly sunny, with a high near 75.",
-    "2026-05-23": "Partly sunny, with a high near 72.",
-    "2026-05-24": "A chance of rain after 5pm. Partly sunny, with a high near 67."
+    "2026-05-19": "Mostly cloudy, with a high near 65.",
+    "2026-05-20": "Mostly sunny, with a high near 68.",
+    "2026-05-21": "Mostly sunny, with a high near 74.",
+    "2026-05-22": "Sunny, with a high near 74.",
+    "2026-05-23": "Partly sunny, with a high near 73.",
+    "2026-05-24": "A chance of rain after 5pm. Partly sunny, with a high near 69.",
+    "2026-05-25": "A chance of rain. Mostly cloudy, with a high near 63."
   },
   "meals": {
     "1% White Milk": {
@@ -977,8 +977,5 @@
     "Yogurt Lunch with Mini Waffles",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": [
-    "Carisa McCracken",
-    "Cindy (Staff) Tidball"
-  ]
+  "subs": []
 }
