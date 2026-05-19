@@ -3,10 +3,10 @@
     "2026-05-19": "Mostly cloudy, with a high near 65.",
     "2026-05-20": "Mostly sunny, with a high near 68.",
     "2026-05-21": "Mostly sunny, with a high near 74.",
-    "2026-05-22": "Sunny, with a high near 74.",
-    "2026-05-23": "Partly sunny, with a high near 72.",
-    "2026-05-24": "A chance of rain after 5pm. Partly sunny, with a high near 68.",
-    "2026-05-25": "A chance of rain. Partly sunny, with a high near 63."
+    "2026-05-22": "Sunny, with a high near 76.",
+    "2026-05-23": "Mostly sunny, with a high near 75.",
+    "2026-05-24": "A slight chance of rain after 5pm. Partly sunny, with a high near 69.",
+    "2026-05-25": "Rain likely. Partly sunny, with a high near 60."
   },
   "meals": {
     "1% White Milk": {
@@ -933,16 +933,7 @@
       "2025-2026 Elementary School Lunch": {
         "category": "C Lunch",
         "days": [
-          "2026-05-08",
-          "2026-05-29"
-        ]
-      }
-    },
-    "Yogurt Lunch with Mini Waffles": {
-      "2025-2026 Elementary School Lunch": {
-        "category": "C Lunch",
-        "days": [
-          "2026-05-26"
+          "2026-05-08"
         ]
       }
     },
@@ -974,7 +965,6 @@
     "Wild Alaska Fish & Chips with Roll",
     "Wild Alaska Fish Burger",
     "Yogurt Lunch with Mini French Toast",
-    "Yogurt Lunch with Mini Waffles",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
   "subs": [
