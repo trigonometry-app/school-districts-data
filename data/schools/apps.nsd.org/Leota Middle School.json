@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-05-19": "Mostly cloudy, with a high near 64.",
-    "2026-05-20": "Mostly sunny, with a high near 67.",
+    "2026-05-20": "Mostly sunny, with a high near 68.",
     "2026-05-21": "Mostly sunny, with a high near 74.",
     "2026-05-22": "Sunny, with a high near 76.",
-    "2026-05-23": "Mostly sunny, with a high near 74.",
-    "2026-05-24": "A slight chance of rain after 5pm. Mostly cloudy, with a high near 68.",
-    "2026-05-25": "Rain likely. Mostly cloudy, with a high near 59."
+    "2026-05-23": "Mostly sunny, with a high near 75.",
+    "2026-05-24": "Mostly cloudy, with a high near 70.",
+    "2026-05-25": "Rain likely. Mostly cloudy, with a high near 60.",
+    "2026-05-26": "A slight chance of rain. Mostly sunny, with a high near 62."
   },
   "meals": {
     "1% White Milk": {
@@ -2329,9 +2329,10 @@
     "Wild Alaska Fish Tacos"
   ],
   "subs": [
-    "Lyn (Staff) Trier",
+    "Amy Drake",
     "Matthew Bohannan",
-    "Melissa Merculief",
-    "Victoria (Staff) Duncombe"
+    "Meghan Newell",
+    "Stephanie Smith",
+    "Suzi Welch"
   ]
 }
