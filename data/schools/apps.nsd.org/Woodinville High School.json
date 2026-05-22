@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-05-21": "Sunny, with a high near 74.",
     "2026-05-22": "Sunny, with a high near 76.",
-    "2026-05-23": "Partly sunny, with a high near 70.",
-    "2026-05-24": "A chance of rain after 5pm. Mostly cloudy, with a high near 68.",
-    "2026-05-25": "Rain likely. Mostly cloudy, with a high near 61.",
-    "2026-05-26": "A chance of rain showers before 5pm. Partly sunny, with a high near 65.",
-    "2026-05-27": "Partly sunny, with a high near 68."
+    "2026-05-23": "Mostly cloudy, with a high near 74.",
+    "2026-05-24": "Partly sunny, with a high near 71.",
+    "2026-05-25": "Rain. Mostly cloudy, with a high near 61.",
+    "2026-05-26": "A chance of rain before 5pm. Partly sunny, with a high near 64.",
+    "2026-05-27": "A slight chance of rain before 11am. Partly sunny, with a high near 67.",
+    "2026-05-28": "A slight chance of rain after 11am. Mostly sunny, with a high near 69."
   },
   "meals": {
     "1% White Milk": {
@@ -1823,21 +1823,26 @@
     "Wild Alaska Fish Tacos"
   ],
   "subs": [
-    "Alexis Barelli",
+    "Aaron Tennis",
     "Andrea (Staff) Baleva",
-    "Anna Leesa Ronge",
+    "Anna-Lisa Notter",
     "Aricka Smith",
     "Audrey Woodard",
-    "Benjamin Kittler",
     "Christine Traxler",
     "Coby Ronn R. Dilling",
     "Danielle Gleit",
-    "Erik Daviscourt",
+    "Dawn Netzel",
+    "Jamie Tanksley",
     "Jeff Glover",
+    "Kaitlyn Webster",
     "Kathryn Schramm",
-    "Lindsay B. Moffitt",
+    "Loren Tanksley",
+    "Marie Lassley",
     "Michael Kelly",
     "Natali Evans",
-    "Scot Millhollen"
+    "Natalie Guinasso",
+    "Nathan C. Davis",
+    "Parker Dahl",
+    "Roberta (Staff) Porter"
   ]
 }
