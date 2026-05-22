@@ -1,7 +1,7 @@
 {
   "weather": {
     "2026-05-22": "Sunny. High near 76, with temperatures falling to around 74 in the afternoon.",
-    "2026-05-23": "Mostly cloudy, with a high near 74.",
+    "2026-05-23": "Mostly cloudy. High near 74, with temperatures falling to around 72 in the afternoon.",
     "2026-05-24": "Partly sunny, with a high near 70.",
     "2026-05-25": "Rain. Cloudy, with a high near 60.",
     "2026-05-26": "A chance of rain before 5pm. Partly sunny, with a high near 64.",
@@ -2337,6 +2337,7 @@
     "Marylynn (Staff) Kaiser",
     "Matthew Warhol",
     "Meghan Newell",
+    "Stephanie Smith",
     "Suzi Welch"
   ]
 }
