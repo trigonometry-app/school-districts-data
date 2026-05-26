@@ -1,6 +1,6 @@
 {
   "weather": {
-    "2026-05-26": "A chance of rain before 11am. Mostly cloudy, with a high near 63. Chance of precipitation is 40%.",
+    "2026-05-26": "A chance of rain before 11am. Partly sunny, with a high near 63. Chance of precipitation is 30%.",
     "2026-05-27": "Partly sunny, with a high near 74.",
     "2026-05-28": "Sunny, with a high near 79.",
     "2026-05-29": "A chance of rain. Mostly cloudy, with a high near 60.",
@@ -967,5 +967,8 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": []
+  "subs": [
+    "Nichole Fisher",
+    "Pamela (Staff) Otto"
+  ]
 }

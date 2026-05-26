@@ -1,6 +1,6 @@
 {
   "weather": {
-    "2026-05-26": "A chance of rain before 11am. Mostly cloudy, with a high near 63. Chance of precipitation is 40%.",
+    "2026-05-26": "A chance of rain before 11am. Partly sunny, with a high near 63. Chance of precipitation is 30%.",
     "2026-05-27": "Partly sunny, with a high near 73.",
     "2026-05-28": "Sunny, with a high near 79.",
     "2026-05-29": "A chance of rain. Mostly cloudy, with a high near 59.",
@@ -1822,5 +1822,14 @@
     "Wild Alaska Fish Burger",
     "Wild Alaska Fish Tacos"
   ],
-  "subs": []
+  "subs": [
+    "Catherine Christensen",
+    "David Assink",
+    "Jennifer Ligot",
+    "Julia Jensen",
+    "Mylinda Nelke",
+    "Rachel Knox",
+    "Rikki Toenyan-Brennan",
+    "Sudha Pande"
+  ]
 }

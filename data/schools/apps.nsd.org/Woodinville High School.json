@@ -1,6 +1,6 @@
 {
   "weather": {
-    "2026-05-26": "A chance of rain before 11am. Mostly cloudy, with a high near 64. Chance of precipitation is 40%.",
+    "2026-05-26": "A chance of rain before 11am. Partly sunny, with a high near 64. Chance of precipitation is 30%.",
     "2026-05-27": "Partly sunny, with a high near 74.",
     "2026-05-28": "Sunny, with a high near 80.",
     "2026-05-29": "A chance of rain. Mostly cloudy, with a high near 61.",
@@ -1824,9 +1824,15 @@
   ],
   "subs": [
     "Andrea (Staff) Baleva",
+    "Ariona Thompson",
+    "Dan Lovitt",
     "Eric Vivelo",
+    "Erik Daviscourt",
     "Joe Shlichta",
+    "Josh Butchart",
+    "Loren Tanksley",
     "Mariela Hernandez Bartolomei",
-    "Paul Glenovich"
+    "Paul Glenovich",
+    "Sara Jackson"
   ]
 }
