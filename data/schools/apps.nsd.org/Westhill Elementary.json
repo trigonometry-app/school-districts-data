@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-05-26": "Mostly sunny, with a high near 64.",
     "2026-05-27": "Sunny, with a high near 74.",
-    "2026-05-28": "A slight chance of rain after 5pm. Sunny, with a high near 80. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
-    "2026-05-29": "Rain likely before 5pm. Mostly cloudy, with a high near 60.",
-    "2026-05-30": "Partly sunny, with a high near 63.",
-    "2026-05-31": "Mostly sunny, with a high near 66.",
-    "2026-06-01": "Sunny, with a high near 74."
+    "2026-05-28": "Sunny, with a high near 80.",
+    "2026-05-29": "Rain likely before 5pm. Mostly cloudy, with a high near 60. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
+    "2026-05-30": "Partly sunny, with a high near 65.",
+    "2026-05-31": "Mostly sunny, with a high near 67.",
+    "2026-06-01": "Mostly sunny, with a high near 73.",
+    "2026-06-02": "Mostly sunny, with a high near 80."
   },
   "meals": {
     "1% White Milk": {
@@ -1305,9 +1305,5 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": [
-    "Carly Castillo",
-    "Elizabeth Schoch",
-    "Noelle Wight"
-  ]
+  "subs": []
 }
