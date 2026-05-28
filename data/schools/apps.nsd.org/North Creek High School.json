@@ -1,7 +1,7 @@
 {
   "weather": {
     "2026-05-28": "Sunny. High near 79, with temperatures falling to around 77 in the afternoon.",
-    "2026-05-29": "Rain. Cloudy, with a high near 57. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
+    "2026-05-29": "Rain. Cloudy. High near 57, with temperatures falling to around 55 in the afternoon. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
     "2026-05-30": "Mostly sunny, with a high near 62.",
     "2026-05-31": "Sunny, with a high near 66.",
     "2026-06-01": "Sunny, with a high near 73.",
@@ -1824,9 +1824,14 @@
   ],
   "subs": [
     "Barbara (Staff) Taheri",
+    "Gina Hayes",
     "Jay Kenyon",
     "Jennifer Ligot",
     "Jessica Cooper",
-    "Mylinda Nelke"
+    "Julia Jensen",
+    "Kimberlee Monpas",
+    "Mylinda Nelke",
+    "Tim Hagerman",
+    "William Rosenthal"
   ]
 }
