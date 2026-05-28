@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-05-27": "Sunny, with a high near 73.",
     "2026-05-28": "Sunny. High near 79, with temperatures falling to around 77 in the afternoon.",
-    "2026-05-29": "Rain before 5pm. Cloudy, with a high near 58. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
-    "2026-05-30": "Partly sunny, with a high near 63.",
-    "2026-05-31": "Mostly sunny, with a high near 66.",
-    "2026-06-01": "Mostly sunny, with a high near 74.",
-    "2026-06-02": "Mostly sunny, with a high near 84."
+    "2026-05-29": "Rain. Cloudy, with a high near 58. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
+    "2026-05-30": "Mostly sunny, with a high near 63.",
+    "2026-05-31": "Sunny, with a high near 67.",
+    "2026-06-01": "Sunny, with a high near 73.",
+    "2026-06-02": "Sunny, with a high near 82.",
+    "2026-06-03": "Partly sunny, with a high near 78."
   },
   "meals": {
     "1% White Milk": {
