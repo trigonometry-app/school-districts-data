@@ -1,6 +1,6 @@
 {
   "weather": {
-    "2026-05-29": "A chance of rain before 2pm. Mostly cloudy, with a high near 58. Chance of precipitation is 40%.",
+    "2026-05-29": "Mostly cloudy, with a high near 58.",
     "2026-05-30": "Mostly sunny, with a high near 63.",
     "2026-05-31": "Sunny, with a high near 66.",
     "2026-06-01": "Sunny, with a high near 75.",
@@ -967,5 +967,7 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": []
+  "subs": [
+    "Crystal (Staff) Plotkin"
+  ]
 }
