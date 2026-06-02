@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-01": "Partly sunny, with a high near 73.",
     "2026-06-02": "Sunny, with a high near 86.",
-    "2026-06-03": "Mostly cloudy, with a high near 73.",
-    "2026-06-04": "Partly sunny, with a high near 70.",
-    "2026-06-05": "A chance of rain after 11am. Partly sunny, with a high near 65.",
-    "2026-06-06": "A chance of rain before 11am, then showers and thunderstorms between 11am and 5pm, then rain likely. Mostly cloudy, with a high near 62.",
-    "2026-06-07": "A slight chance of rain. Partly sunny, with a high near 67."
+    "2026-06-03": "Partly sunny, with a high near 73.",
+    "2026-06-04": "A slight chance of rain before 11am. Partly sunny, with a high near 69. Chance of precipitation is 20%.",
+    "2026-06-05": "Rain likely after 11am. Partly sunny, with a high near 64.",
+    "2026-06-06": "A chance of rain before 11am, then showers and thunderstorms between 11am and 5pm, then a chance of rain. Mostly cloudy, with a high near 62.",
+    "2026-06-07": "A slight chance of rain before 5pm. Mostly sunny, with a high near 68.",
+    "2026-06-08": "A slight chance of rain after 5pm. Partly sunny, with a high near 71."
   },
   "meals": {
     "1% White Milk": {
@@ -968,6 +968,6 @@
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
   "subs": [
-    "Jessica Darling"
+    "Jessica Lynn L. Tompkins"
   ]
 }
