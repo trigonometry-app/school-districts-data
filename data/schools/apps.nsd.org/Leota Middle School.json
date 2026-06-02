@@ -1,11 +1,11 @@
 {
   "weather": {
     "2026-06-02": "Sunny, with a high near 86.",
-    "2026-06-03": "Partly sunny, with a high near 72.",
+    "2026-06-03": "Partly sunny. High near 70, with temperatures falling to around 68 in the afternoon.",
     "2026-06-04": "A chance of rain before 11am. Partly sunny, with a high near 68. Chance of precipitation is 30%.",
-    "2026-06-05": "Rain likely after 11am. Mostly cloudy, with a high near 63.",
-    "2026-06-06": "Rain likely before 11am, then showers and thunderstorms between 11am and 5pm, then rain likely. Mostly cloudy, with a high near 61.",
-    "2026-06-07": "A slight chance of rain before 5pm. Partly sunny, with a high near 67.",
+    "2026-06-05": "A chance of rain between 11am and 5pm, then showers and thunderstorms. Mostly cloudy, with a high near 63.",
+    "2026-06-06": "Rain likely before 11am, then showers and thunderstorms between 11am and 5pm, then a chance of rain. Mostly cloudy, with a high near 61.",
+    "2026-06-07": "Partly sunny, with a high near 67.",
     "2026-06-08": "A slight chance of rain after 5pm. Partly sunny, with a high near 71."
   },
   "meals": {
@@ -2329,7 +2329,9 @@
     "Wild Alaska Fish Tacos"
   ],
   "subs": [
+    "Aaron Perry",
     "Kirsten Adams",
+    "Linda Nelson",
     "Marylynn (Staff) Kaiser",
     "Matthew Warhol",
     "Ryan Adams",
