@@ -1,7 +1,7 @@
 {
   "weather": {
     "2026-06-08": "Rain after 11am. Cloudy. High near 64, with temperatures falling to around 60 in the afternoon. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "2026-06-09": "Rain likely before 11am, then showers and thunderstorms between 11am and 4pm, then a chance of showers and thunderstorms between 4pm and 5pm, then rain. Cloudy, with a high near 61. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",
+    "2026-06-09": "Rain likely before 11am, then showers and thunderstorms between 11am and 4pm, then a chance of showers and thunderstorms between 4pm and 5pm, then rain. Cloudy. High near 61, with temperatures falling to around 58 in the afternoon. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",
     "2026-06-10": "A chance of rain before 5pm. Partly sunny, with a high near 65. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
     "2026-06-11": "Sunny, with a high near 68.",
     "2026-06-12": "Sunny, with a high near 73.",
@@ -967,5 +967,8 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": []
+  "subs": [
+    "Austin Troyer",
+    "Patricia (Staff) Roberts"
+  ]
 }
