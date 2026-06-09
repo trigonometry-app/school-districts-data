@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-08": "Rain. Cloudy. High near 64, with temperatures falling to around 59 in the afternoon. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",
-    "2026-06-09": "Rain likely before 11am, then showers and thunderstorms likely between 11am and 5pm, then rain likely. Mostly cloudy. High near 62, with temperatures falling to around 60 in the afternoon. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "2026-06-10": "A slight chance of rain before 11am. Partly sunny, with a high near 65. Chance of precipitation is 20%.",
+    "2026-06-09": "Rain before 11am, then showers and thunderstorms likely between 11am and 5pm, then rain likely. Mostly cloudy. High near 62, with temperatures falling to around 60 in the afternoon. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "2026-06-10": "Partly sunny, with a high near 66.",
     "2026-06-11": "Sunny, with a high near 71.",
-    "2026-06-12": "Sunny, with a high near 75.",
+    "2026-06-12": "Sunny, with a high near 74.",
     "2026-06-13": "Sunny, with a high near 80.",
-    "2026-06-14": "Sunny, with a high near 87."
+    "2026-06-14": "Sunny, with a high near 86.",
+    "2026-06-15": "Sunny, with a high near 91."
   },
   "meals": {
     "1% White Milk": {
@@ -1758,7 +1758,5 @@
     "Wild Alaska Fish Burger",
     "Wild Alaska Fish Tacos"
   ],
-  "subs": [
-    "Sara Redford"
-  ]
+  "subs": []
 }
