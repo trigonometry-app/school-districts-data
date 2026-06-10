@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-09": "A chance of showers and thunderstorms before 5pm, then rain likely. Mostly cloudy. High near 60, with temperatures falling to around 58 in the afternoon. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
     "2026-06-10": "A slight chance of rain before 10am. Partly sunny, with a high near 65. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
     "2026-06-11": "Sunny, with a high near 70.",
     "2026-06-12": "Sunny, with a high near 73.",
     "2026-06-13": "Sunny, with a high near 78.",
     "2026-06-14": "Sunny, with a high near 86.",
-    "2026-06-15": "Mostly sunny, with a high near 90."
+    "2026-06-15": "Mostly sunny, with a high near 90.",
+    "2026-06-16": "Mostly sunny, with a high near 83."
   },
   "meals": {
     "1% White Milk": {
@@ -2329,12 +2329,9 @@
     "Wild Alaska Fish Tacos"
   ],
   "subs": [
-    "Madison Thielen",
+    "Danny Myers",
+    "Kathleen Hartman",
     "Marylynn (Staff) Kaiser",
-    "Matthew Bohannan",
-    "Melissa Merculief",
-    "Stephanie Smith",
-    "Suzi Welch",
-    "Tamara Kelly"
+    "Matthew Bohannan"
   ]
 }
