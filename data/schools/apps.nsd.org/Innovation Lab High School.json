@@ -1,6 +1,6 @@
 {
   "weather": {
-    "2026-06-10": "Partly sunny, with a high near 65. New rainfall amounts less than a tenth of an inch possible.",
+    "2026-06-10": "Mostly sunny, with a high near 65. New rainfall amounts less than a tenth of an inch possible.",
     "2026-06-11": "Sunny, with a high near 71.",
     "2026-06-12": "Sunny, with a high near 73.",
     "2026-06-13": "Sunny, with a high near 78.",
@@ -1217,5 +1217,8 @@
     "Wild Alaska Fish Burger",
     "Wild Alaska Fish Tacos"
   ],
-  "subs": []
+  "subs": [
+    "Kirby Morgan",
+    "Sarah Gardner"
+  ]
 }
