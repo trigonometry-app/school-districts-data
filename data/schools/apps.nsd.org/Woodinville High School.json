@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-10": "Mostly sunny, with a high near 66.",
     "2026-06-11": "Sunny, with a high near 71.",
     "2026-06-12": "Sunny, with a high near 73.",
-    "2026-06-13": "Sunny, with a high near 78.",
-    "2026-06-14": "Sunny, with a high near 85.",
-    "2026-06-15": "Mostly sunny, with a high near 89.",
-    "2026-06-16": "Sunny, with a high near 82."
+    "2026-06-13": "Sunny, with a high near 80.",
+    "2026-06-14": "Sunny, with a high near 87.",
+    "2026-06-15": "Mostly sunny, with a high near 91.",
+    "2026-06-16": "Sunny, with a high near 82.",
+    "2026-06-17": "Mostly sunny, with a high near 76."
   },
   "meals": {
     "1% White Milk": {
@@ -1824,17 +1824,17 @@
   ],
   "subs": [
     "Andrea (Staff) Baleva",
+    "Audrey Woodard",
     "Coby Ronn R. Dilling",
-    "Danna Kapacinskas",
-    "Darren Meucci",
+    "Erik Daviscourt",
+    "Iani Penev",
     "Jean Lee",
-    "Jennifer (Staff) Diaz",
-    "Josh Butchart",
-    "Leah Hainey",
     "Lindsay B. Moffitt",
+    "Michael Kelly",
+    "Nathan C. Davis",
+    "Nicole Skone",
     "Paul Mulvaney",
     "Scot Millhollen",
-    "Sharon Alder",
     "Taylor Weaver"
   ]
 }

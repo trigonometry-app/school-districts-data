@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-10": "Mostly sunny, with a high near 66.",
     "2026-06-11": "Sunny, with a high near 71.",
     "2026-06-12": "Sunny, with a high near 73.",
-    "2026-06-13": "Sunny, with a high near 78.",
-    "2026-06-14": "Sunny, with a high near 84.",
-    "2026-06-15": "Mostly sunny, with a high near 88.",
-    "2026-06-16": "Sunny, with a high near 82."
+    "2026-06-13": "Sunny, with a high near 80.",
+    "2026-06-14": "Sunny, with a high near 87.",
+    "2026-06-15": "Mostly sunny, with a high near 90.",
+    "2026-06-16": "Sunny, with a high near 82.",
+    "2026-06-17": "Mostly sunny, with a high near 75."
   },
   "meals": {
     "1% White Milk": {
@@ -967,7 +967,5 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": [
-    "Zachary Seay"
-  ]
+  "subs": []
 }
