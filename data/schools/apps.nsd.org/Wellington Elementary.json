@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-12": "Sunny, with a high near 73.",
-    "2026-06-13": "Sunny, with a high near 81.",
-    "2026-06-14": "Sunny, with a high near 88.",
-    "2026-06-15": "Partly sunny, with a high near 89.",
+    "2026-06-13": "Sunny, with a high near 79.",
+    "2026-06-14": "Mostly sunny, with a high near 88.",
+    "2026-06-15": "Mostly sunny, with a high near 89.",
     "2026-06-16": "Mostly sunny, with a high near 78.",
     "2026-06-17": "Sunny, with a high near 75.",
-    "2026-06-18": "Mostly sunny, with a high near 76."
+    "2026-06-18": "Sunny, with a high near 77.",
+    "2026-06-19": "Mostly sunny, with a high near 78."
   },
   "meals": {
     "1% White Milk": {
@@ -967,9 +967,5 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": [
-    "Lacey Ott",
-    "Nicole Lamba",
-    "Pamela (Staff) Otto"
-  ]
+  "subs": []
 }
