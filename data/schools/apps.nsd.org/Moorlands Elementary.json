@@ -1,7 +1,7 @@
 {
   "weather": {
     "2026-06-15": "Partly sunny. High near 91, with temperatures falling to around 89 in the afternoon.",
-    "2026-06-16": "Mostly sunny, with a high near 77.",
+    "2026-06-16": "Mostly sunny. High near 77, with temperatures falling to around 73 in the afternoon.",
     "2026-06-17": "Sunny, with a high near 76.",
     "2026-06-18": "Sunny, with a high near 79.",
     "2026-06-19": "Mostly sunny, with a high near 83.",
@@ -967,5 +967,10 @@
     "Yogurt Lunch with Mini French Toast",
     "Yogurt Lunch with Puffed Pancake Bites"
   ],
-  "subs": []
+  "subs": [
+    "Amy Stewart",
+    "Christine (Staff) Hammers",
+    "Janine Knappe",
+    "Milton Miller"
+  ]
 }
