@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-15": "Mostly cloudy. High near 89, with temperatures falling to around 86 in the afternoon.",
     "2026-06-16": "Mostly sunny. High near 73, with temperatures falling to around 70 in the afternoon.",
     "2026-06-17": "Sunny, with a high near 74.",
-    "2026-06-18": "Sunny, with a high near 78.",
-    "2026-06-19": "Sunny, with a high near 83.",
-    "2026-06-20": "Sunny, with a high near 80.",
-    "2026-06-21": "Sunny, with a high near 80."
+    "2026-06-18": "Sunny, with a high near 77.",
+    "2026-06-19": "Sunny, with a high near 80.",
+    "2026-06-20": "Sunny, with a high near 76.",
+    "2026-06-21": "Sunny, with a high near 78.",
+    "2026-06-22": "Sunny, with a high near 83."
   },
   "meals": {
     "1% White Milk": {
@@ -1759,11 +1759,9 @@
     "Wild Alaska Fish Tacos"
   ],
   "subs": [
-    "Ashley Lovern",
-    "Christina Griffin",
     "Johnny Ho",
-    "Kylie Welcome",
     "Matt Wallace",
-    "Susan Tan"
+    "Stephanie Marshall",
+    "Tyler Bowers"
   ]
 }

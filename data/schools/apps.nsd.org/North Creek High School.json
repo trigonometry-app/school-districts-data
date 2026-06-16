@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-15": "Partly sunny. High near 90, with temperatures falling to around 87 in the afternoon.",
-    "2026-06-16": "Mostly sunny. High near 74, with temperatures falling to around 71 in the afternoon.",
+    "2026-06-16": "Mostly sunny. High near 74, with temperatures falling to around 70 in the afternoon.",
     "2026-06-17": "Sunny, with a high near 75.",
     "2026-06-18": "Sunny, with a high near 77.",
-    "2026-06-19": "Mostly sunny, with a high near 83.",
-    "2026-06-20": "Sunny, with a high near 81.",
-    "2026-06-21": "Sunny, with a high near 81."
+    "2026-06-19": "Sunny, with a high near 80.",
+    "2026-06-20": "Sunny, with a high near 77.",
+    "2026-06-21": "Sunny, with a high near 78.",
+    "2026-06-22": "Sunny, with a high near 83."
   },
   "meals": {
     "1% White Milk": {
@@ -1823,13 +1823,10 @@
     "Wild Alaska Fish Tacos"
   ],
   "subs": [
-    "Catherine Christensen",
-    "Christopher Harrison",
-    "Dhanya Regith",
     "Emily Ponten",
-    "Hannah Bellinger",
     "Katrina Michel",
     "Naudia Bosch",
+    "Sudha Pande",
     "Thomas Olsen"
   ]
 }

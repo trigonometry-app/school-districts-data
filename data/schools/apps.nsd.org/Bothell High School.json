@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-15": "Partly sunny. High near 92, with temperatures falling to around 89 in the afternoon.",
     "2026-06-16": "Mostly sunny. High near 76, with temperatures falling to around 72 in the afternoon.",
     "2026-06-17": "Sunny, with a high near 76.",
-    "2026-06-18": "Sunny, with a high near 79.",
-    "2026-06-19": "Sunny, with a high near 84.",
-    "2026-06-20": "Sunny, with a high near 83.",
-    "2026-06-21": "Sunny, with a high near 83."
+    "2026-06-18": "Sunny, with a high near 78.",
+    "2026-06-19": "Mostly sunny, with a high near 81.",
+    "2026-06-20": "Sunny, with a high near 78.",
+    "2026-06-21": "Sunny, with a high near 79.",
+    "2026-06-22": "Sunny, with a high near 84."
   },
   "meals": {
     "1% White Milk": {
@@ -1825,14 +1825,11 @@
   "subs": [
     "Abril Munoz",
     "Alexander Zahajko",
-    "Carolyn Urrutia",
-    "Geoff Weatherbie",
-    "Jennifer Leland",
-    "Kathryn (Staff) Varvarigos",
-    "Kathryn Crowe",
+    "Beth Rosin",
     "Marina Manhary",
-    "Mark Erickson",
+    "Nicole (Staff) Brenengen",
     "Sara Collett",
-    "Zane Romanek"
+    "Thulasi Samy",
+    "Todd Fredrickson"
   ]
 }
