@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-16": "Mostly sunny. High near 76, with temperatures falling to around 72 in the afternoon.",
-    "2026-06-17": "Sunny. High near 76, with temperatures falling to around 74 in the afternoon.",
-    "2026-06-18": "Sunny, with a high near 78.",
-    "2026-06-19": "Mostly sunny, with a high near 81.",
-    "2026-06-20": "Sunny, with a high near 78.",
-    "2026-06-21": "Sunny, with a high near 79.",
-    "2026-06-22": "Sunny, with a high near 84."
+    "2026-06-17": "Sunny, with a high near 76.",
+    "2026-06-18": "Sunny, with a high near 79.",
+    "2026-06-19": "Mostly sunny, with a high near 85.",
+    "2026-06-20": "Sunny, with a high near 79.",
+    "2026-06-21": "Sunny, with a high near 82.",
+    "2026-06-22": "Sunny, with a high near 87.",
+    "2026-06-23": "Mostly sunny, with a high near 89."
   },
   "meals": {
     "1% White Milk": {
@@ -1758,10 +1758,5 @@
     "Wild Alaska Fish Burger",
     "Wild Alaska Fish Tacos"
   ],
-  "subs": [
-    "Bridget Taylor",
-    "Heidi Jensen",
-    "Katie (Staff) Boettcher",
-    "Rebecca Baunsgard"
-  ]
+  "subs": []
 }

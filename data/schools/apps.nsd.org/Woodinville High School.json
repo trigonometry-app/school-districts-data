@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-16": "Mostly sunny. High near 75, with temperatures falling to around 72 in the afternoon.",
-    "2026-06-17": "Mostly sunny, with a high near 76.",
+    "2026-06-17": "Sunny, with a high near 76.",
     "2026-06-18": "Sunny, with a high near 79.",
-    "2026-06-19": "Mostly sunny, with a high near 81.",
-    "2026-06-20": "Sunny, with a high near 78.",
-    "2026-06-21": "Sunny, with a high near 79.",
-    "2026-06-22": "Sunny, with a high near 84."
+    "2026-06-19": "Mostly sunny, with a high near 84.",
+    "2026-06-20": "Sunny, with a high near 79.",
+    "2026-06-21": "Sunny, with a high near 81.",
+    "2026-06-22": "Sunny, with a high near 87.",
+    "2026-06-23": "Mostly sunny, with a high near 89."
   },
   "meals": {
     "1% White Milk": {
@@ -1823,20 +1823,8 @@
     "Wild Alaska Fish Tacos"
   ],
   "subs": [
-    "Aaron Tennis",
     "Andrea (Staff) Baleva",
-    "Anna Leesa Ronge",
-    "Audrey Woodard",
-    "Coby Ronn R. Dilling",
-    "Erik Daviscourt",
-    "Heidi Lundberg",
-    "Jean Lee",
-    "Julie (Staff) Leong",
-    "Leah Hainey",
-    "Michael Antley",
-    "Natalie Guinasso",
-    "Paul Mulvaney",
-    "Tammy Sagastizado",
+    "Nathan C. Davis",
     "Taylor Weaver"
   ]
 }

@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-16": "Sunny. High near 75, with temperatures falling to around 71 in the afternoon.",
-    "2026-06-17": "Mostly sunny. High near 75, with temperatures falling to around 73 in the afternoon.",
+    "2026-06-17": "Sunny, with a high near 76.",
     "2026-06-18": "Sunny, with a high near 78.",
-    "2026-06-19": "Mostly sunny, with a high near 81.",
+    "2026-06-19": "Mostly sunny, with a high near 84.",
     "2026-06-20": "Sunny, with a high near 78.",
-    "2026-06-21": "Sunny, with a high near 78.",
-    "2026-06-22": "Sunny, with a high near 84."
+    "2026-06-21": "Sunny, with a high near 81.",
+    "2026-06-22": "Sunny, with a high near 86.",
+    "2026-06-23": "Mostly sunny, with a high near 88."
   },
   "meals": {
     "1% White Milk": {
@@ -1759,9 +1759,8 @@
     "Wild Alaska Fish Tacos"
   ],
   "subs": [
-    "Bret Geller",
-    "Erin Gonzales",
-    "Kristie McMahon",
-    "Victoria (Staff) Madsen"
+    "Cindy Klemczyk",
+    "Jon Bahr",
+    "Kristie McMahon"
   ]
 }
