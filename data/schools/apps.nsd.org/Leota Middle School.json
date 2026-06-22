@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-21": "Sunny. High near 79, with temperatures falling to around 77 in the afternoon.",
-    "2026-06-22": "Sunny, with a high near 85.",
-    "2026-06-23": "Mostly sunny, with a high near 89.",
+    "2026-06-22": "Sunny. High near 84, with temperatures falling to around 82 in the afternoon.",
+    "2026-06-23": "Mostly sunny, with a high near 88.",
     "2026-06-24": "Mostly sunny, with a high near 89.",
-    "2026-06-25": "A chance of rain after 5pm. Mostly cloudy, with a high near 74.",
-    "2026-06-26": "Rain. Cloudy, with a high near 65.",
-    "2026-06-27": "Rain. Mostly cloudy, with a high near 67."
+    "2026-06-25": "A chance of rain after 5pm. Partly sunny, with a high near 74.",
+    "2026-06-26": "Rain. Cloudy, with a high near 63.",
+    "2026-06-27": "Rain. Mostly cloudy, with a high near 63.",
+    "2026-06-28": "A slight chance of rain. Partly sunny, with a high near 67."
   },
   "meals": {
     "1% White Milk": {
