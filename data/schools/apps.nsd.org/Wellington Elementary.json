@@ -1,12 +1,12 @@
 {
   "weather": {
-    "2026-06-25": "A slight chance of rain after 5pm. Cloudy. High near 70, with temperatures falling to around 68 in the afternoon. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
-    "2026-06-26": "Rain likely before 11am, then a chance of showers and thunderstorms between 11am and 2pm, then a chance of rain. Mostly cloudy, with a high near 67. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible.",
-    "2026-06-27": "Rain likely. Mostly cloudy, with a high near 66. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
-    "2026-06-28": "A slight chance of rain. Mostly cloudy, with a high near 65.",
-    "2026-06-29": "A slight chance of rain. Mostly cloudy, with a high near 65.",
-    "2026-06-30": "A chance of rain. Mostly cloudy, with a high near 65.",
-    "2026-07-01": "A slight chance of rain. Mostly cloudy, with a high near 66."
+    "2026-06-26": "Rain likely before 11am, then a chance of showers and thunderstorms between 11am and 4pm, then a slight chance of showers and thunderstorms between 4pm and 5pm, then a chance of showers and thunderstorms. Partly sunny. High near 67, with temperatures falling to around 65 in the afternoon. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
+    "2026-06-27": "A chance of rain before noon. Partly sunny, with a high near 66. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
+    "2026-06-28": "A chance of rain. Mostly cloudy, with a high near 66. Chance of precipitation is 30%.",
+    "2026-06-29": "A slight chance of rain. Mostly cloudy, with a high near 66.",
+    "2026-06-30": "A slight chance of rain. Mostly cloudy, with a high near 65.",
+    "2026-07-01": "A slight chance of rain after 5pm. Mostly cloudy, with a high near 66.",
+    "2026-07-02": "A chance of rain. Partly sunny, with a high near 68."
   },
   "meals": {
     "1% White Milk": {
